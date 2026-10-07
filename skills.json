@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T02:59:17.738Z",
+  "updated_at": "2026-10-07T02:59:24.094Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -64,14 +64,14 @@
       "updated_at": "2026-10-07T02:49:34.932Z"
     },
     {
-      "id": "systematic_debugger",
-      "name": "systematic_debugger",
+      "id": "empirical_verifier",
+      "name": "empirical_verifier",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for root cause tracing, isolated feedback loops, and zero-symptom-patching debugging",
+      "description": "Sovereign runbook for physical terminal evidence verification, Exit Code 0 enforcement, and zero-overclaim validation",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T02:59:17.738Z"
+      "updated_at": "2026-10-07T02:59:24.094Z"
     }
   ]
 }
