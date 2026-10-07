@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:41:33.103Z",
+  "updated_at": "2026-10-07T03:50:33.767Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -112,6 +112,16 @@
       "category": "General",
       "icon": "🧠",
       "updated_at": "2026-10-07T03:41:33.103Z"
+    },
+    {
+      "id": "lyric_mv_director",
+      "name": "lyric_mv_director",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for automated beat-locked lyric videos, kinetic typography animations, LRC timestamp synchronization, and canvas rendering",
+      "category": "General",
+      "icon": "🧠",
+      "updated_at": "2026-10-07T03:50:33.767Z"
     }
   ]
 }
