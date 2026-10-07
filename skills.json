@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T02:49:24.436Z",
+  "updated_at": "2026-10-07T02:49:29.619Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -54,14 +54,14 @@
       "updated_at": "2026-10-07T08:30:00.000Z"
     },
     {
-      "id": "surgical_engineer",
-      "name": "surgical_engineer",
+      "id": "autonomous_loop_runner",
+      "name": "autonomous_loop_runner",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for surgical precision coding, zero-bloat nano-modularity, anti-hallucination, and Karpathy minimalist implementation law",
+      "description": "Sovereign runbook for goal-driven autonomous task execution, circuit-breaker loops, state checkpointing, and regression defense",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T02:49:24.436Z"
+      "updated_at": "2026-10-07T02:49:29.619Z"
     }
   ]
 }
