@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:28:23.214Z",
+  "updated_at": "2026-10-07T08:28:30.071Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1433,14 +1433,14 @@
       "updated_at": "2026-10-07T05:47:39.346Z"
     },
     {
-      "id": "docker_container_shipwright",
-      "name": "docker_container_shipwright",
+      "id": "api_contract_architect",
+      "name": "api_contract_architect",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for multi-stage Docker builds, rootless container security, compose orchestration, and zero-leak deployment",
+      "description": "Sovereign runbook for OpenAPI 3.1 specifications, strict JSON Schema validation, mock server generation, and breaking change prevention",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T08:28:23.214Z"
+      "updated_at": "2026-10-07T08:28:30.071Z"
     }
   ]
 }
