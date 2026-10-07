@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:20:36.415Z",
+  "updated_at": "2026-10-07T03:20:42.637Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -84,14 +84,14 @@
       "updated_at": "2026-10-07T03:12:16.355Z"
     },
     {
-      "id": "distinctive_ui_stylist",
-      "name": "distinctive_ui_stylist",
+      "id": "deep_code_architect",
+      "name": "deep_code_architect",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for distinctive purposeful UI design, typography scales, anti-AI-slop layout, and visual hierarchy",
+      "description": "Sovereign runbook for designing deep modules with small interfaces, locality, high leverage, and clean seams",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:20:36.415Z"
+      "updated_at": "2026-10-07T03:20:42.637Z"
     }
   ]
 }
