@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-10-07T00:45:00.000Z",
+  "repo": "flowork-os/FLOWORK-SKILLS",
+  "skills": [
+    {
+      "id": "plugin_architect",
+      "name": "Flowork Plugin Architect",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for creating, modifying, and refactoring Flowork OS plugins with nano-modular standards",
+      "category": "Architecture & System",
+      "icon": "🔌",
+      "updated_at": "2026-10-07T00:45:00.000Z"
+    }
+  ]
+}
