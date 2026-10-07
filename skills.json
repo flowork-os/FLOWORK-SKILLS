@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:48:47.718Z",
+  "updated_at": "2026-10-07T08:48:55.657Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1399,14 +1399,14 @@
       "updated_at": "2026-10-07T08:29:06.149Z"
     },
     {
-      "id": "protocol_reverse_engineer",
-      "name": "protocol_reverse_engineer",
+      "id": "fuzz_testing_harness",
+      "name": "fuzz_testing_harness",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for network wire protocol reverse engineering, packet schema recovery, clean-room IPC reconstruction, and interoperability design",
+      "description": "Sovereign runbook for coverage-guided fuzz testing, automated bug hunting, crash reproduction, memory safety validation, and corpus management",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T08:48:47.718Z"
+      "updated_at": "2026-10-07T08:48:55.657Z"
     }
   ]
 }
