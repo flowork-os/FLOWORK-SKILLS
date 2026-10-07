@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:28:52.466Z",
+  "updated_at": "2026-10-07T08:28:58.992Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1433,14 +1433,14 @@
       "updated_at": "2026-10-07T05:47:39.346Z"
     },
     {
-      "id": "rag_vector_curator",
-      "name": "rag_vector_curator",
+      "id": "git_conflict_resolver",
+      "name": "git_conflict_resolver",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for document chunking strategies, embedding pipeline optimization, hybrid BM25 vector search, and reranking calibration",
+      "description": "Sovereign runbook for multi-branch git merge conflict resolution, interactive rebase, git bisect regression hunting, and tree integrity",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T08:28:52.466Z"
+      "updated_at": "2026-10-07T08:28:58.992Z"
     }
   ]
 }
