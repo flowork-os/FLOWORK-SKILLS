@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:28:36.464Z",
+  "updated_at": "2026-10-07T08:28:43.915Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1433,14 +1433,14 @@
       "updated_at": "2026-10-07T05:47:39.346Z"
     },
     {
-      "id": "prompt_defense_architect",
-      "name": "prompt_defense_architect",
+      "id": "network_traffic_sentinel",
+      "name": "network_traffic_sentinel",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for metaprompt security auditing, indirect prompt injection defense, structured output enforcement, and anti-jailbreak hardening",
+      "description": "Sovereign runbook for network traffic analysis, packet/TLS handshakes, open port auditing, reverse proxy tuning, and connection diagnostics",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T08:28:36.464Z"
+      "updated_at": "2026-10-07T08:28:43.915Z"
     }
   ]
 }
