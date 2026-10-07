@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:36:07.934Z",
+  "updated_at": "2026-10-07T08:36:13.598Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1443,14 +1443,14 @@
       "updated_at": "2026-10-07T08:29:06.149Z"
     },
     {
-      "id": "llm_token_optimizer",
-      "name": "llm_token_optimizer",
+      "id": "network_packet_analyst",
+      "name": "network_packet_analyst",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for LLM token budget management, prompt compression, context window pruning, semantic prompt caching, and structured JSON outputs",
+      "description": "Sovereign runbook for low-level network packet analysis, tcpdump captures, socket inspection, DNS resolution triage, and TLS handshake auditing",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T08:36:07.934Z"
+      "updated_at": "2026-10-07T08:36:13.598Z"
     }
   ]
 }
