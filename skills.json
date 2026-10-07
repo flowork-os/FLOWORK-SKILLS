@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:36:43.198Z",
+  "updated_at": "2026-10-07T08:36:51.166Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1443,14 +1443,14 @@
       "updated_at": "2026-10-07T08:29:06.149Z"
     },
     {
-      "id": "docker_container_deployer",
-      "name": "docker_container_deployer",
+      "id": "embedding_vector_librarian",
+      "name": "embedding_vector_librarian",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for Docker multi-stage containerization, Compose orchestration, volume lifecycle, and rootless security hardening",
+      "description": "Sovereign runbook for local vector database management, cosine similarity retrieval, semantic chunk overlap indexing, and embedding deduplication",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T08:36:43.198Z"
+      "updated_at": "2026-10-07T08:36:51.166Z"
     }
   ]
 }
