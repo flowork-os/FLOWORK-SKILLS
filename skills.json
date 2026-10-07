@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:10:40.392Z",
+  "updated_at": "2026-10-07T03:10:45.594Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -74,14 +74,14 @@
       "updated_at": "2026-10-07T02:59:35.680Z"
     },
     {
-      "id": "background_task_dispatcher",
-      "name": "background_task_dispatcher",
+      "id": "subagent_task_delegator",
+      "name": "subagent_task_delegator",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for dispatching, monitoring, and supervising long-running background tasks",
+      "description": "Sovereign runbook for dispatching specialized subagents with isolated context and strict delegation boundaries",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:10:40.392Z"
+      "updated_at": "2026-10-07T03:10:45.594Z"
     }
   ]
 }
