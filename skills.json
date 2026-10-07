@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:28:30.071Z",
+  "updated_at": "2026-10-07T08:28:36.464Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1433,14 +1433,14 @@
       "updated_at": "2026-10-07T05:47:39.346Z"
     },
     {
-      "id": "api_contract_architect",
-      "name": "api_contract_architect",
+      "id": "prompt_defense_architect",
+      "name": "prompt_defense_architect",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for OpenAPI 3.1 specifications, strict JSON Schema validation, mock server generation, and breaking change prevention",
+      "description": "Sovereign runbook for metaprompt security auditing, indirect prompt injection defense, structured output enforcement, and anti-jailbreak hardening",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T08:28:30.071Z"
+      "updated_at": "2026-10-07T08:28:36.464Z"
     }
   ]
 }
