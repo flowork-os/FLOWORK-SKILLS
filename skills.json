@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:10:34.415Z",
+  "updated_at": "2026-10-07T03:10:40.392Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -74,14 +74,14 @@
       "updated_at": "2026-10-07T02:59:35.680Z"
     },
     {
-      "id": "cron_cadence_operator",
-      "name": "cron_cadence_operator",
+      "id": "background_task_dispatcher",
+      "name": "background_task_dispatcher",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for precision cron jobs, timer scheduling, and non-blocking recurring workflows",
+      "description": "Sovereign runbook for dispatching, monitoring, and supervising long-running background tasks",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:10:34.415Z"
+      "updated_at": "2026-10-07T03:10:40.392Z"
     }
   ]
 }
