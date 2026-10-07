@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:30:00.000Z",
+  "updated_at": "2026-10-07T02:49:24.436Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -52,6 +52,16 @@
       "category": "Swarm & Agentic",
       "icon": "🐝",
       "updated_at": "2026-10-07T08:30:00.000Z"
+    },
+    {
+      "id": "surgical_engineer",
+      "name": "surgical_engineer",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for surgical precision coding, zero-bloat nano-modularity, anti-hallucination, and Karpathy minimalist implementation law",
+      "category": "General",
+      "icon": "🧠",
+      "updated_at": "2026-10-07T02:49:24.436Z"
     }
   ]
 }
