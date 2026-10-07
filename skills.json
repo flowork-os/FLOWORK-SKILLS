@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:49:18.217Z",
+  "updated_at": "2026-10-07T08:58:52.172Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1407,6 +1407,16 @@
       "category": "General",
       "icon": "🧠",
       "updated_at": "2026-10-07T08:49:18.217Z"
+    },
+    {
+      "id": "test-superadmin",
+      "name": "test-superadmin",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "",
+      "category": "General",
+      "icon": "🧠",
+      "updated_at": "2026-10-07T08:58:52.172Z"
     }
   ]
 }
