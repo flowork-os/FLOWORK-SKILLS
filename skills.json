@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T05:47:32.255Z",
+  "updated_at": "2026-10-07T05:47:39.346Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1421,6 +1421,16 @@
       "category": "General",
       "icon": "🧠",
       "updated_at": "2026-10-07T05:47:32.255Z"
+    },
+    {
+      "id": "network_pentest_recon",
+      "name": "network_pentest_recon",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for ethical network reconnaissance, defensive port footprinting, HTTP security header auditing, CORS probing, and SSRF detection",
+      "category": "General",
+      "icon": "🧠",
+      "updated_at": "2026-10-07T05:47:39.346Z"
     }
   ]
 }
