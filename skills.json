@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T17:32:27.128Z",
+  "updated_at": "2026-10-07T17:32:47.701Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1426,7 +1426,7 @@
       "description": "Sovereign runbook for multi-target reverse engineering, decompilation, binary inspection, and clean-room reconstruction across native binaries, Electron/ASAR, APK, and managed code",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T17:32:27.128Z"
+      "updated_at": "2026-10-07T17:32:47.701Z"
     }
   ]
 }
