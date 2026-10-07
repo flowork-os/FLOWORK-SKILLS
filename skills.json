@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T05:47:39.346Z",
+  "updated_at": "2026-10-07T08:28:23.214Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1431,6 +1431,16 @@
       "category": "General",
       "icon": "🧠",
       "updated_at": "2026-10-07T05:47:39.346Z"
+    },
+    {
+      "id": "docker_container_shipwright",
+      "name": "docker_container_shipwright",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for multi-stage Docker builds, rootless container security, compose orchestration, and zero-leak deployment",
+      "category": "General",
+      "icon": "🧠",
+      "updated_at": "2026-10-07T08:28:23.214Z"
     }
   ]
 }
