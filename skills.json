@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T05:46:39.503Z",
+  "updated_at": "2026-10-07T05:46:44.639Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1413,14 +1413,14 @@
       "updated_at": "2026-10-07T04:21:20.000Z"
     },
     {
-      "id": "k8s_cluster_commander",
-      "name": "k8s_cluster_commander",
+      "id": "cloud_infra_provisioner",
+      "name": "cloud_infra_provisioner",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for Kubernetes manifest orchestration, Pod lifecycle, Ingress routing, Helm charts, and cluster resource scaling",
+      "description": "Sovereign runbook for Terraform and OpenTofu infrastructure as code, immutable cloud state, modular provisioning, and zero-drift deployments",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T05:46:39.503Z"
+      "updated_at": "2026-10-07T05:46:44.639Z"
     }
   ]
 }
