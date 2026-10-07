@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:31:49.853Z",
+  "updated_at": "2026-10-07T03:31:55.996Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -94,14 +94,14 @@
       "updated_at": "2026-10-07T03:20:49.605Z"
     },
     {
-      "id": "sqlite_vault_migrator",
-      "name": "sqlite_vault_migrator",
+      "id": "performance_profiler",
+      "name": "performance_profiler",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for zero-data-loss SQLite schema migrations, WAL mode concurrency, and IPC state persistence",
+      "description": "Sovereign runbook for detecting memory leaks, CPU thread bottlenecks, and empirical optimization loops",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:31:49.853Z"
+      "updated_at": "2026-10-07T03:31:55.996Z"
     }
   ]
 }
