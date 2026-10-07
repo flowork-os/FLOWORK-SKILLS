@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T05:46:56.164Z",
+  "updated_at": "2026-10-07T05:47:03.423Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1413,14 +1413,14 @@
       "updated_at": "2026-10-07T04:21:20.000Z"
     },
     {
-      "id": "network_packet_analyst",
-      "name": "network_packet_analyst",
+      "id": "api_gateway_integrator",
+      "name": "api_gateway_integrator",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for low-level network packet analysis, tcpdump captures, socket inspection, DNS resolution triage, and TLS handshake auditing",
+      "description": "Sovereign runbook for RESTful and gRPC API contract design, Bearer auth validation, rate limiting token bucket algorithms, and resilient webhook retries",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T05:46:56.164Z"
+      "updated_at": "2026-10-07T05:47:03.423Z"
     }
   ]
 }
