@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:11:31.842Z",
+  "updated_at": "2026-10-07T03:11:37.781Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -74,14 +74,14 @@
       "updated_at": "2026-10-07T02:59:35.680Z"
     },
     {
-      "id": "web_deep_scraper",
-      "name": "web_deep_scraper",
+      "id": "web_intelligence_hunter",
+      "name": "web_intelligence_hunter",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for extracting, sanitizing, and distilling external web pages into clean markdown",
+      "description": "Sovereign runbook for precision technical search queries, source triangulation, and documentation discovery",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:11:31.842Z"
+      "updated_at": "2026-10-07T03:11:37.781Z"
     }
   ]
 }
