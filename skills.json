@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:11:56.415Z",
+  "updated_at": "2026-10-07T03:12:02.930Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -74,14 +74,14 @@
       "updated_at": "2026-10-07T02:59:35.680Z"
     },
     {
-      "id": "chat_media_broadcaster",
-      "name": "chat_media_broadcaster",
+      "id": "system_vitals_auditor",
+      "name": "system_vitals_auditor",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for dispatching rich media, HTML5 video previews, and interactive artifacts to canvas chat",
+      "description": "Sovereign runbook for inspecting host metrics, RAM/CPU load, disk capacity, and listening network ports",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:11:56.415Z"
+      "updated_at": "2026-10-07T03:12:02.930Z"
     }
   ]
 }
