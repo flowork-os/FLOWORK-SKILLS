@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:20:28.941Z",
+  "updated_at": "2026-10-07T03:20:36.415Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -84,14 +84,14 @@
       "updated_at": "2026-10-07T03:12:16.355Z"
     },
     {
-      "id": "canvas_theme_architect",
-      "name": "canvas_theme_architect",
+      "id": "distinctive_ui_stylist",
+      "name": "distinctive_ui_stylist",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for crafting Dark Slate/Cyan design systems, tokenized themes, and 100% English Canvas ergonomics",
+      "description": "Sovereign runbook for distinctive purposeful UI design, typography scales, anti-AI-slop layout, and visual hierarchy",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:20:28.941Z"
+      "updated_at": "2026-10-07T03:20:36.415Z"
     }
   ]
 }
