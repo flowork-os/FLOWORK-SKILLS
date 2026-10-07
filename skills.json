@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:50:48.203Z",
+  "updated_at": "2026-10-07T03:50:54.293Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -114,14 +114,14 @@
       "updated_at": "2026-10-07T03:41:33.103Z"
     },
     {
-      "id": "beat_synced_video_director",
-      "name": "beat_synced_video_director",
+      "id": "audio_dsp_mixing_master",
+      "name": "audio_dsp_mixing_master",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for beat-synced visual prompts, high-retention 2-second hook framework, bass-drop visual explosions, and rhythm choreography",
+      "description": "Sovereign runbook for digital audio processing, LUFS loudness compliance, EQ frequency carving, multi-band dynamics, and clean master output",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:50:48.203Z"
+      "updated_at": "2026-10-07T03:50:54.293Z"
     }
   ]
 }
