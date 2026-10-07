@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:42:13.680Z",
+  "updated_at": "2026-10-07T08:48:47.718Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1397,6 +1397,16 @@
       "category": "General",
       "icon": "🧠",
       "updated_at": "2026-10-07T08:29:06.149Z"
+    },
+    {
+      "id": "protocol_reverse_engineer",
+      "name": "protocol_reverse_engineer",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for network wire protocol reverse engineering, packet schema recovery, clean-room IPC reconstruction, and interoperability design",
+      "category": "General",
+      "icon": "🧠",
+      "updated_at": "2026-10-07T08:48:47.718Z"
     }
   ]
 }
