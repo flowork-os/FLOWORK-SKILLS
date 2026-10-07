@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:11:14.338Z",
+  "updated_at": "2026-10-07T03:11:24.984Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -74,14 +74,14 @@
       "updated_at": "2026-10-07T02:59:35.680Z"
     },
     {
-      "id": "swarm_fleet_controller",
-      "name": "swarm_fleet_controller",
+      "id": "agent_mesh_communicator",
+      "name": "agent_mesh_communicator",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for monitoring, cancelling, and reconciling multi-agent concurrent swarms",
+      "description": "Sovereign runbook for peer-to-peer message routing and synchronization across active agent workers",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:11:14.338Z"
+      "updated_at": "2026-10-07T03:11:24.984Z"
     }
   ]
 }
