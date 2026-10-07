@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:49:03.504Z",
+  "updated_at": "2026-10-07T08:49:11.549Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1399,14 +1399,14 @@
       "updated_at": "2026-10-07T08:29:06.149Z"
     },
     {
-      "id": "sast_rule_craftsman",
-      "name": "sast_rule_craftsman",
+      "id": "web_appsec_auditor",
+      "name": "web_appsec_auditor",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for authoring SAST detection rules, AST semantic pattern matching, taint tracking, and eliminating false positives in source code audits",
+      "description": "Sovereign runbook for OWASP Top 10 web application security auditing, security headers hardening, access control review, and vulnerability mitigation",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T08:49:03.504Z"
+      "updated_at": "2026-10-07T08:49:11.549Z"
     }
   ]
 }
