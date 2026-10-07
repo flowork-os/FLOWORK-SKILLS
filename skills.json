@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:29:06.149Z",
+  "updated_at": "2026-10-07T08:35:40.264Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1441,6 +1441,16 @@
       "category": "General",
       "icon": "🧠",
       "updated_at": "2026-10-07T08:29:06.149Z"
+    },
+    {
+      "id": "api_gateway_integrator",
+      "name": "api_gateway_integrator",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for RESTful and gRPC API contract design, Bearer auth validation, rate limiting token bucket algorithms, and resilient webhook retries",
+      "category": "General",
+      "icon": "🧠",
+      "updated_at": "2026-10-07T08:35:40.264Z"
     }
   ]
 }
