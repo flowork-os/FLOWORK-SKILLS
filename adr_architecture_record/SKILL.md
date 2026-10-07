@@ -1,6 +1,7 @@
 ---
 name: adr_architecture_record
 description: Sovereign runbook for documenting architectural decisions, sync FL_MIND.MD, and preventing architectural drift
+keywords: ["adr", "architecture decision record", "architectural decisions", "decision log", "system design record", "technical debt record", "design rationale", "architecture history", "fl_mind sync", "architecture drift", "software design document", "rfc proposal", "engineering decision", "system blueprint", "tech stack rationale", "tradeoff analysis", "design pattern selection", "legacy migration record", "consequence evaluation", "architectural governance"]
 ---
 # ⚙️ SKILL: ADR ARCHITECTURE RECORD & SACRED SYNC
 *Diadaptasi dari repositori dunia:* `affaan-m/ECC/skills/architecture-decision-records (274k★) & Michael Nygard Standard`

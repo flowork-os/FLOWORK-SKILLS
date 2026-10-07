@@ -1,6 +1,7 @@
 ---
 name: canvas_theme_architect
 description: Sovereign runbook for crafting Dark Slate/Cyan design systems, tokenized themes, and 100% English Canvas ergonomics
+keywords: ["canvas theme", "ui theme", "dark mode", "light mode", "color palette", "css variables", "theme switching", "color system", "design tokens", "contrast ratio", "accessibility colors", "theme provider", "accent colors", "semantic colors", "visual identity", "theme persistence", "typography scale", "shadow system", "ui skinning", "canvas aesthetic"]
 ---
 # 🎨 SKILL: CANVAS THEME ARCHITECT & DESIGN SYSTEM
 *Diadaptasi dari repositori dunia:* `affaan-m/ECC/skills/design-system (274k★) & Tailwind Design Tokens`

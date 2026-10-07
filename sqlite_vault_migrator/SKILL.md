@@ -1,6 +1,7 @@
 ---
 name: sqlite_vault_migrator
 description: Sovereign runbook for zero-data-loss SQLite schema migrations, WAL mode concurrency, and IPC state persistence
+keywords: ["sqlite migrator", "database migration", "schema migration", "sqlite vault", "data persistence", "sql table indexing", "database vacuum", "sqlite transactions", "wal mode", "relational database", "schema versioning", "foreign keys", "upsert operations", "sql query optimization", "database backup", "acid compliance", "sqlite connection pool", "local storage engine", "migration rollback", "database integrity check"]
 ---
 # ⚙️ SKILL: SQLITE VAULT MIGRATOR & IPC STATE SPECIALIST
 *Diadaptasi dari repositori dunia:* `affaan-m/ECC/skills/backend-patterns (274k★) & SQLite WAL Rigor`

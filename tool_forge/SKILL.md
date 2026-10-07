@@ -1,6 +1,7 @@
 ---
 name: tool_forge
 description: Sovereign runbook for designing, wrapping, and registering dynamic agent tools in Flowork OS
+keywords: ["tool forge", "tool creation", "tool_maker", "custom tool building", "manifest generation", "cli tool scaffolding", "executable tool design", "agent tool registry", "dynamic tool binding", "json schema tool", "terminal tool runner", "input schema definition", "tool output formatting", "tool authorization", "sandboxed tool", "tool contract", "agent tool expansion", "reusable tool script", "tool validation", "edge tool integration"]
 ---
 # ⚡ SKILL: TOOL FORGE (NATIVE AGENT TOOL MAKER)
 

@@ -1,6 +1,7 @@
 ---
 name: swarm_orchestrator
 description: Sovereign runbook for multi-agent delegation, role coordination, consensus protocol, and artifact aggregation
+keywords: ["swarm orchestrator", "coordinator agent", "workflow orchestration", "multi-agent pipeline", "subagent coordination", "swarm pipeline", "task federation", "master agent logic", "agent dependency graph", "choreography vs orchestration", "agent feedback loop", "multi-step swarm", "subagent aggregation", "consensus synthesis", "swarm execution plan", "orchestration engine", "agent mesh routing", "distributed task queue", "subagent error handling", "end-to-end swarm flow"]
 ---
 # 🐝 SKILL: SWARM ORCHESTRATOR (MULTI-AGENT WEAVER)
 

@@ -1,6 +1,7 @@
 ---
 name: pre_trade_discipline_gate
 description: Sovereign runbook for pre-trade checklist gating, revenge trade prevention, risk-reward verification, and offline execution rigor
+keywords: ["pre trade discipline", "trading gatekeeper", "risk reward ratio", "trade checklist", "emotional trading defense", "order execution gate", "trade validation", "fomo blocker", "position sizing checklist", "trading rules verification", "setup confirmation", "technical analysis gate", "risk parameters check", "stop loss mandatory", "trading journal precheck", "leverage constraint", "market condition filter", "disciplined entry", "trading plan compliance", "overtrading defense"]
 ---
 # 📊 SKILL: PRE-TRADE DISCIPLINE GATE & ORDER AUDITOR
 *Diadaptasi dari repositori dunia:* `tradermonty/claude-trading-skills/skills/pre-trade-discipline-gate`

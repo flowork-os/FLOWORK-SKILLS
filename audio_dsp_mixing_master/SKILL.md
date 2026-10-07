@@ -1,6 +1,7 @@
 ---
 name: audio_dsp_mixing_master
 description: Sovereign runbook for digital audio processing, LUFS loudness compliance, EQ frequency carving, multi-band dynamics, and clean master output
+keywords: ["audio dsp", "audio mixing", "mastering", "lufs", "equalizer", "compressor", "loudness normalization", "stem mastering", "frequency carving", "acoustic balance", "limiter", "audio processing", "gain staging", "clipping prevention", "stereo imaging", "spectral analysis", "dynamic range", "headroom management", "sound design", "audio filter"]
 ---
 # 🎵 SKILL: AUDIO DSP MIXING & MASTERING ENGINEER
 *Diadaptasi dari repositori dunia & standar industri audio-visual:* `EBU R128 / ITU-R BS.1770 Loudness Standards & Professional DAW DSP Pipelines`

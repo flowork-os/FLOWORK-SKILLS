@@ -1,6 +1,7 @@
 ---
 name: chat_media_broadcaster
 description: Sovereign runbook for dispatching rich media, HTML5 video previews, and interactive artifacts to canvas chat
+keywords: ["chat media", "media broadcast", "send_media", "inline image", "audio broadcast", "multimodal chat", "media streaming", "chat attachment", "canvas media", "rich messaging", "embedded player", "visual broadcast", "chat payload", "image preview", "waveform render", "audio player", "video player", "media pipeline", "interactive card", "multimodal ui"]
 ---
 # 🛠️ SKILL: CHAT MEDIA BROADCASTER & EMBED DISPATCHER
 *Diadaptasi untuk tool Flowork:* `send_media` | *Referensi:* ECC Content Engine & Media Streaming

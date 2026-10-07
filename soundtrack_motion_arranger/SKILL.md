@@ -1,6 +1,7 @@
 ---
 name: soundtrack_motion_arranger
 description: Sovereign runbook for BPM grid quantization, narrative mood transitions, stem layering, and dynamic sound design scoring
+keywords: ["soundtrack arranger", "audio motion sync", "dynamic score", "background music arrangement", "sound design", "foley audio", "audio ducking", "cinematic audio", "music transitions", "ambient soundscape", "scoring cue", "audio envelope", "volume automation", "motion accents", "video audio layering", "sound effects placement", "music mood mapping", "audio hit points", "dialogue clarity ducking", "soundtrack pacing"]
 ---
 # 🎵 SKILL: SOUNDTRACK MOTION ARRANGER & MOOD SCORER
 *Diadaptasi dari repositori dunia & standar industri audio-visual:* `Cinematic Scoring Principles & Adaptive Video Soundtrack Architecture`

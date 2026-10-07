@@ -1,6 +1,7 @@
 ---
 name: lyric_mv_director
 description: Sovereign runbook for automated beat-locked lyric videos, kinetic typography animations, LRC timestamp synchronization, and canvas rendering
+keywords: ["lyric video", "kinetic typography", "subtitles sync", "karaoke timing", "lyric animation", "timed text", "caption sync", "music video typography", "lrc parsing", "word by word sync", "subrip srt formatting", "motion text", "verse chorus timing", "audio lyric alignment", "vocal onset matching", "text reveal effects", "lyric visualizer", "rhythm typography", "video captions", "audio subtitle rendering"]
 ---
 # 🎵 SKILL: LYRIC MV DIRECTOR & KINETIC TYPOGRAPHY SPECIALIST
 *Diadaptasi dari repositori dunia & standar industri audio-visual:* `EGSECDA/vocaloid-style-mv-pipeline (Vocaloid / J-pop Lyric MV Engine)`

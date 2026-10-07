@@ -1,6 +1,7 @@
 ---
 name: visual_qc_inspector
 description: Sovereign runbook for physical UI desktop captures, visual defect diagnosis, and pixel evidence auditing
+keywords: ["visual qc", "visual inspection", "screenshot inspection", "pixel comparison", "ui visual check", "artifact verification", "visual layout audit", "design fidelity check", "screenshot diffing", "visual regression test", "component alignment audit", "contrast verification", "responsive layout qc", "ui element positioning", "canvas screenshot review", "visual defect detection", "rendering validation", "visual baseline comparison", "graphical qc proof", "optical verification"]
 ---
 # 🛠️ SKILL: VISUAL QC INSPECTOR & SCREENSHOT HARNESS
 *Diadaptasi untuk tool Flowork:* `screenshot` | *Referensi:* ECC Browser QA Visual Regression & Screen Capture

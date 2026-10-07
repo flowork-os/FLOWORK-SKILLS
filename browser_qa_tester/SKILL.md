@@ -1,6 +1,7 @@
 ---
 name: browser_qa_tester
 description: Sovereign runbook for Canvas UI end-to-end automation, IPC event verification, headless browser QA, and visual regression defense
+keywords: ["browser qa", "canvas ui testing", "headless browser", "puppeteer", "playwright", "e2e testing", "visual regression", "ui automation", "dom inspection", "click automation", "screenshot testing", "browser console errors", "network inspection", "form submission test", "element locator", "web regression", "integration testing", "session validation", "page load audit", "cross-browser testing"]
 ---
 # 🌐 SKILL: BROWSER QA TESTER & CANVAS HARNESS
 

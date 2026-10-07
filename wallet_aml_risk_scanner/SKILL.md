@@ -1,6 +1,7 @@
 ---
 name: wallet_aml_risk_scanner
 description: Sovereign runbook for multi-chain wallet risk scoring, AML screening, sanctioned entity/mixer tracing, and phishing drainer detection
+keywords: ["wallet aml", "aml risk scanner", "blockchain forensics", "tainted address", "crypto compliance", "on-chain tracking", "wallet transaction audit", "ofac sanctioned list", "mixer interaction scan", "tornado cash exposure", "suspicious fund flow", "crypto risk scoring", "know your transaction", "on-chain clustering", "illicit activity detection", "wallet counterparty risk", "forensic analysis crypto", "token flow tracing", "sanction screening", "crypto provenance"]
 ---
 # 📊 SKILL: WALLET AML RISK SCANNER & PHISHING DRAINER DETECTOR
 *Diadaptasi dari repositori dunia:* `Soniavasseur/Wallet-Risk-Scanner & Web3 Security Intelligence`

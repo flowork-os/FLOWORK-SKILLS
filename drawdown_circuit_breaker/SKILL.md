@@ -1,6 +1,7 @@
 ---
 name: drawdown_circuit_breaker
 description: Sovereign runbook for portfolio drawdown limits, streak cooldowns, daily loss caps, and capital preservation circuit breakers
+keywords: ["drawdown circuit breaker", "trading risk management", "stop loss", "portfolio protection", "max drawdown", "risk limits", "capital preservation", "position sizing", "margin call defense", "volatility halt", "equity curve filter", "daily loss limit", "trailing stop", "exposure control", "account ruin prevention", "risk per trade", "emergency liquidation", "kill switch trading", "var analysis", "disciplined exits"]
 ---
 # 📊 SKILL: DRAWDOWN CIRCUIT BREAKER & PORTFOLIO RISK CONTROLLER
 *Diadaptasi dari repositori dunia:* `tradermonty/claude-trading-skills/skills/drawdown-circuit-breaker`

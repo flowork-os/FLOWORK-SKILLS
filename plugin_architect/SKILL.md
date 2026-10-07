@@ -1,6 +1,7 @@
 ---
 name: plugin_architect
 description: Sovereign runbook for creating, modifying, and refactoring Flowork OS plugins
+keywords: ["plugin architect", "manifest.json", "canvas plugin", "plugin development", "micro frontend", "1-file-1-logic", "modular plugin", "plugin lifecycle", "plugin api", "canvas iframe", "plugin ipc", "plugin state management", "plugin configuration", "plugin scaffold", "portable plugin", "plugin ui", "plugin package", "plugin loader", "plugin manifest validation", "plugin distribution"]
 ---
 # 🔌 SKILL: FLOWORK OS PLUGIN ARCHITECT
 

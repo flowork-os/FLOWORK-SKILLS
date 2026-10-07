@@ -1,6 +1,7 @@
 ---
 name: git_release_sentinel
 description: Sovereign runbook for SemVer versioning, high-signal changelogs, and DLP pre-flight release rigor
+keywords: ["git release", "git tag", "release sentinel", "semver", "changelog generation", "version tagging", "git commit audit", "branch hygiene", "release notes", "git co-author", "semantic release", "tag verification", "push release", "conventional commits", "pull request audit", "release pipeline", "version bump", "git status check", "clean working tree", "deployment tagging"]
 ---
 # ⚙️ SKILL: GIT RELEASE SENTINEL & SEMVER AUDITOR
 *Diadaptasi dari repositori dunia:* `affaan-m/ECC & Conventional Commits Multi-OS Standards`

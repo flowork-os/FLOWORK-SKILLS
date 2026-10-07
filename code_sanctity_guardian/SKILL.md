@@ -1,6 +1,7 @@
 ---
 name: code_sanctity_guardian
 description: Sovereign runbook for locking, protecting, and safeguarding sacred code blocks against unintended mutations
+keywords: ["code sanctity", "lock protection", "immutable code", "protected lines", "tamper defense", "code integrity", "freeze block", "security guardrail", "lock annotation", "sanctity audit", "change barrier", "critical section", "syntax preservation", "zero rollback", "protected regions", "invariant guard", "code safety", "hash verification", "unauthorized edits", "defensive programming"]
 ---
 # 🛠️ SKILL: CODE SANCTITY GUARDIAN & LOCK RIGOR
 *Diadaptasi untuk tool Flowork:* `flow_lock` | *Referensi:* Superpowers Verification & Sovereign Immutability

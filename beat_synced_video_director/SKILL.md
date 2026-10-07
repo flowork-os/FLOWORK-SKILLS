@@ -1,6 +1,7 @@
 ---
 name: beat_synced_video_director
 description: Sovereign runbook for beat-synced visual prompts, high-retention 2-second hook framework, bass-drop visual explosions, and rhythm choreography
+keywords: ["beat sync", "music video", "video editing", "audio waveform sync", "rhythm cuts", "bpm sync", "beat tracking", "video montage", "tempo alignment", "onset detection", "audio-driven cuts", "timeline splicing", "music visualizer", "kinetic montage", "dynamic pacing", "drop synchronization", "scene transition", "frame timing", "audio reactive video", "video sequencing"]
 ---
 # 🎵 SKILL: BEAT-SYNCED VIDEO DIRECTOR & HOOK ARCHITECT
 *Diadaptasi dari repositori dunia & standar industri audio-visual:* `beshuaxian/higgsfield-seedance2-jineng (Seedance 2.0 Music Video Director Framework)`

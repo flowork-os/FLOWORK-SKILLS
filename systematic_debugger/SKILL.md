@@ -1,6 +1,7 @@
 ---
 name: systematic_debugger
 description: Sovereign runbook for root cause tracing, isolated feedback loops, and zero-symptom-patching debugging
+keywords: ["systematic debugger", "root cause analysis", "debugging", "stack trace analysis", "error tracing", "bug triage", "reproduction steps", "hypothesis testing", "scientific debugging", "log inspection", "breakpoint logic", "isolation testing", "failure state analysis", "edge case recreation", "bug verification", "call stack analysis", "fault localization", "defensive debugging", "regression diagnosis", "systematic isolation"]
 ---
 # 🔍 SKILL: SYSTEMATIC DEBUGGER & ROOT CAUSE TRACER
 

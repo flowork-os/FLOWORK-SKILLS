@@ -1,6 +1,7 @@
 ---
 name: distinctive_ui_stylist
 description: Sovereign runbook for distinctive purposeful UI design, typography scales, anti-AI-slop layout, and visual hierarchy
+keywords: ["distinctive ui", "ui stylist", "bespoke design", "custom typography", "editorial design", "canvas styling", "visual aesthetics", "unique layout", "typography hierarchy", "neo-brutalism", "glassmorphism", "visual personality", "creative direction", "canvas polish", "component craft", "responsive aesthetics", "design fidelity", "custom borders", "color harmonies", "premium feel"]
 ---
 # 🎨 SKILL: DISTINCTIVE UI STYLIST & ANTI-AI-SLOP DESIGNER
 *Diadaptasi dari repositori dunia:* `anthropics/skills/frontend-design & affaan-m/ECC/skills/frontend-design-direction`

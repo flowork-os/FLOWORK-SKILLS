@@ -1,6 +1,7 @@
 ---
 name: autonomous_loop_runner
 description: Sovereign runbook for goal-driven autonomous task execution, circuit-breaker loops, state checkpointing, and regression defense
+keywords: ["autonomous loop", "loop runner", "long-running task", "circuit breaker", "infinite loop defense", "state checkpointing", "task harness", "goal execution", "self-correcting loop", "autonomous agent", "step iteration", "runaway defense", "budget limit", "resilience loop", "convergence check", "feedback loop", "automated workflow", "recovery checkpoint", "task completion", "autonomous pipeline"]
 ---
 # 🔄 SKILL: AUTONOMOUS LOOP RUNNER & TASK HARNESS
 

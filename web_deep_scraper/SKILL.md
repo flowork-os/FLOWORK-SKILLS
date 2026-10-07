@@ -1,6 +1,7 @@
 ---
 name: web_deep_scraper
 description: Sovereign runbook for extracting, sanitizing, and distilling external web pages into clean markdown
+keywords: ["web deep scraper", "web scraping", "data extraction", "html parsing", "dom extraction", "web crawling", "content extraction", "http scraping", "pagination traversal", "css selectors", "xpath extraction", "structured data scraper", "dynamic content extraction", "anti-bot bypass", "rate limited scraping", "json extraction web", "markdown conversion", "web data pipeline", "headless scraping", "resilient crawler"]
 ---
 # 🛠️ SKILL: WEB DEEP SCRAPER & MARKDOWN EXTRACTOR
 *Diadaptasi untuk tool Flowork:* `read_url_content` | *Referensi:* ECC Deep Research & Firecrawl Web Scraper

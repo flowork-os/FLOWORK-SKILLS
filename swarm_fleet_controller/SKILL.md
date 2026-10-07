@@ -1,6 +1,7 @@
 ---
 name: swarm_fleet_controller
 description: Sovereign runbook for monitoring, cancelling, and reconciling multi-agent concurrent swarms
+keywords: ["swarm fleet", "fleet controller", "parallel subagents", "multi-agent swarm", "worker fleet", "distributed subagents", "swarm topology", "agent concurrency", "fleet monitoring", "agent health status", "swarm lifecycle", "multi-agent scaling", "worker pool management", "fleet supervisor", "inter-subagent bus", "swarm rate limiting", "collective intelligence", "agent heartbeat", "fleet kill switch", "swarm consensus"]
 ---
 # 🛠️ SKILL: SWARM FLEET CONTROLLER & WORKER SUPERVISOR
 *Diadaptasi untuk tool Flowork:* `manage_subagents` | *Referensi:* Superpowers Dispatching Parallel Agents

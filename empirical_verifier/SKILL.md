@@ -1,6 +1,7 @@
 ---
 name: empirical_verifier
 description: Sovereign runbook for physical terminal evidence verification, Exit Code 0 enforcement, and zero-overclaim validation
+keywords: ["empirical verifier", "terminal verification", "exit code 0", "test proof", "empirical evidence", "ground truth verification", "sanity check", "proof of execution", "reproducible results", "system audit", "runtime assertion", "error code verification", "deterministic testing", "output inspection", "validation pass", "zero guess assertion", "command exit code", "stdout inspection", "real world validation", "automated verification"]
 ---
 # ⚖️ SKILL: EMPIRICAL VERIFIER & PHYSICAL EVIDENCE DEFENDER
 

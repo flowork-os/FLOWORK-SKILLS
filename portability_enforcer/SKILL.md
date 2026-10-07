@@ -1,6 +1,7 @@
 ---
 name: portability_enforcer
 description: Sovereign runbook for cross-platform Multi-OS code normalization and zero-hardcoding enforcement
+keywords: ["portability enforcer", "multi-os portability", "cross platform", "flow_audit_portability", "zero hardcoded paths", "windows posix compatibility", "path normalization", "path separator", "environment variables", "filesystem neutrality", "portable home directory", "symlink handling", "os agnostic scripts", "newline carriage return", "shell abstraction", "cross compilation", "portable architecture", "multi-platform testing", "relative path enforcement", "portable runtime"]
 ---
 # 🌐 SKILL: PORTABILITY ENFORCER (MULTI-OS NORMALIZER)
 

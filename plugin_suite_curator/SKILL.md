@@ -1,6 +1,7 @@
 ---
 name: plugin_suite_curator
 description: Sovereign runbook for managing Canvas UI tabs, plugin lifecycles, and edge CDN installations
+keywords: ["plugin curator", "plugin catalog", "plugin discovery", "plugin marketplace", "plugin installation", "plugin registry", "suite curation", "plugin ecosystem", "official plugins", "dependency resolution", "plugin updates", "remote registry", "community plugins", "category grouping", "plugin search", "version compatibility", "plugin vetting", "plugin repository", "plugin manager", "edge cdn install"]
 ---
 # 🛠️ SKILL: PLUGIN SUITE CURATOR & CANVAS LIFECYCLE
 *Diadaptasi untuk tool Flowork:* `plugin_control` | *Referensi:* ECC Agentic OS & Plugin Management

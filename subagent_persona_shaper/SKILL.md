@@ -1,6 +1,7 @@
 ---
 name: subagent_persona_shaper
 description: Sovereign runbook for creating, shaping, and registering dedicated subagent personas in SOUL directory
+keywords: ["subagent persona", "persona shaper", "role definition", "agent specialization", "system prompt shaping", "subagent personality", "agent constitution", "fl_soul compliance", "agent boundaries", "behavioral calibration", "agent prompt engineering", "specialized agent identity", "subagent tone", "cognitive role", "domain expertise prompt", "persona constraints", "agent mission directive", "system prompt injection", "agent archetype", "subagent capability matrix"]
 ---
 # 🛠️ SKILL: SUBAGENT PERSONA SHAPER & SOUL ARCHITECT
 *Diadaptasi untuk tool Flowork:* `define_subagent` | *Referensi:* ECC OpenClaw Persona Forge

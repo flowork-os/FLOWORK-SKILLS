@@ -1,6 +1,7 @@
 ---
 name: deep_code_architect
 description: Sovereign runbook for designing deep modules with small interfaces, locality, high leverage, and clean seams
+keywords: ["deep code architect", "system architecture", "software design", "hexagonal architecture", "clean architecture", "domain driven design", "design patterns", "monolith decomposition", "dependency inversion", "modular boundaries", "interface segregation", "solid principles", "event driven architecture", "microservices design", "scalability patterns", "data layer separation", "cohesion and coupling", "architectural refactoring", "enterprise patterns", "system modeling"]
 ---
 # 🎨 SKILL: DEEP CODE ARCHITECT & SEAM REDUCER
 *Diadaptasi dari repositori dunia:* `mattpocock/skills/skills/engineering/codebase-design (278k★) & John Ousterhout`

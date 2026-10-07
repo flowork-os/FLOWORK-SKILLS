@@ -1,6 +1,7 @@
 ---
 name: nano_tdd_architect
 description: Sovereign runbook for nano-modular Test-Driven Development (Red-Green-Refactor) and isolated test suites
+keywords: ["nano tdd", "test driven development", "red green refactor", "unit test harness", "atomic test", "test first", "micro test suite", "regression test", "mocking assertions", "test coverage", "fail early test", "test fixture", "isolated tests", "quick test cycle", "cargo test", "jest runner", "behavior driven design", "test spec", "boundary condition tests", "reproducible assertions"]
 ---
 # 🧪 SKILL: NANO TDD ARCHITECT & RED-GREEN-REFACTOR
 

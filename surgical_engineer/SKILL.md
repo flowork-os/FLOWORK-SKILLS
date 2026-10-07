@@ -1,6 +1,7 @@
 ---
 name: surgical_engineer
 description: Sovereign runbook for surgical precision coding, zero-bloat nano-modularity, anti-hallucination, and Karpathy minimalist implementation law
+keywords: ["surgical engineer", "code refactoring", "bug fixing", "anti-zombie purge", "atomic code edit", "dead code elimination", "1-file-1-logic", "code hygiene", "replace_file_content", "minimal diff", "precision editing", "regression avoidance", "uncluttered code", "surgical patching", "scope preservation", "clean code refactor", "unused import removal", "targeted modification", "code clarity", "deterministic code fix"]
 ---
 # 🔬 SKILL: SURGICAL ENGINEER & MINIMALIST IMPLEMENTATION
 

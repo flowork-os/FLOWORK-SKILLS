@@ -1,6 +1,7 @@
 ---
 name: performance_profiler
 description: Sovereign runbook for detecting memory leaks, CPU thread bottlenecks, and empirical optimization loops
+keywords: ["performance profiler", "profiling", "benchmark", "memory leak", "cpu bottleneck", "flamegraph", "latency optimization", "throughput analysis", "allocations audit", "garbage collection tuning", "execution timing", "system performance", "io wait profiling", "cache misses", "hotspot detection", "memory heap snapshot", "concurrency bottleneck", "profiler report", "optimization pass", "runtime efficiency"]
 ---
 # ⚙️ SKILL: PERFORMANCE PROFILER & V8 BOTTLENECK HUNTER
 *Diadaptasi dari repositori dunia:* `affaan-m/ECC/skills/benchmark-optimization-loop (274k★) & V8 Memory Inspector`

@@ -1,6 +1,7 @@
 ---
 name: high_signal_synthesizer
 description: Sovereign runbook for high-signal technical communication, ADHD-friendly direct output, zero fluff, and anti-apology reporting
+keywords: ["high signal synthesizer", "information distillation", "signal to noise", "executive summary", "concise synthesis", "data condensation", "zero fluff analysis", "key findings", "brevity enforcement", "core insight extraction", "distilled intelligence", "dense summary", "bulleted takeaways", "uncluttered reports", "signal maximization", "essential facts", "noise suppression", "crisp overview", "factual condensation", "high impact reporting"]
 ---
 # ⚡ SKILL: HIGH-SIGNAL SYNTHESIZER & DIRECT OUTPUT
 

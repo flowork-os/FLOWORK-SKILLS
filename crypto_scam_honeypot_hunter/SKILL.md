@@ -1,6 +1,7 @@
 ---
 name: crypto_scam_honeypot_hunter
 description: Sovereign runbook for detecting smart contract honeypots, hidden sell taxes, mint backdoors, and rugpull indicators
+keywords: ["crypto scam", "honeypot hunter", "smart contract audit", "rugpull detection", "solana scan", "evm honeypot", "token security", "malicious contract", "sell tax simulation", "blacklisted transfer", "liquidity lock audit", "proxy contract trap", "reentrancy attack", "drainer detection", "fake token detector", "bytecode analysis", "dex trade simulation", "on-chain audit", "scam token warning", "wallet safety"]
 ---
 # 📊 SKILL: CRYPTO SCAM & HONEYPOT HUNTER
 *Diadaptasi dari repositori dunia:* `malvaphe/Crypto_Honeypot_Detector & DevSwanson/how-to-create-honeypot-token (Deconstruction)`

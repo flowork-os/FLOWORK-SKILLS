@@ -1,6 +1,7 @@
 ---
 name: background_task_dispatcher
 description: Sovereign runbook for dispatching, monitoring, and supervising long-running background tasks
+keywords: ["background task", "task dispatcher", "manage_task", "daemon process", "async supervisor", "background job", "task worker", "process supervisor", "job queue", "detached process", "long running service", "task status", "kill task", "process monitoring", "async execution", "worker thread", "background polling", "task lifecycle", "subagent supervisor", "concurrency manager"]
 ---
 # 🛠️ SKILL: BACKGROUND TASK DISPATCHER & ASYNC SUPERVISOR
 *Diadaptasi untuk tool Flowork:* `manage_task` | *Referensi:* ECC Autonomous Loops & Worker Queue

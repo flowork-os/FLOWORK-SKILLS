@@ -1,6 +1,7 @@
 ---
 name: web_intelligence_hunter
 description: Sovereign runbook for precision technical search queries, source triangulation, and documentation discovery
+keywords: ["web intelligence", "osint", "intelligence hunter", "search_web", "threat intelligence", "information gathering", "entity research", "web investigation", "open source intelligence", "domain footprinting", "dorking search", "competitor intelligence", "public data aggregation", "news sentiment scan", "web trend analysis", "online footprint scan", "fact verification", "investigative research", "deep search synthesis", "cross-reference intelligence"]
 ---
 # 🛠️ SKILL: WEB INTELLIGENCE HUNTER & SEARCH OPERATOR
 *Diadaptasi untuk tool Flowork:* `search_web` | *Referensi:* ECC Search-First & Research Ops

@@ -1,6 +1,7 @@
 ---
 name: security_auditor
 description: Sovereign runbook for SAST security audit, vulnerability mitigation, secret sanitization, and CVE offline checking
+keywords: ["security auditor", "vulnerability scan", "cve database", "flow_audit_security", "sast scan", "sca dependency audit", "code security", "exploit prevention", "secret detection", "data leak prevention", "injection attack defense", "xss prevention", "owasp compliance", "insecure dependency check", "permission audit", "credential sanitization", "zero trust audit", "security posture", "input validation audit", "crypto security"]
 ---
 # 🛡️ SKILL: SECURITY AUDITOR & CODE HARDENING SPECIALIST
 

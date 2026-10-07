@@ -1,6 +1,7 @@
 ---
 name: canvas_motion_craftsman
 description: Sovereign runbook for purposeful micro-interactions, smooth CSS transitions, toast/modal entrance animations, and zero-jank UI
+keywords: ["canvas motion", "ui animation", "css transitions", "keyframes", "motion design", "canvas transitions", "spring animation", "micro-interactions", "motion curves", "hardware acceleration", "transform 3d", "easings", "interactive feedback", "stagger animation", "fluid animation", "motion performance", "smooth rendering", "canvas interactive", "svg animation", "framerate optimization"]
 ---
 # 🎨 SKILL: CANVAS MOTION CRAFTSMAN & MICRO-INTERACTION ENGINEER
 *Diadaptasi dari repositori dunia:* `affaan-m/ECC/skills/motion-patterns (274k★) & Liquid Glass Interaction`
