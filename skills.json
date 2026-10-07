@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:36:51.166Z",
+  "updated_at": "2026-10-07T08:36:57.321Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -8,33 +8,11 @@
       "id": "adr_architecture_record",
       "name": "adr_architecture_record",
       "version": "1.0.0",
-      "author": "Awenk Audico & Flowork OS",
+      "author": "@awenkaudico",
       "description": "Sovereign runbook for documenting architectural decisions, sync FL_MIND.MD, and preventing architectural drift",
-      "keywords": [
-        "adr",
-        "architecture decision record",
-        "architectural decisions",
-        "decision log",
-        "system design record",
-        "technical debt record",
-        "design rationale",
-        "architecture history",
-        "fl_mind sync",
-        "architecture drift",
-        "software design document",
-        "rfc proposal",
-        "engineering decision",
-        "system blueprint",
-        "tech stack rationale",
-        "tradeoff analysis",
-        "design pattern selection",
-        "legacy migration record",
-        "consequence evaluation",
-        "architectural governance"
-      ],
-      "category": "Architecture & System",
-      "icon": "🏛️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "category": "General",
+      "icon": "🧠",
+      "updated_at": "2026-10-07T08:36:57.321Z"
     },
     {
       "id": "agent_mesh_communicator",
@@ -1441,16 +1419,6 @@
       "category": "General",
       "icon": "🧠",
       "updated_at": "2026-10-07T08:29:06.149Z"
-    },
-    {
-      "id": "embedding_vector_librarian",
-      "name": "embedding_vector_librarian",
-      "version": "1.0.0",
-      "author": "@awenkaudico",
-      "description": "Sovereign runbook for local vector database management, cosine similarity retrieval, semantic chunk overlap indexing, and embedding deduplication",
-      "category": "General",
-      "icon": "🧠",
-      "updated_at": "2026-10-07T08:36:51.166Z"
     }
   ]
 }
