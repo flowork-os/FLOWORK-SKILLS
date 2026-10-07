@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:20:49.605Z",
+  "updated_at": "2026-10-07T03:31:49.853Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -92,6 +92,16 @@
       "category": "General",
       "icon": "🧠",
       "updated_at": "2026-10-07T03:20:49.605Z"
+    },
+    {
+      "id": "sqlite_vault_migrator",
+      "name": "sqlite_vault_migrator",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for zero-data-loss SQLite schema migrations, WAL mode concurrency, and IPC state persistence",
+      "category": "General",
+      "icon": "🧠",
+      "updated_at": "2026-10-07T03:31:49.853Z"
     }
   ]
 }
