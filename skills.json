@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:32:01.797Z",
+  "updated_at": "2026-10-07T03:32:07.196Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -94,14 +94,14 @@
       "updated_at": "2026-10-07T03:20:49.605Z"
     },
     {
-      "id": "adr_architecture_record",
-      "name": "adr_architecture_record",
+      "id": "git_release_sentinel",
+      "name": "git_release_sentinel",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for documenting architectural decisions, sync FL_MIND.MD, and preventing architectural drift",
+      "description": "Sovereign runbook for SemVer versioning, high-signal changelogs, and DLP pre-flight release rigor",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:32:01.797Z"
+      "updated_at": "2026-10-07T03:32:07.196Z"
     }
   ]
 }
