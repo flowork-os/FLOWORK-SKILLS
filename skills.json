@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:10:51.498Z",
+  "updated_at": "2026-10-07T03:11:14.338Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -74,14 +74,14 @@
       "updated_at": "2026-10-07T02:59:35.680Z"
     },
     {
-      "id": "subagent_persona_shaper",
-      "name": "subagent_persona_shaper",
+      "id": "swarm_fleet_controller",
+      "name": "swarm_fleet_controller",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for creating, shaping, and registering dedicated subagent personas in SOUL directory",
+      "description": "Sovereign runbook for monitoring, cancelling, and reconciling multi-agent concurrent swarms",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:10:51.498Z"
+      "updated_at": "2026-10-07T03:11:14.338Z"
     }
   ]
 }
