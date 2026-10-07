@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:10:28.047Z",
+  "updated_at": "2026-10-07T03:10:34.415Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -74,14 +74,14 @@
       "updated_at": "2026-10-07T02:59:35.680Z"
     },
     {
-      "id": "code_sanctity_guardian",
-      "name": "code_sanctity_guardian",
+      "id": "cron_cadence_operator",
+      "name": "cron_cadence_operator",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for locking, protecting, and safeguarding sacred code blocks against unintended mutations",
+      "description": "Sovereign runbook for precision cron jobs, timer scheduling, and non-blocking recurring workflows",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:10:28.047Z"
+      "updated_at": "2026-10-07T03:10:34.415Z"
     }
   ]
 }
