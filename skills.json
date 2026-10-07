@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:50:54.293Z",
+  "updated_at": "2026-10-07T03:50:59.547Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -114,14 +114,14 @@
       "updated_at": "2026-10-07T03:41:33.103Z"
     },
     {
-      "id": "audio_dsp_mixing_master",
-      "name": "audio_dsp_mixing_master",
+      "id": "soundtrack_motion_arranger",
+      "name": "soundtrack_motion_arranger",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for digital audio processing, LUFS loudness compliance, EQ frequency carving, multi-band dynamics, and clean master output",
+      "description": "Sovereign runbook for BPM grid quantization, narrative mood transitions, stem layering, and dynamic sound design scoring",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:50:54.293Z"
+      "updated_at": "2026-10-07T03:50:59.547Z"
     }
   ]
 }
