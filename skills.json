@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:12:02.930Z",
+  "updated_at": "2026-10-07T03:12:09.077Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -74,14 +74,14 @@
       "updated_at": "2026-10-07T02:59:35.680Z"
     },
     {
-      "id": "system_vitals_auditor",
-      "name": "system_vitals_auditor",
+      "id": "plugin_suite_curator",
+      "name": "plugin_suite_curator",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for inspecting host metrics, RAM/CPU load, disk capacity, and listening network ports",
+      "description": "Sovereign runbook for managing Canvas UI tabs, plugin lifecycles, and edge CDN installations",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:12:02.930Z"
+      "updated_at": "2026-10-07T03:12:09.077Z"
     }
   ]
 }
