@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T00:45:00.000Z",
+  "updated_at": "2026-10-07T08:30:00.000Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -12,6 +12,46 @@
       "category": "Architecture & System",
       "icon": "🔌",
       "updated_at": "2026-10-07T00:45:00.000Z"
+    },
+    {
+      "id": "security_auditor",
+      "name": "Flowork Security Auditor",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for SAST security audit, vulnerability mitigation, secret sanitization, and CVE offline checking",
+      "category": "Security & Audit",
+      "icon": "🛡️",
+      "updated_at": "2026-10-07T08:30:00.000Z"
+    },
+    {
+      "id": "portability_enforcer",
+      "name": "Flowork Portability Enforcer",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for cross-platform Multi-OS code normalization and zero-hardcoding enforcement",
+      "category": "Portability & System",
+      "icon": "🌐",
+      "updated_at": "2026-10-07T08:30:00.000Z"
+    },
+    {
+      "id": "tool_forge",
+      "name": "Flowork Tool Forge",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for designing, wrapping, and registering dynamic agent tools in Flowork OS",
+      "category": "Tools & Extension",
+      "icon": "⚡",
+      "updated_at": "2026-10-07T08:30:00.000Z"
+    },
+    {
+      "id": "swarm_orchestrator",
+      "name": "Flowork Swarm Orchestrator",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for multi-agent delegation, role coordination, consensus protocol, and artifact aggregation",
+      "category": "Swarm & Agentic",
+      "icon": "🐝",
+      "updated_at": "2026-10-07T08:30:00.000Z"
     }
   ]
 }
