@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:28:58.992Z",
+  "updated_at": "2026-10-07T08:29:06.149Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1433,14 +1433,14 @@
       "updated_at": "2026-10-07T05:47:39.346Z"
     },
     {
-      "id": "git_conflict_resolver",
-      "name": "git_conflict_resolver",
+      "id": "sql_query_optimizer",
+      "name": "sql_query_optimizer",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for multi-branch git merge conflict resolution, interactive rebase, git bisect regression hunting, and tree integrity",
+      "description": "Sovereign runbook for slow SQL query profiling, explain query plan analysis, B-tree covering indexes, N+1 query elimination, and WAL tuning",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T08:28:58.992Z"
+      "updated_at": "2026-10-07T08:29:06.149Z"
     }
   ]
 }
