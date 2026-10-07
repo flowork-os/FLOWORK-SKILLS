@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:10:45.594Z",
+  "updated_at": "2026-10-07T03:10:51.498Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -74,14 +74,14 @@
       "updated_at": "2026-10-07T02:59:35.680Z"
     },
     {
-      "id": "subagent_task_delegator",
-      "name": "subagent_task_delegator",
+      "id": "subagent_persona_shaper",
+      "name": "subagent_persona_shaper",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for dispatching specialized subagents with isolated context and strict delegation boundaries",
+      "description": "Sovereign runbook for creating, shaping, and registering dedicated subagent personas in SOUL directory",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:10:45.594Z"
+      "updated_at": "2026-10-07T03:10:51.498Z"
     }
   ]
 }
