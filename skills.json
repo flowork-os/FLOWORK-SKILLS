@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T08:58:52.172Z",
+  "updated_at": "2026-10-07T17:32:27.128Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "total_skills": 44,
   "skills": [
@@ -1417,6 +1417,16 @@
       "category": "General",
       "icon": "🧠",
       "updated_at": "2026-10-07T08:58:52.172Z"
+    },
+    {
+      "id": "reverse_engineer_anything",
+      "name": "Reverse Engineer Anything",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for multi-target reverse engineering, decompilation, binary inspection, and clean-room reconstruction across native binaries, Electron/ASAR, APK, and managed code",
+      "category": "General",
+      "icon": "🧠",
+      "updated_at": "2026-10-07T17:32:27.128Z"
     }
   ]
 }
