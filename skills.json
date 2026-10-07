@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-07T03:20:42.637Z",
+  "updated_at": "2026-10-07T03:20:49.605Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
   "skills": [
     {
@@ -84,14 +84,14 @@
       "updated_at": "2026-10-07T03:12:16.355Z"
     },
     {
-      "id": "deep_code_architect",
-      "name": "deep_code_architect",
+      "id": "canvas_motion_craftsman",
+      "name": "canvas_motion_craftsman",
       "version": "1.0.0",
       "author": "@awenkaudico",
-      "description": "Sovereign runbook for designing deep modules with small interfaces, locality, high leverage, and clean seams",
+      "description": "Sovereign runbook for purposeful micro-interactions, smooth CSS transitions, toast/modal entrance animations, and zero-jank UI",
       "category": "General",
       "icon": "🧠",
-      "updated_at": "2026-10-07T03:20:42.637Z"
+      "updated_at": "2026-10-07T03:20:49.605Z"
     }
   ]
 }
