@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for extracting, sanitizing, and distilling external web pages into clean markdown",
+  "category": "Data & Web Scraping",
+  "shard": "index/we/b_/web_deep_scraper.json",
+  "source_path": "skills/we/web_deep_scraper",
   "keywords": [
     "web deep scraper",
     "web scraping",
@@ -25,9 +28,5 @@
     "web data pipeline",
     "headless scraping",
     "resilient crawler"
-  ],
-  "category": "Data & Web Scraping",
-  "icon": "\ud83d\udd78\ufe0f",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/we/b_/web_deep_scraper.json"
+  ]
 }

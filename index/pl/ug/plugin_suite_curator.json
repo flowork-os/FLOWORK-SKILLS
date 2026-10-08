@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for managing Canvas UI tabs, plugin lifecycles, and edge CDN installations",
+  "category": "Ecosystem & Registry",
+  "shard": "index/pl/ug/plugin_suite_curator.json",
+  "source_path": "skills/pl/plugin_suite_curator",
   "keywords": [
     "plugin curator",
     "plugin catalog",
@@ -25,9 +28,5 @@
     "plugin repository",
     "plugin manager",
     "edge cdn install"
-  ],
-  "category": "Ecosystem & Registry",
-  "icon": "\ud83d\udce6",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/pl/ug/plugin_suite_curator.json"
+  ]
 }

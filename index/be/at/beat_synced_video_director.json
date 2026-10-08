@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for beat-synced visual prompts, high-retention 2-second hook framework, bass-drop visual explosions, and rhythm choreography",
+  "category": "Media & Video",
+  "shard": "index/be/at/beat_synced_video_director.json",
+  "source_path": "skills/be/beat_synced_video_director",
   "keywords": [
     "beat sync",
     "music video",
@@ -25,9 +28,5 @@
     "frame timing",
     "audio reactive video",
     "video sequencing"
-  ],
-  "category": "Media & Video",
-  "icon": "\ud83c\udfac",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/be/at/beat_synced_video_director.json"
+  ]
 }

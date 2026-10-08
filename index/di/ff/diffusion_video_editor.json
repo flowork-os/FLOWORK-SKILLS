@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for multi-track timeline video editing, WebCodecs hardware acceleration, and FFmpeg pipeline",
+  "category": "AI & Generative Media",
+  "shard": "index/di/ff/diffusion_video_editor.json",
+  "source_path": "skills/di/diffusion_video_editor",
   "keywords": [
     "diffusion video",
     "ai video editor",
@@ -25,9 +28,5 @@
     "video restoration",
     "neural video synthesis",
     "keyframe diffusion"
-  ],
-  "category": "AI & Generative Media",
-  "icon": "\ud83c\udfa5",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/di/ff/diffusion_video_editor.json"
+  ]
 }

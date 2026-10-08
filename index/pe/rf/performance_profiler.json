@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for detecting memory leaks, CPU thread bottlenecks, and empirical optimization loops",
+  "category": "Performance & Profiling",
+  "shard": "index/pe/rf/performance_profiler.json",
+  "source_path": "skills/pe/performance_profiler",
   "keywords": [
     "performance profiler",
     "profiling",
@@ -25,9 +28,5 @@
     "profiler report",
     "optimization pass",
     "runtime efficiency"
-  ],
-  "category": "Performance & Profiling",
-  "icon": "\ud83d\udcca",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/pe/rf/performance_profiler.json"
+  ]
 }

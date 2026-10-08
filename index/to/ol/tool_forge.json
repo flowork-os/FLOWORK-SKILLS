@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for designing, wrapping, and registering dynamic agent tools in Flowork OS",
+  "category": "Tools & Extensions",
+  "shard": "index/to/ol/tool_forge.json",
+  "source_path": "skills/to/tool_forge",
   "keywords": [
     "tool forge",
     "tool creation",
@@ -25,9 +28,5 @@
     "reusable tool script",
     "tool validation",
     "edge tool integration"
-  ],
-  "category": "Tools & Extensions",
-  "icon": "\ud83d\udee0\ufe0f",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/to/ol/tool_forge.json"
+  ]
 }

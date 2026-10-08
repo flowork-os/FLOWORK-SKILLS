@@ -1,8 +1,13 @@
 {
   "id": "linux_sysadmin_hardener",
   "name": "linux_sysadmin_hardener",
-  "description": "Flowork OS Specialization Skill linux_sysadmin_hardener",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/li/nu/linux_sysadmin_hardener.json"
+  "description": "Sovereign runbook for Linux system administration, Systemd unit daemonization, journalctl diagnostics, permission auditing, and firewall hardening",
+  "category": "general",
+  "shard": "index/li/nu/linux_sysadmin_hardener.json",
+  "source_path": "skills/li/linux_sysadmin_hardener",
+  "keywords": [
+    "linux sysadmin hardener"
+  ]
 }

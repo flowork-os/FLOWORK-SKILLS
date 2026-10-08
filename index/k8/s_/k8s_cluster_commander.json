@@ -1,8 +1,13 @@
 {
   "id": "k8s_cluster_commander",
   "name": "k8s_cluster_commander",
-  "description": "Flowork OS Specialization Skill k8s_cluster_commander",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/k8/s_/k8s_cluster_commander.json"
+  "description": "Sovereign runbook for Kubernetes manifest orchestration, Pod lifecycle, Ingress routing, Helm charts, and cluster resource scaling",
+  "category": "general",
+  "shard": "index/k8/s_/k8s_cluster_commander.json",
+  "source_path": "skills/k8/k8s_cluster_commander",
+  "keywords": [
+    "k8s cluster commander"
+  ]
 }

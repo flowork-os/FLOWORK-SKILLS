@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for multi-chain wallet risk scoring, AML screening, sanctioned entity/mixer tracing, and phishing drainer detection",
+  "category": "Blockchain & Security",
+  "shard": "index/wa/ll/wallet_aml_risk_scanner.json",
+  "source_path": "skills/wa/wallet_aml_risk_scanner",
   "keywords": [
     "wallet aml",
     "aml risk scanner",
@@ -25,9 +28,5 @@
     "token flow tracing",
     "sanction screening",
     "crypto provenance"
-  ],
-  "category": "Blockchain & Security",
-  "icon": "\ud83d\udd0e",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/wa/ll/wallet_aml_risk_scanner.json"
+  ]
 }

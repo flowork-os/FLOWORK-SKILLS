@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for high-signal technical communication, ADHD-friendly direct output, zero fluff, and anti-apology reporting",
+  "category": "Cognitive & Analysis",
+  "shard": "index/hi/gh/high_signal_synthesizer.json",
+  "source_path": "skills/hi/high_signal_synthesizer",
   "keywords": [
     "high signal synthesizer",
     "information distillation",
@@ -25,9 +28,5 @@
     "crisp overview",
     "factual condensation",
     "high impact reporting"
-  ],
-  "category": "Cognitive & Analysis",
-  "icon": "\ud83e\udde0",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/hi/gh/high_signal_synthesizer.json"
+  ]
 }

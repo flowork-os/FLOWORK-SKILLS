@@ -1,8 +1,13 @@
 {
   "id": "cloud_infra_provisioner",
   "name": "cloud_infra_provisioner",
-  "description": "Flowork OS Specialization Skill cloud_infra_provisioner",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/cl/ou/cloud_infra_provisioner.json"
+  "description": "Sovereign runbook for Terraform and OpenTofu infrastructure as code, immutable cloud state, modular provisioning, and zero-drift deployments",
+  "category": "general",
+  "shard": "index/cl/ou/cloud_infra_provisioner.json",
+  "source_path": "skills/cl/cloud_infra_provisioner",
+  "keywords": [
+    "cloud infra provisioner"
+  ]
 }

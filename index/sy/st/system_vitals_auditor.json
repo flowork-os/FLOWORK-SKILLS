@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for inspecting host metrics, RAM/CPU load, disk capacity, and listening network ports",
+  "category": "System & Diagnostics",
+  "shard": "index/sy/st/system_vitals_auditor.json",
+  "source_path": "skills/sy/system_vitals_auditor",
   "keywords": [
     "system vitals",
     "health check",
@@ -25,9 +28,5 @@
     "process lifecycle audit",
     "system alerts",
     "runtime health telemetry"
-  ],
-  "category": "System & Diagnostics",
-  "icon": "\ud83d\udc93",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/sy/st/system_vitals_auditor.json"
+  ]
 }

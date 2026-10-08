@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for precision cron jobs, timer scheduling, and non-blocking recurring workflows",
+  "category": "Scheduling & Automation",
+  "shard": "index/cr/on/cron_cadence_operator.json",
+  "source_path": "skills/cr/cron_cadence_operator",
   "keywords": [
     "cron operator",
     "scheduled jobs",
@@ -25,9 +28,5 @@
     "temporal scheduling",
     "calendar trigger",
     "cron lifecycle"
-  ],
-  "category": "Scheduling & Automation",
-  "icon": "\u23f1\ufe0f",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/cr/on/cron_cadence_operator.json"
+  ]
 }

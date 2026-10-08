@@ -1,8 +1,13 @@
 {
   "id": "network_packet_analyst",
   "name": "network_packet_analyst",
-  "description": "Flowork OS Specialization Skill network_packet_analyst",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/ne/tw/network_packet_analyst.json"
+  "description": "Sovereign runbook for low-level network packet analysis, tcpdump captures, socket inspection, DNS resolution triage, and TLS handshake auditing",
+  "category": "general",
+  "shard": "index/ne/tw/network_packet_analyst.json",
+  "source_path": "skills/ne/network_packet_analyst",
+  "keywords": [
+    "network packet analyst"
+  ]
 }

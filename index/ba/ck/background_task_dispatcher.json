@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for dispatching, monitoring, and supervising long-running background tasks",
+  "category": "System & Process",
+  "shard": "index/ba/ck/background_task_dispatcher.json",
+  "source_path": "skills/ba/background_task_dispatcher",
   "keywords": [
     "background task",
     "task dispatcher",
@@ -25,9 +28,5 @@
     "task lifecycle",
     "subagent supervisor",
     "concurrency manager"
-  ],
-  "category": "System & Process",
-  "icon": "\u2699\ufe0f",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/ba/ck/background_task_dispatcher.json"
+  ]
 }

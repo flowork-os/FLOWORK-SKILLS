@@ -1,8 +1,13 @@
 {
   "id": "docker_container_shipwright",
   "name": "docker_container_shipwright",
-  "description": "Flowork OS Specialization Skill docker_container_shipwright",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/do/ck/docker_container_shipwright.json"
+  "description": "Sovereign runbook for multi-stage Docker builds, rootless container security, compose orchestration, and zero-leak deployment",
+  "category": "general",
+  "shard": "index/do/ck/docker_container_shipwright.json",
+  "source_path": "skills/do/docker_container_shipwright",
+  "keywords": [
+    "docker container shipwright"
+  ]
 }

@@ -5,7 +5,7 @@
   "author": "@awenkaudico",
   "description": "Sovereign runbook for high-throughput streaming data pipelines, Polars DuckDB dataframes, zero-OOM memory batching, schema validation, and Parquet conversions",
   "category": "General",
-  "icon": "\ud83e\udde0",
-  "updated_at": "2026-10-07T05:47:32.255Z",
-  "shard": "index/da/ta/data_pipeline_transformer.json"
+  "shard": "index/da/ta/data_pipeline_transformer.json",
+  "source_path": "skills/da/data_pipeline_transformer",
+  "keywords": []
 }

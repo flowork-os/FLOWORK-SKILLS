@@ -1,8 +1,13 @@
 {
   "id": "rag_vector_curator",
   "name": "rag_vector_curator",
-  "description": "Flowork OS Specialization Skill rag_vector_curator",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/ra/g_/rag_vector_curator.json"
+  "description": "Sovereign runbook for document chunking strategies, embedding pipeline optimization, hybrid BM25 vector search, and reranking calibration",
+  "category": "general",
+  "shard": "index/ra/g_/rag_vector_curator.json",
+  "source_path": "skills/ra/rag_vector_curator",
+  "keywords": [
+    "rag vector curator"
+  ]
 }

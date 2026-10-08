@@ -1,8 +1,13 @@
 {
   "id": "docker_container_deployer",
   "name": "docker_container_deployer",
-  "description": "Flowork OS Specialization Skill docker_container_deployer",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/do/ck/docker_container_deployer.json"
+  "description": "Sovereign runbook for Docker multi-stage containerization, Compose orchestration, volume lifecycle, and rootless security hardening",
+  "category": "general",
+  "shard": "index/do/ck/docker_container_deployer.json",
+  "source_path": "skills/do/docker_container_deployer",
+  "keywords": [
+    "docker container deployer"
+  ]
 }

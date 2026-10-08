@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for portfolio drawdown limits, streak cooldowns, daily loss caps, and capital preservation circuit breakers",
+  "category": "Trading & Risk Control",
+  "shard": "index/dr/aw/drawdown_circuit_breaker.json",
+  "source_path": "skills/dr/drawdown_circuit_breaker",
   "keywords": [
     "drawdown circuit breaker",
     "trading risk management",
@@ -25,9 +28,5 @@
     "kill switch trading",
     "var analysis",
     "disciplined exits"
-  ],
-  "category": "Trading & Risk Control",
-  "icon": "\ud83d\udcc9",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/dr/aw/drawdown_circuit_breaker.json"
+  ]
 }

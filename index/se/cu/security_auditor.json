@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for SAST security audit, vulnerability mitigation, secret sanitization, and CVE offline checking",
+  "category": "Security & Audit",
+  "shard": "index/se/cu/security_auditor.json",
+  "source_path": "skills/se/security_auditor",
   "keywords": [
     "security auditor",
     "vulnerability scan",
@@ -25,9 +28,5 @@
     "security posture",
     "input validation audit",
     "crypto security"
-  ],
-  "category": "Security & Audit",
-  "icon": "\ud83d\udee1\ufe0f",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/se/cu/security_auditor.json"
+  ]
 }

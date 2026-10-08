@@ -1,8 +1,13 @@
 {
   "id": "git_conflict_resolver",
   "name": "git_conflict_resolver",
-  "description": "Flowork OS Specialization Skill git_conflict_resolver",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/gi/t_/git_conflict_resolver.json"
+  "description": "Sovereign runbook for multi-branch git merge conflict resolution, interactive rebase, git bisect regression hunting, and tree integrity",
+  "category": "general",
+  "shard": "index/gi/t_/git_conflict_resolver.json",
+  "source_path": "skills/gi/git_conflict_resolver",
+  "keywords": [
+    "git conflict resolver"
+  ]
 }

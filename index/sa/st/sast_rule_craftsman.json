@@ -1,8 +1,13 @@
 {
   "id": "sast_rule_craftsman",
   "name": "sast_rule_craftsman",
-  "description": "Flowork OS Specialization Skill sast_rule_craftsman",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/sa/st/sast_rule_craftsman.json"
+  "description": "Sovereign runbook for authoring SAST detection rules, AST semantic pattern matching, taint tracking, and eliminating false positives in source code audits",
+  "category": "general",
+  "shard": "index/sa/st/sast_rule_craftsman.json",
+  "source_path": "skills/sa/sast_rule_craftsman",
+  "keywords": [
+    "sast rule craftsman"
+  ]
 }

@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for locking, protecting, and safeguarding sacred code blocks against unintended mutations",
+  "category": "Security & Integrity",
+  "shard": "index/co/de/code_sanctity_guardian.json",
+  "source_path": "skills/co/code_sanctity_guardian",
   "keywords": [
     "code sanctity",
     "lock protection",
@@ -25,9 +28,5 @@
     "hash verification",
     "unauthorized edits",
     "defensive programming"
-  ],
-  "category": "Security & Integrity",
-  "icon": "\ud83d\udd12",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/co/de/code_sanctity_guardian.json"
+  ]
 }

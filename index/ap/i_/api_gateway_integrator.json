@@ -1,8 +1,13 @@
 {
   "id": "api_gateway_integrator",
   "name": "api_gateway_integrator",
-  "description": "Flowork OS Specialization Skill api_gateway_integrator",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/ap/i_/api_gateway_integrator.json"
+  "description": "Sovereign runbook for RESTful and gRPC API contract design, Bearer auth validation, rate limiting token bucket algorithms, and resilient webhook retries",
+  "category": "general",
+  "shard": "index/ap/i_/api_gateway_integrator.json",
+  "source_path": "skills/ap/api_gateway_integrator",
+  "keywords": [
+    "api gateway integrator"
+  ]
 }

@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for physical terminal evidence verification, Exit Code 0 enforcement, and zero-overclaim validation",
+  "category": "Verification & Quality",
+  "shard": "index/em/pi/empirical_verifier.json",
+  "source_path": "skills/em/empirical_verifier",
   "keywords": [
     "empirical verifier",
     "terminal verification",
@@ -25,9 +28,5 @@
     "stdout inspection",
     "real world validation",
     "automated verification"
-  ],
-  "category": "Verification & Quality",
-  "icon": "\u2705",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/em/pi/empirical_verifier.json"
+  ]
 }

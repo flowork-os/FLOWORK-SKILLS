@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for root cause tracing, isolated feedback loops, and zero-symptom-patching debugging",
+  "category": "Debugging & Triage",
+  "shard": "index/sy/st/systematic_debugger.json",
+  "source_path": "skills/sy/systematic_debugger",
   "keywords": [
     "systematic debugger",
     "root cause analysis",
@@ -25,9 +28,5 @@
     "defensive debugging",
     "regression diagnosis",
     "systematic isolation"
-  ],
-  "category": "Debugging & Triage",
-  "icon": "\ud83d\udd0d",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/sy/st/systematic_debugger.json"
+  ]
 }

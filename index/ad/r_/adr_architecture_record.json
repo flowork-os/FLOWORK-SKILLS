@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for documenting architectural decisions, sync FL_MIND.MD, and preventing architectural drift",
+  "category": "Architecture & System",
+  "shard": "index/ad/r_/adr_architecture_record.json",
+  "source_path": "skills/ad/adr_architecture_record",
   "keywords": [
     "adr",
     "architecture decision record",
@@ -25,9 +28,5 @@
     "legacy migration record",
     "consequence evaluation",
     "architectural governance"
-  ],
-  "category": "Architecture & System",
-  "icon": "\ud83c\udfdb\ufe0f",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/ad/r_/adr_architecture_record.json"
+  ]
 }

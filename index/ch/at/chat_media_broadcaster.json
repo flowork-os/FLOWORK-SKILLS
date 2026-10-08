@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for dispatching rich media, HTML5 video previews, and interactive artifacts to canvas chat",
+  "category": "Media & Multimodal",
+  "shard": "index/ch/at/chat_media_broadcaster.json",
+  "source_path": "skills/ch/chat_media_broadcaster",
   "keywords": [
     "chat media",
     "media broadcast",
@@ -25,9 +28,5 @@
     "media pipeline",
     "interactive card",
     "multimodal ui"
-  ],
-  "category": "Media & Multimodal",
-  "icon": "\ud83c\udf99\ufe0f",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/ch/at/chat_media_broadcaster.json"
+  ]
 }

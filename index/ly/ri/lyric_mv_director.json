@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for automated beat-locked lyric videos, kinetic typography animations, LRC timestamp synchronization, and canvas rendering",
+  "category": "Media & Video",
+  "shard": "index/ly/ri/lyric_mv_director.json",
+  "source_path": "skills/ly/lyric_mv_director",
   "keywords": [
     "lyric video",
     "kinetic typography",
@@ -25,9 +28,5 @@
     "rhythm typography",
     "video captions",
     "audio subtitle rendering"
-  ],
-  "category": "Media & Video",
-  "icon": "\ud83c\udfb5",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/ly/ri/lyric_mv_director.json"
+  ]
 }

@@ -5,7 +5,7 @@
   "author": "@awenkaudico",
   "description": "Sovereign runbook for zero-data-loss SQLite schema migrations, WAL mode concurrency, and IPC state persistence",
   "category": "General",
-  "icon": "\ud83e\udde0",
-  "updated_at": "2026-10-07T08:40:35.303Z",
-  "shard": "index/sq/li/sqlite_vault_migrator.json"
+  "shard": "index/sq/li/sqlite_vault_migrator.json",
+  "source_path": "skills/sq/sqlite_vault_migrator",
+  "keywords": []
 }

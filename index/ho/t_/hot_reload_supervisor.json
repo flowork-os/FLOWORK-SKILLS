@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for autonomous engine hot-restarts, state checkpointing, and zero-downtime conversation recovery",
+  "category": "DevOps & Tooling",
+  "shard": "index/ho/t_/hot_reload_supervisor.json",
+  "source_path": "skills/ho/hot_reload_supervisor",
   "keywords": [
     "hot reload",
     "live reload",
@@ -25,9 +28,5 @@
     "rapid iteration",
     "css injection",
     "zero restart workflow"
-  ],
-  "category": "DevOps & Tooling",
-  "icon": "\u26a1",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/ho/t_/hot_reload_supervisor.json"
+  ]
 }

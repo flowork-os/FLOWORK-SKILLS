@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for nano-modular Test-Driven Development (Red-Green-Refactor) and isolated test suites",
+  "category": "Testing & TDD",
+  "shard": "index/na/no/nano_tdd_architect.json",
+  "source_path": "skills/na/nano_tdd_architect",
   "keywords": [
     "nano tdd",
     "test driven development",
@@ -25,9 +28,5 @@
     "test spec",
     "boundary condition tests",
     "reproducible assertions"
-  ],
-  "category": "Testing & TDD",
-  "icon": "\ud83d\udd2c",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/na/no/nano_tdd_architect.json"
+  ]
 }

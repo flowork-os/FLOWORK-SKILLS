@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for crafting Dark Slate/Cyan design systems, tokenized themes, and 100% English Canvas ergonomics",
+  "category": "Design & Theming",
+  "shard": "index/ca/nv/canvas_theme_architect.json",
+  "source_path": "skills/ca/canvas_theme_architect",
   "keywords": [
     "canvas theme",
     "ui theme",
@@ -25,9 +28,5 @@
     "shadow system",
     "ui skinning",
     "canvas aesthetic"
-  ],
-  "category": "Design & Theming",
-  "icon": "\ud83c\udfa8",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/ca/nv/canvas_theme_architect.json"
+  ]
 }

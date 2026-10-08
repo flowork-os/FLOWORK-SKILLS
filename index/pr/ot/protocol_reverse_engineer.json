@@ -1,8 +1,13 @@
 {
   "id": "protocol_reverse_engineer",
   "name": "protocol_reverse_engineer",
-  "description": "Flowork OS Specialization Skill protocol_reverse_engineer",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/pr/ot/protocol_reverse_engineer.json"
+  "description": "Sovereign runbook for network wire protocol reverse engineering, packet schema recovery, clean-room IPC reconstruction, and interoperability design",
+  "category": "general",
+  "shard": "index/pr/ot/protocol_reverse_engineer.json",
+  "source_path": "skills/pr/protocol_reverse_engineer",
+  "keywords": [
+    "protocol reverse engineer"
+  ]
 }

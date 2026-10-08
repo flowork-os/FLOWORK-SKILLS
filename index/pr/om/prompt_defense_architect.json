@@ -1,8 +1,13 @@
 {
   "id": "prompt_defense_architect",
   "name": "prompt_defense_architect",
-  "description": "Flowork OS Specialization Skill prompt_defense_architect",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/pr/om/prompt_defense_architect.json"
+  "description": "Sovereign runbook for metaprompt security auditing, indirect prompt injection defense, structured output enforcement, and anti-jailbreak hardening",
+  "category": "general",
+  "shard": "index/pr/om/prompt_defense_architect.json",
+  "source_path": "skills/pr/prompt_defense_architect",
+  "keywords": [
+    "prompt defense architect"
+  ]
 }

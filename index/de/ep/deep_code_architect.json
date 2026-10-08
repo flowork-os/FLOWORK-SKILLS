@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for designing deep modules with small interfaces, locality, high leverage, and clean seams",
+  "category": "Architecture & Design",
+  "shard": "index/de/ep/deep_code_architect.json",
+  "source_path": "skills/de/deep_code_architect",
   "keywords": [
     "deep code architect",
     "system architecture",
@@ -25,9 +28,5 @@
     "architectural refactoring",
     "enterprise patterns",
     "system modeling"
-  ],
-  "category": "Architecture & Design",
-  "icon": "\ud83d\udcd0",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/de/ep/deep_code_architect.json"
+  ]
 }

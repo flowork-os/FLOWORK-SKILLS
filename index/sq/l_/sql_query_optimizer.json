@@ -5,7 +5,7 @@
   "author": "@awenkaudico",
   "description": "Sovereign runbook for slow SQL query profiling, explain query plan analysis, B-tree covering indexes, N+1 query elimination, and WAL tuning",
   "category": "General",
-  "icon": "\ud83e\udde0",
-  "updated_at": "2026-10-07T08:29:06.149Z",
-  "shard": "index/sq/l_/sql_query_optimizer.json"
+  "shard": "index/sq/l_/sql_query_optimizer.json",
+  "source_path": "skills/sq/sql_query_optimizer",
+  "keywords": []
 }

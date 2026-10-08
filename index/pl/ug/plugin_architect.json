@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for creating, modifying, and refactoring Flowork OS plugins",
+  "category": "Architecture & System",
+  "shard": "index/pl/ug/plugin_architect.json",
+  "source_path": "skills/pl/plugin_architect",
   "keywords": [
     "plugin architect",
     "manifest.json",
@@ -25,9 +28,5 @@
     "plugin loader",
     "plugin manifest validation",
     "plugin distribution"
-  ],
-  "category": "Architecture & System",
-  "icon": "\ud83d\udd0c",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/pl/ug/plugin_architect.json"
+  ]
 }

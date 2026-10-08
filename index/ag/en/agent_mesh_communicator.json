@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for peer-to-peer message routing and synchronization across active agent workers",
+  "category": "Swarm & Multi-Agent",
+  "shard": "index/ag/en/agent_mesh_communicator.json",
+  "source_path": "skills/ag/agent_mesh_communicator",
   "keywords": [
     "agent mesh",
     "inter-agent communication",
@@ -25,9 +28,5 @@
     "event bus",
     "agent protocol",
     "multi-agent networking"
-  ],
-  "category": "Swarm & Multi-Agent",
-  "icon": "\ud83d\udce1",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/ag/en/agent_mesh_communicator.json"
+  ]
 }

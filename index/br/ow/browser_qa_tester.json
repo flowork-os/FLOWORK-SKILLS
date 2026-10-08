@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for Canvas UI end-to-end automation, IPC event verification, headless browser QA, and visual regression defense",
+  "category": "Testing & Automation",
+  "shard": "index/br/ow/browser_qa_tester.json",
+  "source_path": "skills/br/browser_qa_tester",
   "keywords": [
     "browser qa",
     "canvas ui testing",
@@ -25,9 +28,5 @@
     "session validation",
     "page load audit",
     "cross-browser testing"
-  ],
-  "category": "Testing & Automation",
-  "icon": "\ud83e\uddea",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/br/ow/browser_qa_tester.json"
+  ]
 }

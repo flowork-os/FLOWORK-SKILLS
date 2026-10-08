@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for generative image asset pipelines, UI mockups, and canvas graphical components",
+  "category": "Frontend & Canvas",
+  "shard": "index/vi/su/visual_canvas_renderer.json",
+  "source_path": "skills/vi/visual_canvas_renderer",
   "keywords": [
     "visual canvas",
     "canvas renderer",
@@ -25,9 +28,5 @@
     "dynamic charts canvas",
     "canvas element manipulation",
     "canvas rasterization"
-  ],
-  "category": "Frontend & Canvas",
-  "icon": "\ud83d\uddbc\ufe0f",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/vi/su/visual_canvas_renderer.json"
+  ]
 }

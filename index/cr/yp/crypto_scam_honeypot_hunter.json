@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for detecting smart contract honeypots, hidden sell taxes, mint backdoors, and rugpull indicators",
+  "category": "Blockchain & Security",
+  "shard": "index/cr/yp/crypto_scam_honeypot_hunter.json",
+  "source_path": "skills/cr/crypto_scam_honeypot_hunter",
   "keywords": [
     "crypto scam",
     "honeypot hunter",
@@ -25,9 +28,5 @@
     "on-chain audit",
     "scam token warning",
     "wallet safety"
-  ],
-  "category": "Blockchain & Security",
-  "icon": "\ud83d\udd75\ufe0f",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/cr/yp/crypto_scam_honeypot_hunter.json"
+  ]
 }

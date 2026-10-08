@@ -1,8 +1,13 @@
 {
   "id": "websocket_realtime_architect",
   "name": "websocket_realtime_architect",
-  "description": "Flowork OS Specialization Skill websocket_realtime_architect",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/we/bs/websocket_realtime_architect.json"
+  "description": "Sovereign runbook for bidirectional WebSocket architectures, heartbeat ping-pong protocols, reconnection exponential backoff, SSE, and Pub/Sub routing",
+  "category": "general",
+  "shard": "index/we/bs/websocket_realtime_architect.json",
+  "source_path": "skills/we/websocket_realtime_architect",
+  "keywords": [
+    "websocket realtime architect"
+  ]
 }

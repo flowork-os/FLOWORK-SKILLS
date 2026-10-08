@@ -1,8 +1,13 @@
 {
   "id": "fuzz_testing_harness",
   "name": "fuzz_testing_harness",
-  "description": "Flowork OS Specialization Skill fuzz_testing_harness",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/fu/zz/fuzz_testing_harness.json"
+  "description": "Sovereign runbook for coverage-guided fuzz testing, automated bug hunting, crash reproduction, memory safety validation, and corpus management",
+  "category": "general",
+  "shard": "index/fu/zz/fuzz_testing_harness.json",
+  "source_path": "skills/fu/fuzz_testing_harness",
+  "keywords": [
+    "fuzz testing harness"
+  ]
 }

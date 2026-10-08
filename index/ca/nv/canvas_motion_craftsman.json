@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for purposeful micro-interactions, smooth CSS transitions, toast/modal entrance animations, and zero-jank UI",
+  "category": "Frontend & Motion",
+  "shard": "index/ca/nv/canvas_motion_craftsman.json",
+  "source_path": "skills/ca/canvas_motion_craftsman",
   "keywords": [
     "canvas motion",
     "ui animation",
@@ -25,9 +28,5 @@
     "canvas interactive",
     "svg animation",
     "framerate optimization"
-  ],
-  "category": "Frontend & Motion",
-  "icon": "\u2728",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/ca/nv/canvas_motion_craftsman.json"
+  ]
 }

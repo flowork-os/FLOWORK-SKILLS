@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-08T14:38:12.041Z",
+  "updated_at": "2026-10-09T01:25:00.000Z",
   "repo": "flowork-os/FLOWORK-SKILLS",
-  "total_skills": 44,
+  "total_skills": 68,
   "skills": [
     {
       "id": "adr_architecture_record",
@@ -33,8 +33,10 @@
         "architectural governance"
       ],
       "category": "Architecture & System",
-      "icon": "🏛️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udfdb\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/ad/adr_architecture_record",
+      "shard": "index/ad/r_/adr_architecture_record.json"
     },
     {
       "id": "agent_mesh_communicator",
@@ -65,8 +67,10 @@
         "multi-agent networking"
       ],
       "category": "Swarm & Multi-Agent",
-      "icon": "📡",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udce1",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/ag/agent_mesh_communicator",
+      "shard": "index/ag/en/agent_mesh_communicator.json"
     },
     {
       "id": "audio_dsp_mixing_master",
@@ -97,8 +101,10 @@
         "audio filter"
       ],
       "category": "Media & Audio DSP",
-      "icon": "🎛️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udf9b\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/au/audio_dsp_mixing_master",
+      "shard": "index/au/di/audio_dsp_mixing_master.json"
     },
     {
       "id": "autonomous_loop_runner",
@@ -129,8 +135,10 @@
         "autonomous pipeline"
       ],
       "category": "Autonomous & Loops",
-      "icon": "🔄",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udd04",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/au/autonomous_loop_runner",
+      "shard": "index/au/to/autonomous_loop_runner.json"
     },
     {
       "id": "background_task_dispatcher",
@@ -161,8 +169,10 @@
         "concurrency manager"
       ],
       "category": "System & Process",
-      "icon": "⚙️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\u2699\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/ba/background_task_dispatcher",
+      "shard": "index/ba/ck/background_task_dispatcher.json"
     },
     {
       "id": "beat_synced_video_director",
@@ -193,8 +203,10 @@
         "video sequencing"
       ],
       "category": "Media & Video",
-      "icon": "🎬",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udfac",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/be/beat_synced_video_director",
+      "shard": "index/be/at/beat_synced_video_director.json"
     },
     {
       "id": "browser_qa_tester",
@@ -225,8 +237,10 @@
         "cross-browser testing"
       ],
       "category": "Testing & Automation",
-      "icon": "🧪",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83e\uddea",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/br/browser_qa_tester",
+      "shard": "index/br/ow/browser_qa_tester.json"
     },
     {
       "id": "canvas_motion_craftsman",
@@ -257,8 +271,10 @@
         "framerate optimization"
       ],
       "category": "Frontend & Motion",
-      "icon": "✨",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\u2728",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/ca/canvas_motion_craftsman",
+      "shard": "index/ca/nv/canvas_motion_craftsman.json"
     },
     {
       "id": "canvas_theme_architect",
@@ -289,8 +305,10 @@
         "canvas aesthetic"
       ],
       "category": "Design & Theming",
-      "icon": "🎨",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udfa8",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/ca/canvas_theme_architect",
+      "shard": "index/ca/nv/canvas_theme_architect.json"
     },
     {
       "id": "chat_media_broadcaster",
@@ -321,8 +339,10 @@
         "multimodal ui"
       ],
       "category": "Media & Multimodal",
-      "icon": "🎙️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udf99\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/ch/chat_media_broadcaster",
+      "shard": "index/ch/at/chat_media_broadcaster.json"
     },
     {
       "id": "code_sanctity_guardian",
@@ -353,8 +373,10 @@
         "defensive programming"
       ],
       "category": "Security & Integrity",
-      "icon": "🔒",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udd12",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/co/code_sanctity_guardian",
+      "shard": "index/co/de/code_sanctity_guardian.json"
     },
     {
       "id": "cron_cadence_operator",
@@ -385,8 +407,10 @@
         "cron lifecycle"
       ],
       "category": "Scheduling & Automation",
-      "icon": "⏱️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\u23f1\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/cr/cron_cadence_operator",
+      "shard": "index/cr/on/cron_cadence_operator.json"
     },
     {
       "id": "crypto_scam_honeypot_hunter",
@@ -417,8 +441,10 @@
         "wallet safety"
       ],
       "category": "Blockchain & Security",
-      "icon": "🕵️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udd75\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/cr/crypto_scam_honeypot_hunter",
+      "shard": "index/cr/yp/crypto_scam_honeypot_hunter.json"
     },
     {
       "id": "deep_code_architect",
@@ -449,8 +475,10 @@
         "system modeling"
       ],
       "category": "Architecture & Design",
-      "icon": "📐",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udcd0",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/de/deep_code_architect",
+      "shard": "index/de/ep/deep_code_architect.json"
     },
     {
       "id": "diffusion_video_editor",
@@ -481,8 +509,10 @@
         "keyframe diffusion"
       ],
       "category": "AI & Generative Media",
-      "icon": "🎥",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udfa5",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/di/diffusion_video_editor",
+      "shard": "index/di/ff/diffusion_video_editor.json"
     },
     {
       "id": "distinctive_ui_stylist",
@@ -513,8 +543,10 @@
         "premium feel"
       ],
       "category": "Design & Aesthetics",
-      "icon": "💅",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udc85",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/di/distinctive_ui_stylist",
+      "shard": "index/di/st/distinctive_ui_stylist.json"
     },
     {
       "id": "drawdown_circuit_breaker",
@@ -545,8 +577,10 @@
         "disciplined exits"
       ],
       "category": "Trading & Risk Control",
-      "icon": "📉",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udcc9",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/dr/drawdown_circuit_breaker",
+      "shard": "index/dr/aw/drawdown_circuit_breaker.json"
     },
     {
       "id": "empirical_verifier",
@@ -577,8 +611,10 @@
         "automated verification"
       ],
       "category": "Verification & Quality",
-      "icon": "✅",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\u2705",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/em/empirical_verifier",
+      "shard": "index/em/pi/empirical_verifier.json"
     },
     {
       "id": "git_release_sentinel",
@@ -609,8 +645,10 @@
         "deployment tagging"
       ],
       "category": "DevOps & Git",
-      "icon": "🏷️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udff7\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/gi/git_release_sentinel",
+      "shard": "index/gi/t_/git_release_sentinel.json"
     },
     {
       "id": "high_signal_synthesizer",
@@ -641,8 +679,10 @@
         "high impact reporting"
       ],
       "category": "Cognitive & Analysis",
-      "icon": "🧠",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/hi/high_signal_synthesizer",
+      "shard": "index/hi/gh/high_signal_synthesizer.json"
     },
     {
       "id": "hot_reload_supervisor",
@@ -673,8 +713,10 @@
         "zero restart workflow"
       ],
       "category": "DevOps & Tooling",
-      "icon": "⚡",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\u26a1",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/ho/hot_reload_supervisor",
+      "shard": "index/ho/t_/hot_reload_supervisor.json"
     },
     {
       "id": "lyric_mv_director",
@@ -705,8 +747,10 @@
         "audio subtitle rendering"
       ],
       "category": "Media & Video",
-      "icon": "🎵",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udfb5",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/ly/lyric_mv_director",
+      "shard": "index/ly/ri/lyric_mv_director.json"
     },
     {
       "id": "nano_tdd_architect",
@@ -737,8 +781,10 @@
         "reproducible assertions"
       ],
       "category": "Testing & TDD",
-      "icon": "🔬",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udd2c",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/na/nano_tdd_architect",
+      "shard": "index/na/no/nano_tdd_architect.json"
     },
     {
       "id": "performance_profiler",
@@ -769,8 +815,10 @@
         "runtime efficiency"
       ],
       "category": "Performance & Profiling",
-      "icon": "📊",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udcca",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/pe/performance_profiler",
+      "shard": "index/pe/rf/performance_profiler.json"
     },
     {
       "id": "plugin_architect",
@@ -801,8 +849,10 @@
         "plugin distribution"
       ],
       "category": "Architecture & System",
-      "icon": "🔌",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udd0c",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/pl/plugin_architect",
+      "shard": "index/pl/ug/plugin_architect.json"
     },
     {
       "id": "plugin_suite_curator",
@@ -833,8 +883,10 @@
         "edge cdn install"
       ],
       "category": "Ecosystem & Registry",
-      "icon": "📦",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udce6",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/pl/plugin_suite_curator",
+      "shard": "index/pl/ug/plugin_suite_curator.json"
     },
     {
       "id": "portability_enforcer",
@@ -865,8 +917,10 @@
         "portable runtime"
       ],
       "category": "Portability & Multi-OS",
-      "icon": "🌐",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udf10",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/po/portability_enforcer",
+      "shard": "index/po/rt/portability_enforcer.json"
     },
     {
       "id": "pre_trade_discipline_gate",
@@ -897,8 +951,10 @@
         "overtrading defense"
       ],
       "category": "Trading & Risk Control",
-      "icon": "🚦",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udea6",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/pr/pre_trade_discipline_gate",
+      "shard": "index/pr/e_/pre_trade_discipline_gate.json"
     },
     {
       "id": "security_auditor",
@@ -929,8 +985,10 @@
         "crypto security"
       ],
       "category": "Security & Audit",
-      "icon": "🛡️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udee1\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/se/security_auditor",
+      "shard": "index/se/cu/security_auditor.json"
     },
     {
       "id": "soundtrack_motion_arranger",
@@ -961,8 +1019,10 @@
         "soundtrack pacing"
       ],
       "category": "Media & Sound Design",
-      "icon": "🎼",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udfbc",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/so/soundtrack_motion_arranger",
+      "shard": "index/so/un/soundtrack_motion_arranger.json"
     },
     {
       "id": "sqlite_vault_migrator",
@@ -971,8 +1031,10 @@
       "author": "@awenkaudico",
       "description": "Sovereign runbook for zero-data-loss SQLite schema migrations, WAL mode concurrency, and IPC state persistence",
       "category": "General",
-      "icon": "🧠",
-      "updated_at": "2026-10-07T08:40:35.303Z"
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T08:40:35.303Z",
+      "source_path": "skills/sq/sqlite_vault_migrator",
+      "shard": "index/sq/li/sqlite_vault_migrator.json"
     },
     {
       "id": "subagent_persona_shaper",
@@ -1003,8 +1065,10 @@
         "subagent capability matrix"
       ],
       "category": "Swarm & Multi-Agent",
-      "icon": "🎭",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udfad",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/su/subagent_persona_shaper",
+      "shard": "index/su/ba/subagent_persona_shaper.json"
     },
     {
       "id": "subagent_task_delegator",
@@ -1035,8 +1099,10 @@
         "subagent completion tracking"
       ],
       "category": "Swarm & Multi-Agent",
-      "icon": "🎯",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udfaf",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/su/subagent_task_delegator",
+      "shard": "index/su/ba/subagent_task_delegator.json"
     },
     {
       "id": "surgical_engineer",
@@ -1045,8 +1111,10 @@
       "author": "@awenkaudico",
       "description": "Sovereign runbook for surgical precision coding, zero-bloat nano-modularity, anti-hallucination, and Karpathy minimalist implementation law",
       "category": "General",
-      "icon": "🧠",
-      "updated_at": "2026-10-08T14:38:05.202Z"
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-08T14:38:05.202Z",
+      "source_path": "skills/su/surgical_engineer",
+      "shard": "index/su/rg/surgical_engineer.json"
     },
     {
       "id": "swarm_fleet_controller",
@@ -1077,8 +1145,10 @@
         "swarm consensus"
       ],
       "category": "Swarm & Multi-Agent",
-      "icon": "🚀",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\ude80",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/sw/swarm_fleet_controller",
+      "shard": "index/sw/ar/swarm_fleet_controller.json"
     },
     {
       "id": "swarm_orchestrator",
@@ -1109,8 +1179,10 @@
         "end-to-end swarm flow"
       ],
       "category": "Swarm & Multi-Agent",
-      "icon": "🎼",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83c\udfbc",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/sw/swarm_orchestrator",
+      "shard": "index/sw/ar/swarm_orchestrator.json"
     },
     {
       "id": "system_vitals_auditor",
@@ -1141,8 +1213,10 @@
         "runtime health telemetry"
       ],
       "category": "System & Diagnostics",
-      "icon": "💓",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udc93",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/sy/system_vitals_auditor",
+      "shard": "index/sy/st/system_vitals_auditor.json"
     },
     {
       "id": "systematic_debugger",
@@ -1173,8 +1247,10 @@
         "systematic isolation"
       ],
       "category": "Debugging & Triage",
-      "icon": "🔍",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udd0d",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/sy/systematic_debugger",
+      "shard": "index/sy/st/systematic_debugger.json"
     },
     {
       "id": "tool_forge",
@@ -1205,8 +1281,10 @@
         "edge tool integration"
       ],
       "category": "Tools & Extensions",
-      "icon": "🛠️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udee0\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/to/tool_forge",
+      "shard": "index/to/ol/tool_forge.json"
     },
     {
       "id": "visual_canvas_renderer",
@@ -1237,8 +1315,10 @@
         "canvas rasterization"
       ],
       "category": "Frontend & Canvas",
-      "icon": "🖼️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\uddbc\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/vi/visual_canvas_renderer",
+      "shard": "index/vi/su/visual_canvas_renderer.json"
     },
     {
       "id": "visual_qc_inspector",
@@ -1269,8 +1349,10 @@
         "optical verification"
       ],
       "category": "Verification & UI QC",
-      "icon": "👁️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udc41\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/vi/visual_qc_inspector",
+      "shard": "index/vi/su/visual_qc_inspector.json"
     },
     {
       "id": "wallet_aml_risk_scanner",
@@ -1301,8 +1383,10 @@
         "crypto provenance"
       ],
       "category": "Blockchain & Security",
-      "icon": "🔎",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udd0e",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/wa/wallet_aml_risk_scanner",
+      "shard": "index/wa/ll/wallet_aml_risk_scanner.json"
     },
     {
       "id": "web_deep_scraper",
@@ -1333,8 +1417,10 @@
         "resilient crawler"
       ],
       "category": "Data & Web Scraping",
-      "icon": "🕸️",
-      "updated_at": "2026-10-07T04:21:20.000Z"
+      "icon": "\ud83d\udd78\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "source_path": "skills/we/web_deep_scraper",
+      "shard": "index/we/b_/web_deep_scraper.json"
     },
     {
       "id": "web_intelligence_hunter",
@@ -1343,8 +1429,10 @@
       "author": "@awenkaudico",
       "description": "Sovereign runbook for precision technical search queries, source triangulation, and documentation discovery",
       "category": "General",
-      "icon": "🧠",
-      "updated_at": "2026-10-07T08:42:13.680Z"
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T08:42:13.680Z",
+      "source_path": "skills/we/web_intelligence_hunter",
+      "shard": "index/we/b_/web_intelligence_hunter.json"
     },
     {
       "id": "data_pipeline_transformer",
@@ -1353,8 +1441,10 @@
       "author": "@awenkaudico",
       "description": "Sovereign runbook for high-throughput streaming data pipelines, Polars DuckDB dataframes, zero-OOM memory batching, schema validation, and Parquet conversions",
       "category": "General",
-      "icon": "🧠",
-      "updated_at": "2026-10-07T05:47:32.255Z"
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T05:47:32.255Z",
+      "source_path": "skills/da/data_pipeline_transformer",
+      "shard": "index/da/ta/data_pipeline_transformer.json"
     },
     {
       "id": "network_pentest_recon",
@@ -1363,8 +1453,10 @@
       "author": "@awenkaudico",
       "description": "Sovereign runbook for ethical network reconnaissance, defensive port footprinting, HTTP security header auditing, CORS probing, and SSRF detection",
       "category": "General",
-      "icon": "🧠",
-      "updated_at": "2026-10-07T05:47:39.346Z"
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T05:47:39.346Z",
+      "source_path": "skills/ne/network_pentest_recon",
+      "shard": "index/ne/tw/network_pentest_recon.json"
     },
     {
       "id": "sql_query_optimizer",
@@ -1373,8 +1465,10 @@
       "author": "@awenkaudico",
       "description": "Sovereign runbook for slow SQL query profiling, explain query plan analysis, B-tree covering indexes, N+1 query elimination, and WAL tuning",
       "category": "General",
-      "icon": "🧠",
-      "updated_at": "2026-10-07T08:29:06.149Z"
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T08:29:06.149Z",
+      "source_path": "skills/sq/sql_query_optimizer",
+      "shard": "index/sq/l_/sql_query_optimizer.json"
     },
     {
       "id": "software_supply_chain_sentinel",
@@ -1383,18 +1477,10 @@
       "author": "@awenkaudico",
       "description": "Sovereign runbook for Software Bill of Materials (SBOM) generation, dependency vulnerability audits, typosquatting detection, and package integrity verification",
       "category": "General",
-      "icon": "🧠",
-      "updated_at": "2026-10-07T08:49:18.217Z"
-    },
-    {
-      "id": "test-superadmin",
-      "name": "test-superadmin",
-      "version": "1.0.0",
-      "author": "@awenkaudico",
-      "description": "",
-      "category": "General",
-      "icon": "🧠",
-      "updated_at": "2026-10-07T08:58:52.172Z"
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T08:49:18.217Z",
+      "source_path": "skills/so/software_supply_chain_sentinel",
+      "shard": "index/so/ft/software_supply_chain_sentinel.json"
     },
     {
       "id": "reverse_engineer_anything",
@@ -1403,8 +1489,238 @@
       "author": "@awenkaudico",
       "description": "Sovereign runbook for multi-target reverse engineering, decompilation, binary inspection, and clean-room reconstruction across native binaries, Electron/ASAR, APK, and managed code",
       "category": "General",
-      "icon": "🧠",
-      "updated_at": "2026-10-08T14:38:12.041Z"
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-08T14:38:12.041Z",
+      "source_path": "skills/re/reverse_engineer_anything",
+      "shard": "index/re/ve/reverse_engineer_anything.json"
+    },
+    {
+      "id": "llm_token_optimizer",
+      "name": "llm_token_optimizer",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for LLM token budget management, prompt compression, context window pruning, semantic prompt caching, and structured JSON outputs",
+      "keywords": [
+        "llm token optimizer"
+      ],
+      "source_path": "skills/ll/llm_token_optimizer",
+      "shard": "index/ll/m_/llm_token_optimizer.json"
+    },
+    {
+      "id": "docker_container_shipwright",
+      "name": "docker_container_shipwright",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for multi-stage Docker builds, rootless container security, compose orchestration, and zero-leak deployment",
+      "keywords": [
+        "docker container shipwright"
+      ],
+      "source_path": "skills/do/docker_container_shipwright",
+      "shard": "index/do/ck/docker_container_shipwright.json"
+    },
+    {
+      "id": "sast_rule_craftsman",
+      "name": "sast_rule_craftsman",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for authoring SAST detection rules, AST semantic pattern matching, taint tracking, and eliminating false positives in source code audits",
+      "keywords": [
+        "sast rule craftsman"
+      ],
+      "source_path": "skills/sa/sast_rule_craftsman",
+      "shard": "index/sa/st/sast_rule_craftsman.json"
+    },
+    {
+      "id": "network_packet_analyst",
+      "name": "network_packet_analyst",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for low-level network packet analysis, tcpdump captures, socket inspection, DNS resolution triage, and TLS handshake auditing",
+      "keywords": [
+        "network packet analyst"
+      ],
+      "source_path": "skills/ne/network_packet_analyst",
+      "shard": "index/ne/tw/network_packet_analyst.json"
+    },
+    {
+      "id": "fuzz_testing_harness",
+      "name": "fuzz_testing_harness",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for coverage-guided fuzz testing, automated bug hunting, crash reproduction, memory safety validation, and corpus management",
+      "keywords": [
+        "fuzz testing harness"
+      ],
+      "source_path": "skills/fu/fuzz_testing_harness",
+      "shard": "index/fu/zz/fuzz_testing_harness.json"
+    },
+    {
+      "id": "web_appsec_auditor",
+      "name": "web_appsec_auditor",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for OWASP Top 10 web application security auditing, security headers hardening, access control review, and vulnerability mitigation",
+      "keywords": [
+        "web appsec auditor"
+      ],
+      "source_path": "skills/we/web_appsec_auditor",
+      "shard": "index/we/b_/web_appsec_auditor.json"
+    },
+    {
+      "id": "api_contract_architect",
+      "name": "api_contract_architect",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for OpenAPI 3.1 specifications, strict JSON Schema validation, mock server generation, and breaking change prevention",
+      "keywords": [
+        "api contract architect"
+      ],
+      "source_path": "skills/ap/api_contract_architect",
+      "shard": "index/ap/i_/api_contract_architect.json"
+    },
+    {
+      "id": "network_traffic_sentinel",
+      "name": "network_traffic_sentinel",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for network traffic analysis, packet/TLS handshakes, open port auditing, reverse proxy tuning, and connection diagnostics",
+      "keywords": [
+        "network traffic sentinel"
+      ],
+      "source_path": "skills/ne/network_traffic_sentinel",
+      "shard": "index/ne/tw/network_traffic_sentinel.json"
+    },
+    {
+      "id": "docker_container_deployer",
+      "name": "docker_container_deployer",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for Docker multi-stage containerization, Compose orchestration, volume lifecycle, and rootless security hardening",
+      "keywords": [
+        "docker container deployer"
+      ],
+      "source_path": "skills/do/docker_container_deployer",
+      "shard": "index/do/ck/docker_container_deployer.json"
+    },
+    {
+      "id": "protocol_reverse_engineer",
+      "name": "protocol_reverse_engineer",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for network wire protocol reverse engineering, packet schema recovery, clean-room IPC reconstruction, and interoperability design",
+      "keywords": [
+        "protocol reverse engineer"
+      ],
+      "source_path": "skills/pr/protocol_reverse_engineer",
+      "shard": "index/pr/ot/protocol_reverse_engineer.json"
+    },
+    {
+      "id": "embedding_vector_librarian",
+      "name": "embedding_vector_librarian",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for local vector database management, cosine similarity retrieval, semantic chunk overlap indexing, and embedding deduplication",
+      "keywords": [
+        "embedding vector librarian"
+      ],
+      "source_path": "skills/em/embedding_vector_librarian",
+      "shard": "index/em/be/embedding_vector_librarian.json"
+    },
+    {
+      "id": "git_conflict_resolver",
+      "name": "git_conflict_resolver",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for multi-branch git merge conflict resolution, interactive rebase, git bisect regression hunting, and tree integrity",
+      "keywords": [
+        "git conflict resolver"
+      ],
+      "source_path": "skills/gi/git_conflict_resolver",
+      "shard": "index/gi/t_/git_conflict_resolver.json"
+    },
+    {
+      "id": "websocket_realtime_architect",
+      "name": "websocket_realtime_architect",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for bidirectional WebSocket architectures, heartbeat ping-pong protocols, reconnection exponential backoff, SSE, and Pub/Sub routing",
+      "keywords": [
+        "websocket realtime architect"
+      ],
+      "source_path": "skills/we/websocket_realtime_architect",
+      "shard": "index/we/bs/websocket_realtime_architect.json"
+    },
+    {
+      "id": "k8s_cluster_commander",
+      "name": "k8s_cluster_commander",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for Kubernetes manifest orchestration, Pod lifecycle, Ingress routing, Helm charts, and cluster resource scaling",
+      "keywords": [
+        "k8s cluster commander"
+      ],
+      "source_path": "skills/k8/k8s_cluster_commander",
+      "shard": "index/k8/s_/k8s_cluster_commander.json"
+    },
+    {
+      "id": "api_gateway_integrator",
+      "name": "api_gateway_integrator",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for RESTful and gRPC API contract design, Bearer auth validation, rate limiting token bucket algorithms, and resilient webhook retries",
+      "keywords": [
+        "api gateway integrator"
+      ],
+      "source_path": "skills/ap/api_gateway_integrator",
+      "shard": "index/ap/i_/api_gateway_integrator.json"
+    },
+    {
+      "id": "cloud_infra_provisioner",
+      "name": "cloud_infra_provisioner",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for Terraform and OpenTofu infrastructure as code, immutable cloud state, modular provisioning, and zero-drift deployments",
+      "keywords": [
+        "cloud infra provisioner"
+      ],
+      "source_path": "skills/cl/cloud_infra_provisioner",
+      "shard": "index/cl/ou/cloud_infra_provisioner.json"
+    },
+    {
+      "id": "linux_sysadmin_hardener",
+      "name": "linux_sysadmin_hardener",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for Linux system administration, Systemd unit daemonization, journalctl diagnostics, permission auditing, and firewall hardening",
+      "keywords": [
+        "linux sysadmin hardener"
+      ],
+      "source_path": "skills/li/linux_sysadmin_hardener",
+      "shard": "index/li/nu/linux_sysadmin_hardener.json"
+    },
+    {
+      "id": "prompt_defense_architect",
+      "name": "prompt_defense_architect",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for metaprompt security auditing, indirect prompt injection defense, structured output enforcement, and anti-jailbreak hardening",
+      "keywords": [
+        "prompt defense architect"
+      ],
+      "source_path": "skills/pr/prompt_defense_architect",
+      "shard": "index/pr/om/prompt_defense_architect.json"
+    },
+    {
+      "id": "rag_vector_curator",
+      "name": "rag_vector_curator",
+      "version": "1.0.0",
+      "author": "Flowork OS",
+      "description": "Sovereign runbook for document chunking strategies, embedding pipeline optimization, hybrid BM25 vector search, and reranking calibration",
+      "keywords": [
+        "rag vector curator"
+      ],
+      "source_path": "skills/ra/rag_vector_curator",
+      "shard": "index/ra/g_/rag_vector_curator.json"
     }
   ]
 }

@@ -1,8 +1,13 @@
 {
   "id": "embedding_vector_librarian",
   "name": "embedding_vector_librarian",
-  "description": "Flowork OS Specialization Skill embedding_vector_librarian",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/em/be/embedding_vector_librarian.json"
+  "description": "Sovereign runbook for local vector database management, cosine similarity retrieval, semantic chunk overlap indexing, and embedding deduplication",
+  "category": "general",
+  "shard": "index/em/be/embedding_vector_librarian.json",
+  "source_path": "skills/em/embedding_vector_librarian",
+  "keywords": [
+    "embedding vector librarian"
+  ]
 }

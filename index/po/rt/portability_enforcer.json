@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for cross-platform Multi-OS code normalization and zero-hardcoding enforcement",
+  "category": "Portability & Multi-OS",
+  "shard": "index/po/rt/portability_enforcer.json",
+  "source_path": "skills/po/portability_enforcer",
   "keywords": [
     "portability enforcer",
     "multi-os portability",
@@ -25,9 +28,5 @@
     "multi-platform testing",
     "relative path enforcement",
     "portable runtime"
-  ],
-  "category": "Portability & Multi-OS",
-  "icon": "\ud83c\udf10",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/po/rt/portability_enforcer.json"
+  ]
 }

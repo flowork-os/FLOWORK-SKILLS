@@ -1,8 +1,13 @@
 {
   "id": "llm_token_optimizer",
   "name": "llm_token_optimizer",
-  "description": "Flowork OS Specialization Skill llm_token_optimizer",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/ll/m_/llm_token_optimizer.json"
+  "description": "Sovereign runbook for LLM token budget management, prompt compression, context window pruning, semantic prompt caching, and structured JSON outputs",
+  "category": "general",
+  "shard": "index/ll/m_/llm_token_optimizer.json",
+  "source_path": "skills/ll/llm_token_optimizer",
+  "keywords": [
+    "llm token optimizer"
+  ]
 }

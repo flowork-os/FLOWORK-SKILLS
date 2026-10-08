@@ -1,8 +1,13 @@
 {
   "id": "web_appsec_auditor",
   "name": "web_appsec_auditor",
-  "description": "Flowork OS Specialization Skill web_appsec_auditor",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/we/b_/web_appsec_auditor.json"
+  "description": "Sovereign runbook for OWASP Top 10 web application security auditing, security headers hardening, access control review, and vulnerability mitigation",
+  "category": "general",
+  "shard": "index/we/b_/web_appsec_auditor.json",
+  "source_path": "skills/we/web_appsec_auditor",
+  "keywords": [
+    "web appsec auditor"
+  ]
 }

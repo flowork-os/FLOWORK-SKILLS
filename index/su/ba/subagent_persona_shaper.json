@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for creating, shaping, and registering dedicated subagent personas in SOUL directory",
+  "category": "Swarm & Multi-Agent",
+  "shard": "index/su/ba/subagent_persona_shaper.json",
+  "source_path": "skills/su/subagent_persona_shaper",
   "keywords": [
     "subagent persona",
     "persona shaper",
@@ -25,9 +28,5 @@
     "system prompt injection",
     "agent archetype",
     "subagent capability matrix"
-  ],
-  "category": "Swarm & Multi-Agent",
-  "icon": "\ud83c\udfad",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/su/ba/subagent_persona_shaper.json"
+  ]
 }

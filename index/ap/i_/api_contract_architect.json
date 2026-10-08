@@ -1,8 +1,13 @@
 {
   "id": "api_contract_architect",
   "name": "api_contract_architect",
-  "description": "Flowork OS Specialization Skill api_contract_architect",
+  "version": "1.0.0",
   "author": "Flowork OS",
-  "category": "engineering",
-  "shard": "index/ap/i_/api_contract_architect.json"
+  "description": "Sovereign runbook for OpenAPI 3.1 specifications, strict JSON Schema validation, mock server generation, and breaking change prevention",
+  "category": "general",
+  "shard": "index/ap/i_/api_contract_architect.json",
+  "source_path": "skills/ap/api_contract_architect",
+  "keywords": [
+    "api contract architect"
+  ]
 }

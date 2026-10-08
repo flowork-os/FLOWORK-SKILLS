@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "author": "Awenk Audico & Flowork OS",
   "description": "Sovereign runbook for BPM grid quantization, narrative mood transitions, stem layering, and dynamic sound design scoring",
+  "category": "Media & Sound Design",
+  "shard": "index/so/un/soundtrack_motion_arranger.json",
+  "source_path": "skills/so/soundtrack_motion_arranger",
   "keywords": [
     "soundtrack arranger",
     "audio motion sync",
@@ -25,9 +28,5 @@
     "audio hit points",
     "dialogue clarity ducking",
     "soundtrack pacing"
-  ],
-  "category": "Media & Sound Design",
-  "icon": "\ud83c\udfbc",
-  "updated_at": "2026-10-07T04:21:20.000Z",
-  "shard": "index/so/un/soundtrack_motion_arranger.json"
+  ]
 }
