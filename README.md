@@ -1,60 +1,188 @@
-# 📚 FLOWORK OS OFFICIAL SKILLS REGISTRY
+<div align="center">
 
-Official runbooks, SOPs, and dynamic on-demand skills for Flowork OS agents.
-Zero-Token Bloat: Just-In-Time skill delivery via Public CDN.
+# 📚 Flowork OS Sovereign Skills Registry (`FLOWORK-SKILLS`)
 
-- **Repository**: https://github.com/flowork-os/FLOWORK-SKILLS
-- **Edge Gateway**: https://plugins.floworkos.com/api/skills/search
-- **Total Standardized Skills**: 44 (Each equipped with 20 mandatory English keywords)
+**Curated Standardized Runbooks, Operational SOPs & On-Demand Skills for Autonomous AI Agents**
 
-| Icon | Skill ID | Category | Keywords Count | Description |
-| :---: | :--- | :--- | :---: | :--- |
-| 🏛️ | `adr_architecture_record` | Architecture & System | 20 | Sovereign runbook for documenting architectural decisions, sync FL_MIND.MD, and preventing architectural drift |
-| 📡 | `agent_mesh_communicator` | Swarm & Multi-Agent | 20 | Sovereign runbook for peer-to-peer message routing and synchronization across active agent workers |
-| 🎛️ | `audio_dsp_mixing_master` | Media & Audio DSP | 20 | Sovereign runbook for digital audio processing, LUFS loudness compliance, EQ frequency carving, multi-band dynamics, and clean master output |
-| 🔄 | `autonomous_loop_runner` | Autonomous & Loops | 20 | Sovereign runbook for goal-driven autonomous task execution, circuit-breaker loops, state checkpointing, and regression defense |
-| ⚙️ | `background_task_dispatcher` | System & Process | 20 | Sovereign runbook for dispatching, monitoring, and supervising long-running background tasks |
-| 🎬 | `beat_synced_video_director` | Media & Video | 20 | Sovereign runbook for beat-synced visual prompts, high-retention 2-second hook framework, bass-drop visual explosions, and rhythm choreography |
-| 🧪 | `browser_qa_tester` | Testing & Automation | 20 | Sovereign runbook for Canvas UI end-to-end automation, IPC event verification, headless browser QA, and visual regression defense |
-| ✨ | `canvas_motion_craftsman` | Frontend & Motion | 20 | Sovereign runbook for purposeful micro-interactions, smooth CSS transitions, toast/modal entrance animations, and zero-jank UI |
-| 🎨 | `canvas_theme_architect` | Design & Theming | 20 | Sovereign runbook for crafting Dark Slate/Cyan design systems, tokenized themes, and 100% English Canvas ergonomics |
-| 🎙️ | `chat_media_broadcaster` | Media & Multimodal | 20 | Sovereign runbook for dispatching rich media, HTML5 video previews, and interactive artifacts to canvas chat |
-| 🔒 | `code_sanctity_guardian` | Security & Integrity | 20 | Sovereign runbook for locking, protecting, and safeguarding sacred code blocks against unintended mutations |
-| ⏱️ | `cron_cadence_operator` | Scheduling & Automation | 20 | Sovereign runbook for precision cron jobs, timer scheduling, and non-blocking recurring workflows |
-| 🕵️ | `crypto_scam_honeypot_hunter` | Blockchain & Security | 20 | Sovereign runbook for detecting smart contract honeypots, hidden sell taxes, mint backdoors, and rugpull indicators |
-| 📐 | `deep_code_architect` | Architecture & Design | 20 | Sovereign runbook for designing deep modules with small interfaces, locality, high leverage, and clean seams |
-| 🎥 | `diffusion_video_editor` | AI & Generative Media | 20 | Sovereign runbook for multi-track timeline video editing, WebCodecs hardware acceleration, and FFmpeg pipeline |
-| 💅 | `distinctive_ui_stylist` | Design & Aesthetics | 20 | Sovereign runbook for distinctive purposeful UI design, typography scales, anti-AI-slop layout, and visual hierarchy |
-| 📉 | `drawdown_circuit_breaker` | Trading & Risk Control | 20 | Sovereign runbook for portfolio drawdown limits, streak cooldowns, daily loss caps, and capital preservation circuit breakers |
-| ✅ | `empirical_verifier` | Verification & Quality | 20 | Sovereign runbook for physical terminal evidence verification, Exit Code 0 enforcement, and zero-overclaim validation |
-| 🏷️ | `git_release_sentinel` | DevOps & Git | 20 | Sovereign runbook for SemVer versioning, high-signal changelogs, and DLP pre-flight release rigor |
-| 🧠 | `high_signal_synthesizer` | Cognitive & Analysis | 20 | Sovereign runbook for high-signal technical communication, ADHD-friendly direct output, zero fluff, and anti-apology reporting |
-| ⚡ | `hot_reload_supervisor` | DevOps & Tooling | 20 | Sovereign runbook for autonomous engine hot-restarts, state checkpointing, and zero-downtime conversation recovery |
-| 🎵 | `lyric_mv_director` | Media & Video | 20 | Sovereign runbook for automated beat-locked lyric videos, kinetic typography animations, LRC timestamp synchronization, and canvas rendering |
-| 🔬 | `nano_tdd_architect` | Testing & TDD | 20 | Sovereign runbook for nano-modular Test-Driven Development (Red-Green-Refactor) and isolated test suites |
-| 📊 | `performance_profiler` | Performance & Profiling | 20 | Sovereign runbook for detecting memory leaks, CPU thread bottlenecks, and empirical optimization loops |
-| 🔌 | `plugin_architect` | Architecture & System | 20 | Sovereign runbook for creating, modifying, and refactoring Flowork OS plugins |
-| 📦 | `plugin_suite_curator` | Ecosystem & Registry | 20 | Sovereign runbook for managing Canvas UI tabs, plugin lifecycles, and edge CDN installations |
-| 🌐 | `portability_enforcer` | Portability & Multi-OS | 20 | Sovereign runbook for cross-platform Multi-OS code normalization and zero-hardcoding enforcement |
-| 🚦 | `pre_trade_discipline_gate` | Trading & Risk Control | 20 | Sovereign runbook for pre-trade checklist gating, revenge trade prevention, risk-reward verification, and offline execution rigor |
-| 🛡️ | `security_auditor` | Security & Audit | 20 | Sovereign runbook for SAST security audit, vulnerability mitigation, secret sanitization, and CVE offline checking |
-| 🎼 | `soundtrack_motion_arranger` | Media & Sound Design | 20 | Sovereign runbook for BPM grid quantization, narrative mood transitions, stem layering, and dynamic sound design scoring |
-| 💾 | `sqlite_vault_migrator` | Database & Storage | 20 | Sovereign runbook for zero-data-loss SQLite schema migrations, WAL mode concurrency, and IPC state persistence |
-| 🎭 | `subagent_persona_shaper` | Swarm & Multi-Agent | 20 | Sovereign runbook for creating, shaping, and registering dedicated subagent personas in SOUL directory |
-| 🎯 | `subagent_task_delegator` | Swarm & Multi-Agent | 20 | Sovereign runbook for dispatching specialized subagents with isolated context and strict delegation boundaries |
-| 🩺 | `surgical_engineer` | Code Craft & Refactoring | 20 | Sovereign runbook for surgical precision coding, zero-bloat nano-modularity, anti-hallucination, and Karpathy minimalist implementation law |
-| 🚀 | `swarm_fleet_controller` | Swarm & Multi-Agent | 20 | Sovereign runbook for monitoring, cancelling, and reconciling multi-agent concurrent swarms |
-| 🎼 | `swarm_orchestrator` | Swarm & Multi-Agent | 20 | Sovereign runbook for multi-agent delegation, role coordination, consensus protocol, and artifact aggregation |
-| 💓 | `system_vitals_auditor` | System & Diagnostics | 20 | Sovereign runbook for inspecting host metrics, RAM/CPU load, disk capacity, and listening network ports |
-| 🔍 | `systematic_debugger` | Debugging & Triage | 20 | Sovereign runbook for root cause tracing, isolated feedback loops, and zero-symptom-patching debugging |
-| 🛠️ | `tool_forge` | Tools & Extensions | 20 | Sovereign runbook for designing, wrapping, and registering dynamic agent tools in Flowork OS |
-| 🖼️ | `visual_canvas_renderer` | Frontend & Canvas | 20 | Sovereign runbook for generative image asset pipelines, UI mockups, and canvas graphical components |
-| 👁️ | `visual_qc_inspector` | Verification & UI QC | 20 | Sovereign runbook for physical UI desktop captures, visual defect diagnosis, and pixel evidence auditing |
-| 🔎 | `wallet_aml_risk_scanner` | Blockchain & Security | 20 | Sovereign runbook for multi-chain wallet risk scoring, AML screening, sanctioned entity/mixer tracing, and phishing drainer detection |
-| 🕸️ | `web_deep_scraper` | Data & Web Scraping | 20 | Sovereign runbook for extracting, sanitizing, and distilling external web pages into clean markdown |
-| 🌐 | `web_intelligence_hunter` | Intelligence & OSINT | 20 | Sovereign runbook for precision technical search queries, source triangulation, and documentation discovery |
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standardized%20Runbooks-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://floworkos.com)
+[![Prompt Ops](https://img.shields.io/badge/Prompt%20Ops-Zero--Hallucination%20SOP-8A2BE2?style=for-the-badge)](https://floworkos.com)
+[![Zero Token Bloat](https://img.shields.io/badge/Context%20Engine-Just--In--Time%20Delivery-00D26A?style=for-the-badge)](https://floworkos.com)
+[![Architecture](https://img.shields.io/badge/Architecture-Nano--Modular%20Sharded-00F5FF?style=for-the-badge)](https://floworkos.com)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/flowork-os/FLOWORK-SKILLS/pulls)
 
-## 🏷️ Mandatory Standard: 20 English Keywords per Skill
-Every official Flowork OS skill mandates exactly 20 high-signal, domain-specific English keywords in its frontmatter YAML to ensure zero-loss semantic matching and ultra-efficient Just-In-Time skill injection.
+<p align="center">
+  <a href="#-the-paradigm-shift">The Paradigm Shift</a> •
+  <a href="#-dynamic-discovery--search">Discovery</a> •
+  <a href="#-architecture--specs">Architecture</a> •
+  <a href="#-the-sacred-20-keyword-standard">20-Keyword Standard</a> •
+  <a href="#-zero-api-cdn-installation">Installation</a> •
+  <a href="#-contributing-new-skills">Contributing</a>
+</p>
+
+---
+
+</div>
+
+## 💡 The Paradigm Shift: On-Demand Skills vs Prompt Bloat
+
+### The Flaw of Monolithic System Prompts
+Stuffing dozens of domain-specific instructions into an LLM's system prompt leads to:
+1. **Context Exhaustion**: Massive token overhead before the agent even begins the task.
+2. **Attention Dilution & Hallucination**: Conflicting guidelines confuse LLM reasoning paths.
+3. **Severe Rigidity**: Inability to update specialized runbooks without redeploying the entire agent stack.
+
+### The Flowork OS Solution: Just-In-Time (JIT) Skill Ingestion
+Flowork OS decouples agent operational intelligence into modular runbooks:
+- 🎯 **Pure Off-Context Storage**: Skills reside in high-speed sharded indexes, consuming zero prompt tokens until required.
+- ⚡ **Auto-Intercept Gate**: When a task is dispatched, the runtime matches user intents against the skill catalog and auto-injects **at most 1 active skill** into context.
+- 🧹 **Instant Eviction**: Upon task completion (Exit Code 0), the skill is de-mounted, returning the context to baseline.
+
+---
+
+## 🔍 Dynamic Discovery & Search
+
+To support unlimited runbook growth without bloating repository documentation, all skills are indexed dynamically:
+
+### 1. Web Skills Explorer
+Search and inspect verified runbooks interactively on the official portal:
+👉 **[https://plugins.floworkos.com](https://plugins.floworkos.com)**
+
+### 2. Edge Gateway API
+Real-time JSON search endpoint powered by Cloudflare Workers:
+```bash
+# Search skills by domain or keyword
+curl -s "https://plugins.floworkos.com/api/skills/search?q=cybersecurity"
+```
+
+### 3. Agent Semantic Recall & CLI
+Flowork AI agents discover skills autonomously during reasoning:
+```bash
+# Query registry via Flowork CLI
+flowork skill search "smart contract audit"
+```
+
+### 4. Sharded Metadata Index
+Direct O(1) file lookups:
+`index/<aa>/<bb>/<skill_id>.json`
+
+---
+
+## 🏛️ Architecture & Sharded Lookup
+
+```
+FLOWORK-SKILLS/
+├── index/                        # O(1) Crates.io-style sharded lookup metadata
+│   └── <aa>/<bb>/<skill_id>.json
+├── skills/                       # Sovereign skill runbook repositories
+│   └── <aa>/<skill_id>/
+│       ├── SKILL.md              # Mandatory runbook with 20-keyword frontmatter
+│       ├── scripts/              # Optional helper utilities
+│       ├── examples/             # Implementation patterns & test cases
+│       └── resources/            # Schemas, payloads & reference tables
+├── skills.json                   # Root catalog index
+└── README.md
+```
+
+### O(1) Sharding Algorithm
+To guarantee instant Git and filesystem lookups across tens of thousands of skills:
+$$\text{Skill Directory} = \text{skills}/\{id[0..2]\}/\{id\}$$
+$$\text{Index Shard} = \text{index}/\{id[0..2]\}/\{id[2..4]\}/\{id\}.\text{json}$$
+
+---
+
+## 📜 The Sacred 20-Keyword Standard
+
+Every skill MUST be authored as a markdown document (`SKILL.md`) beginning with YAML frontmatter containing **EXACTLY 20 ENGLISH KEYWORDS**. Skills failing this specification are automatically rejected by the preflight compiler and runtime gatekeeper.
+
+### Why Exactly 20 English Keywords?
+1. **Deterministic Vector Space**: Eliminates vector indexing skew caused by unbalanced keyword lengths.
+2. **Cross-Model Semantic Alignment**: Ensures optimal retrieval across all frontier LLMs (Claude, GPT, Gemini, DeepSeek).
+3. **Rigorous Scoping**: Forces runbook authors to precisely define target symptoms, root causes, tooling, and execution environments.
+
+### Standard `SKILL.md` Template
+```markdown
+---
+name: example_skill_name
+description: Clear, concise explanation of when and why to activate this skill.
+category: Architecture & System
+version: 1.0.0
+author: Flowork OS & Community
+keywords:
+  - keyword_01
+  - keyword_02
+  - keyword_03
+  - keyword_04
+  - keyword_05
+  - keyword_06
+  - keyword_07
+  - keyword_08
+  - keyword_09
+  - keyword_10
+  - keyword_11
+  - keyword_12
+  - keyword_13
+  - keyword_14
+  - keyword_15
+  - keyword_16
+  - keyword_17
+  - keyword_18
+  - keyword_19
+  - keyword_20
+---
+
+# Operational Runbook: Example Skill
+
+## 1. Trigger Conditions
+- Exact symptoms and agent triggers.
+
+## 2. Standard Operating Procedure (SOP)
+1. Step-by-step verifiable actions.
+2. Terminal commands and expected outputs.
+
+## 3. Verification & Exit Code 0 Proof
+- Mandatory checks to confirm task success.
+```
+
+---
+
+## ⚡ Zero-API CDN Installation
+
+Stream and extract runbooks directly via raw GitHub archive streaming without consuming GitHub API rate limits:
+
+```bash
+SKILL_ID="security_auditor"
+PREFIX="${SKILL_ID:0:2}"
+
+curl -sL "https://codeload.github.com/flowork-os/FLOWORK-SKILLS/tar.gz/main" | \
+  tar -xz --strip-components=3 -C ./.agents/skills/ "FLOWORK-SKILLS-main/skills/${PREFIX}/${SKILL_ID}"
+```
+
+---
+
+## 🤝 Contributing New Skills
+
+We welcome battle-tested operational runbooks from the community!
+
+### Quality Checklist:
+1. **YAML Frontmatter**: Includes `name`, `description`, `category`, and **exactly 20 English keywords**.
+2. **Empirical Verification**: Runbooks must mandate terminal proof with Exit Code 0.
+3. **No Fluff**: Pure technical, actionable procedures. No conversational filler.
+4. **Self-Contained**: Any helper scripts must live in the skill's `scripts/` directory.
+
+### Submit via Pull Request
+```bash
+git checkout -b feature/add-skill
+# Place skill in skills/{id[:2]}/{id}
+git add skills/ index/ skills.json
+git commit -m "feat(skills): publish <id> runbook"
+git push origin feature/add-skill
+```
+
+---
+
+## 📄 License
+
+Licensed under the **MIT License**. Engineered for sovereign AI intelligence by Flowork OS.
 
 Co-authored-by: Flowork OS <agent@floworkos.com>
