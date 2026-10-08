@@ -1,0 +1,11 @@
+{
+  "id": "web_intelligence_hunter",
+  "name": "web_intelligence_hunter",
+  "version": "1.0.0",
+  "author": "@awenkaudico",
+  "description": "Sovereign runbook for precision technical search queries, source triangulation, and documentation discovery",
+  "category": "General",
+  "icon": "\ud83e\udde0",
+  "updated_at": "2026-10-07T08:42:13.680Z",
+  "shard": "index/we/b_/web_intelligence_hunter.json"
+}

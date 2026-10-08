@@ -1,0 +1,72 @@
+{
+  "category": "Architecture & System",
+  "total_items": 2,
+  "items": [
+    {
+      "id": "adr_architecture_record",
+      "name": "adr_architecture_record",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for documenting architectural decisions, sync FL_MIND.MD, and preventing architectural drift",
+      "keywords": [
+        "adr",
+        "architecture decision record",
+        "architectural decisions",
+        "decision log",
+        "system design record",
+        "technical debt record",
+        "design rationale",
+        "architecture history",
+        "fl_mind sync",
+        "architecture drift",
+        "software design document",
+        "rfc proposal",
+        "engineering decision",
+        "system blueprint",
+        "tech stack rationale",
+        "tradeoff analysis",
+        "design pattern selection",
+        "legacy migration record",
+        "consequence evaluation",
+        "architectural governance"
+      ],
+      "category": "Architecture & System",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/ad/r_/adr_architecture_record.json"
+    },
+    {
+      "id": "plugin_architect",
+      "name": "plugin_architect",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for creating, modifying, and refactoring Flowork OS plugins",
+      "keywords": [
+        "plugin architect",
+        "manifest.json",
+        "canvas plugin",
+        "plugin development",
+        "micro frontend",
+        "1-file-1-logic",
+        "modular plugin",
+        "plugin lifecycle",
+        "plugin api",
+        "canvas iframe",
+        "plugin ipc",
+        "plugin state management",
+        "plugin configuration",
+        "plugin scaffold",
+        "portable plugin",
+        "plugin ui",
+        "plugin package",
+        "plugin loader",
+        "plugin manifest validation",
+        "plugin distribution"
+      ],
+      "category": "Architecture & System",
+      "icon": "\ud83d\udd0c",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/pl/ug/plugin_architect.json"
+    }
+  ]
+}

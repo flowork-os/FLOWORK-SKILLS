@@ -1,0 +1,39 @@
+{
+  "category": "Testing & Automation",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "browser_qa_tester",
+      "name": "browser_qa_tester",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for Canvas UI end-to-end automation, IPC event verification, headless browser QA, and visual regression defense",
+      "keywords": [
+        "browser qa",
+        "canvas ui testing",
+        "headless browser",
+        "puppeteer",
+        "playwright",
+        "e2e testing",
+        "visual regression",
+        "ui automation",
+        "dom inspection",
+        "click automation",
+        "screenshot testing",
+        "browser console errors",
+        "network inspection",
+        "form submission test",
+        "element locator",
+        "web regression",
+        "integration testing",
+        "session validation",
+        "page load audit",
+        "cross-browser testing"
+      ],
+      "category": "Testing & Automation",
+      "icon": "\ud83e\uddea",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/br/ow/browser_qa_tester.json"
+    }
+  ]
+}

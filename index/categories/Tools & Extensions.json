@@ -1,0 +1,39 @@
+{
+  "category": "Tools & Extensions",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "tool_forge",
+      "name": "tool_forge",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for designing, wrapping, and registering dynamic agent tools in Flowork OS",
+      "keywords": [
+        "tool forge",
+        "tool creation",
+        "tool_maker",
+        "custom tool building",
+        "manifest generation",
+        "cli tool scaffolding",
+        "executable tool design",
+        "agent tool registry",
+        "dynamic tool binding",
+        "json schema tool",
+        "terminal tool runner",
+        "input schema definition",
+        "tool output formatting",
+        "tool authorization",
+        "sandboxed tool",
+        "tool contract",
+        "agent tool expansion",
+        "reusable tool script",
+        "tool validation",
+        "edge tool integration"
+      ],
+      "category": "Tools & Extensions",
+      "icon": "\ud83d\udee0\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/to/ol/tool_forge.json"
+    }
+  ]
+}

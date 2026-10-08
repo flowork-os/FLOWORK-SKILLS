@@ -1,0 +1,11 @@
+{
+  "id": "software_supply_chain_sentinel",
+  "name": "software_supply_chain_sentinel",
+  "version": "1.0.0",
+  "author": "@awenkaudico",
+  "description": "Sovereign runbook for Software Bill of Materials (SBOM) generation, dependency vulnerability audits, typosquatting detection, and package integrity verification",
+  "category": "General",
+  "icon": "\ud83e\udde0",
+  "updated_at": "2026-10-07T08:49:18.217Z",
+  "shard": "index/so/ft/software_supply_chain_sentinel.json"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "docker_container_shipwright",
+  "name": "docker_container_shipwright",
+  "description": "Flowork OS Specialization Skill docker_container_shipwright",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/do/ck/docker_container_shipwright.json"
+}

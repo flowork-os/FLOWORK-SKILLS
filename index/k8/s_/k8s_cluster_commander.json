@@ -1,0 +1,8 @@
+{
+  "id": "k8s_cluster_commander",
+  "name": "k8s_cluster_commander",
+  "description": "Flowork OS Specialization Skill k8s_cluster_commander",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/k8/s_/k8s_cluster_commander.json"
+}

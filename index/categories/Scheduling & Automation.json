@@ -1,0 +1,39 @@
+{
+  "category": "Scheduling & Automation",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "cron_cadence_operator",
+      "name": "cron_cadence_operator",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for precision cron jobs, timer scheduling, and non-blocking recurring workflows",
+      "keywords": [
+        "cron operator",
+        "scheduled jobs",
+        "schedule",
+        "cadence",
+        "recurring task",
+        "cron syntax",
+        "interval execution",
+        "timer daemon",
+        "periodic triggers",
+        "job scheduler",
+        "heartbeat monitor",
+        "time based dispatch",
+        "one shot timer",
+        "cron workflow",
+        "scheduled backup",
+        "polling interval",
+        "automation cadence",
+        "temporal scheduling",
+        "calendar trigger",
+        "cron lifecycle"
+      ],
+      "category": "Scheduling & Automation",
+      "icon": "\u23f1\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/cr/on/cron_cadence_operator.json"
+    }
+  ]
+}

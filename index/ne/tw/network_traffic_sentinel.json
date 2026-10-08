@@ -1,0 +1,8 @@
+{
+  "id": "network_traffic_sentinel",
+  "name": "network_traffic_sentinel",
+  "description": "Flowork OS Specialization Skill network_traffic_sentinel",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/ne/tw/network_traffic_sentinel.json"
+}

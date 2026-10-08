@@ -1,0 +1,8 @@
+{
+  "id": "network_packet_analyst",
+  "name": "network_packet_analyst",
+  "description": "Flowork OS Specialization Skill network_packet_analyst",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/ne/tw/network_packet_analyst.json"
+}

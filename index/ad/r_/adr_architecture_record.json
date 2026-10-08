@@ -1,0 +1,33 @@
+{
+  "id": "adr_architecture_record",
+  "name": "adr_architecture_record",
+  "version": "1.0.0",
+  "author": "Awenk Audico & Flowork OS",
+  "description": "Sovereign runbook for documenting architectural decisions, sync FL_MIND.MD, and preventing architectural drift",
+  "keywords": [
+    "adr",
+    "architecture decision record",
+    "architectural decisions",
+    "decision log",
+    "system design record",
+    "technical debt record",
+    "design rationale",
+    "architecture history",
+    "fl_mind sync",
+    "architecture drift",
+    "software design document",
+    "rfc proposal",
+    "engineering decision",
+    "system blueprint",
+    "tech stack rationale",
+    "tradeoff analysis",
+    "design pattern selection",
+    "legacy migration record",
+    "consequence evaluation",
+    "architectural governance"
+  ],
+  "category": "Architecture & System",
+  "icon": "\ud83c\udfdb\ufe0f",
+  "updated_at": "2026-10-07T04:21:20.000Z",
+  "shard": "index/ad/r_/adr_architecture_record.json"
+}

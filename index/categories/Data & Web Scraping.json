@@ -1,0 +1,39 @@
+{
+  "category": "Data & Web Scraping",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "web_deep_scraper",
+      "name": "web_deep_scraper",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for extracting, sanitizing, and distilling external web pages into clean markdown",
+      "keywords": [
+        "web deep scraper",
+        "web scraping",
+        "data extraction",
+        "html parsing",
+        "dom extraction",
+        "web crawling",
+        "content extraction",
+        "http scraping",
+        "pagination traversal",
+        "css selectors",
+        "xpath extraction",
+        "structured data scraper",
+        "dynamic content extraction",
+        "anti-bot bypass",
+        "rate limited scraping",
+        "json extraction web",
+        "markdown conversion",
+        "web data pipeline",
+        "headless scraping",
+        "resilient crawler"
+      ],
+      "category": "Data & Web Scraping",
+      "icon": "\ud83d\udd78\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/we/b_/web_deep_scraper.json"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "category": "Performance & Profiling",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "performance_profiler",
+      "name": "performance_profiler",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for detecting memory leaks, CPU thread bottlenecks, and empirical optimization loops",
+      "keywords": [
+        "performance profiler",
+        "profiling",
+        "benchmark",
+        "memory leak",
+        "cpu bottleneck",
+        "flamegraph",
+        "latency optimization",
+        "throughput analysis",
+        "allocations audit",
+        "garbage collection tuning",
+        "execution timing",
+        "system performance",
+        "io wait profiling",
+        "cache misses",
+        "hotspot detection",
+        "memory heap snapshot",
+        "concurrency bottleneck",
+        "profiler report",
+        "optimization pass",
+        "runtime efficiency"
+      ],
+      "category": "Performance & Profiling",
+      "icon": "\ud83d\udcca",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/pe/rf/performance_profiler.json"
+    }
+  ]
+}

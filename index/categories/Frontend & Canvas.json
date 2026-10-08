@@ -1,0 +1,39 @@
+{
+  "category": "Frontend & Canvas",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "visual_canvas_renderer",
+      "name": "visual_canvas_renderer",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for generative image asset pipelines, UI mockups, and canvas graphical components",
+      "keywords": [
+        "visual canvas",
+        "canvas renderer",
+        "canvas graphics",
+        "2d rendering",
+        "webgl canvas",
+        "canvas drawing",
+        "visual rendering",
+        "canvas viewport",
+        "canvas performance",
+        "hardware accelerated 2d",
+        "render loop",
+        "frame buffer",
+        "canvas compositing",
+        "interactive graphics",
+        "canvas animation",
+        "canvas scaling",
+        "dpi normalization",
+        "dynamic charts canvas",
+        "canvas element manipulation",
+        "canvas rasterization"
+      ],
+      "category": "Frontend & Canvas",
+      "icon": "\ud83d\uddbc\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/vi/su/visual_canvas_renderer.json"
+    }
+  ]
+}

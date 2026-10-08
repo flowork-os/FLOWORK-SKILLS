@@ -1,0 +1,8 @@
+{
+  "id": "cloud_infra_provisioner",
+  "name": "cloud_infra_provisioner",
+  "description": "Flowork OS Specialization Skill cloud_infra_provisioner",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/cl/ou/cloud_infra_provisioner.json"
+}

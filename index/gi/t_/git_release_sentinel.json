@@ -1,0 +1,33 @@
+{
+  "id": "git_release_sentinel",
+  "name": "git_release_sentinel",
+  "version": "1.0.0",
+  "author": "Awenk Audico & Flowork OS",
+  "description": "Sovereign runbook for SemVer versioning, high-signal changelogs, and DLP pre-flight release rigor",
+  "keywords": [
+    "git release",
+    "git tag",
+    "release sentinel",
+    "semver",
+    "changelog generation",
+    "version tagging",
+    "git commit audit",
+    "branch hygiene",
+    "release notes",
+    "git co-author",
+    "semantic release",
+    "tag verification",
+    "push release",
+    "conventional commits",
+    "pull request audit",
+    "release pipeline",
+    "version bump",
+    "git status check",
+    "clean working tree",
+    "deployment tagging"
+  ],
+  "category": "DevOps & Git",
+  "icon": "\ud83c\udff7\ufe0f",
+  "updated_at": "2026-10-07T04:21:20.000Z",
+  "shard": "index/gi/t_/git_release_sentinel.json"
+}

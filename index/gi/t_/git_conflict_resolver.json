@@ -1,0 +1,8 @@
+{
+  "id": "git_conflict_resolver",
+  "name": "git_conflict_resolver",
+  "description": "Flowork OS Specialization Skill git_conflict_resolver",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/gi/t_/git_conflict_resolver.json"
+}

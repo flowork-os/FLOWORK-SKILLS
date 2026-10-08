@@ -1,0 +1,105 @@
+{
+  "category": "General",
+  "total_items": 9,
+  "items": [
+    {
+      "id": "sqlite_vault_migrator",
+      "name": "sqlite_vault_migrator",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for zero-data-loss SQLite schema migrations, WAL mode concurrency, and IPC state persistence",
+      "category": "General",
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T08:40:35.303Z",
+      "shard": "index/sq/li/sqlite_vault_migrator.json"
+    },
+    {
+      "id": "surgical_engineer",
+      "name": "surgical_engineer",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for surgical precision coding, zero-bloat nano-modularity, anti-hallucination, and Karpathy minimalist implementation law",
+      "category": "General",
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-08T14:38:05.202Z",
+      "shard": "index/su/rg/surgical_engineer.json"
+    },
+    {
+      "id": "web_intelligence_hunter",
+      "name": "web_intelligence_hunter",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for precision technical search queries, source triangulation, and documentation discovery",
+      "category": "General",
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T08:42:13.680Z",
+      "shard": "index/we/b_/web_intelligence_hunter.json"
+    },
+    {
+      "id": "data_pipeline_transformer",
+      "name": "data_pipeline_transformer",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for high-throughput streaming data pipelines, Polars DuckDB dataframes, zero-OOM memory batching, schema validation, and Parquet conversions",
+      "category": "General",
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T05:47:32.255Z",
+      "shard": "index/da/ta/data_pipeline_transformer.json"
+    },
+    {
+      "id": "network_pentest_recon",
+      "name": "network_pentest_recon",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for ethical network reconnaissance, defensive port footprinting, HTTP security header auditing, CORS probing, and SSRF detection",
+      "category": "General",
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T05:47:39.346Z",
+      "shard": "index/ne/tw/network_pentest_recon.json"
+    },
+    {
+      "id": "sql_query_optimizer",
+      "name": "sql_query_optimizer",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for slow SQL query profiling, explain query plan analysis, B-tree covering indexes, N+1 query elimination, and WAL tuning",
+      "category": "General",
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T08:29:06.149Z",
+      "shard": "index/sq/l_/sql_query_optimizer.json"
+    },
+    {
+      "id": "software_supply_chain_sentinel",
+      "name": "software_supply_chain_sentinel",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for Software Bill of Materials (SBOM) generation, dependency vulnerability audits, typosquatting detection, and package integrity verification",
+      "category": "General",
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T08:49:18.217Z",
+      "shard": "index/so/ft/software_supply_chain_sentinel.json"
+    },
+    {
+      "id": "test-superadmin",
+      "name": "test-superadmin",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "",
+      "category": "General",
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-07T08:58:52.172Z",
+      "shard": "index/te/st/test_superadmin.json"
+    },
+    {
+      "id": "reverse_engineer_anything",
+      "name": "Reverse Engineer Anything",
+      "version": "1.0.0",
+      "author": "@awenkaudico",
+      "description": "Sovereign runbook for multi-target reverse engineering, decompilation, binary inspection, and clean-room reconstruction across native binaries, Electron/ASAR, APK, and managed code",
+      "category": "General",
+      "icon": "\ud83e\udde0",
+      "updated_at": "2026-10-08T14:38:12.041Z",
+      "shard": "index/re/ve/reverse_engineer_anything.json"
+    }
+  ]
+}

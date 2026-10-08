@@ -1,0 +1,11 @@
+{
+  "id": "reverse_engineer_anything",
+  "name": "Reverse Engineer Anything",
+  "version": "1.0.0",
+  "author": "@awenkaudico",
+  "description": "Sovereign runbook for multi-target reverse engineering, decompilation, binary inspection, and clean-room reconstruction across native binaries, Electron/ASAR, APK, and managed code",
+  "category": "General",
+  "icon": "\ud83e\udde0",
+  "updated_at": "2026-10-08T14:38:12.041Z",
+  "shard": "index/re/ve/reverse_engineer_anything.json"
+}

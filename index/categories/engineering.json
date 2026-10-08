@@ -1,0 +1,158 @@
+{
+  "category": "engineering",
+  "total_items": 19,
+  "items": [
+    {
+      "id": "llm_token_optimizer",
+      "name": "llm_token_optimizer",
+      "description": "Flowork OS Specialization Skill llm_token_optimizer",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/ll/m_/llm_token_optimizer.json"
+    },
+    {
+      "id": "docker_container_shipwright",
+      "name": "docker_container_shipwright",
+      "description": "Flowork OS Specialization Skill docker_container_shipwright",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/do/ck/docker_container_shipwright.json"
+    },
+    {
+      "id": "sast_rule_craftsman",
+      "name": "sast_rule_craftsman",
+      "description": "Flowork OS Specialization Skill sast_rule_craftsman",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/sa/st/sast_rule_craftsman.json"
+    },
+    {
+      "id": "network_packet_analyst",
+      "name": "network_packet_analyst",
+      "description": "Flowork OS Specialization Skill network_packet_analyst",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/ne/tw/network_packet_analyst.json"
+    },
+    {
+      "id": "fuzz_testing_harness",
+      "name": "fuzz_testing_harness",
+      "description": "Flowork OS Specialization Skill fuzz_testing_harness",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/fu/zz/fuzz_testing_harness.json"
+    },
+    {
+      "id": "web_appsec_auditor",
+      "name": "web_appsec_auditor",
+      "description": "Flowork OS Specialization Skill web_appsec_auditor",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/we/b_/web_appsec_auditor.json"
+    },
+    {
+      "id": "api_contract_architect",
+      "name": "api_contract_architect",
+      "description": "Flowork OS Specialization Skill api_contract_architect",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/ap/i_/api_contract_architect.json"
+    },
+    {
+      "id": "network_traffic_sentinel",
+      "name": "network_traffic_sentinel",
+      "description": "Flowork OS Specialization Skill network_traffic_sentinel",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/ne/tw/network_traffic_sentinel.json"
+    },
+    {
+      "id": "docker_container_deployer",
+      "name": "docker_container_deployer",
+      "description": "Flowork OS Specialization Skill docker_container_deployer",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/do/ck/docker_container_deployer.json"
+    },
+    {
+      "id": "protocol_reverse_engineer",
+      "name": "protocol_reverse_engineer",
+      "description": "Flowork OS Specialization Skill protocol_reverse_engineer",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/pr/ot/protocol_reverse_engineer.json"
+    },
+    {
+      "id": "embedding_vector_librarian",
+      "name": "embedding_vector_librarian",
+      "description": "Flowork OS Specialization Skill embedding_vector_librarian",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/em/be/embedding_vector_librarian.json"
+    },
+    {
+      "id": "git_conflict_resolver",
+      "name": "git_conflict_resolver",
+      "description": "Flowork OS Specialization Skill git_conflict_resolver",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/gi/t_/git_conflict_resolver.json"
+    },
+    {
+      "id": "websocket_realtime_architect",
+      "name": "websocket_realtime_architect",
+      "description": "Flowork OS Specialization Skill websocket_realtime_architect",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/we/bs/websocket_realtime_architect.json"
+    },
+    {
+      "id": "k8s_cluster_commander",
+      "name": "k8s_cluster_commander",
+      "description": "Flowork OS Specialization Skill k8s_cluster_commander",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/k8/s_/k8s_cluster_commander.json"
+    },
+    {
+      "id": "api_gateway_integrator",
+      "name": "api_gateway_integrator",
+      "description": "Flowork OS Specialization Skill api_gateway_integrator",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/ap/i_/api_gateway_integrator.json"
+    },
+    {
+      "id": "cloud_infra_provisioner",
+      "name": "cloud_infra_provisioner",
+      "description": "Flowork OS Specialization Skill cloud_infra_provisioner",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/cl/ou/cloud_infra_provisioner.json"
+    },
+    {
+      "id": "linux_sysadmin_hardener",
+      "name": "linux_sysadmin_hardener",
+      "description": "Flowork OS Specialization Skill linux_sysadmin_hardener",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/li/nu/linux_sysadmin_hardener.json"
+    },
+    {
+      "id": "prompt_defense_architect",
+      "name": "prompt_defense_architect",
+      "description": "Flowork OS Specialization Skill prompt_defense_architect",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/pr/om/prompt_defense_architect.json"
+    },
+    {
+      "id": "rag_vector_curator",
+      "name": "rag_vector_curator",
+      "description": "Flowork OS Specialization Skill rag_vector_curator",
+      "author": "Flowork OS",
+      "category": "engineering",
+      "shard": "index/ra/g_/rag_vector_curator.json"
+    }
+  ]
+}

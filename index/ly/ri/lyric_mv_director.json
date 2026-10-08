@@ -1,0 +1,33 @@
+{
+  "id": "lyric_mv_director",
+  "name": "lyric_mv_director",
+  "version": "1.0.0",
+  "author": "Awenk Audico & Flowork OS",
+  "description": "Sovereign runbook for automated beat-locked lyric videos, kinetic typography animations, LRC timestamp synchronization, and canvas rendering",
+  "keywords": [
+    "lyric video",
+    "kinetic typography",
+    "subtitles sync",
+    "karaoke timing",
+    "lyric animation",
+    "timed text",
+    "caption sync",
+    "music video typography",
+    "lrc parsing",
+    "word by word sync",
+    "subrip srt formatting",
+    "motion text",
+    "verse chorus timing",
+    "audio lyric alignment",
+    "vocal onset matching",
+    "text reveal effects",
+    "lyric visualizer",
+    "rhythm typography",
+    "video captions",
+    "audio subtitle rendering"
+  ],
+  "category": "Media & Video",
+  "icon": "\ud83c\udfb5",
+  "updated_at": "2026-10-07T04:21:20.000Z",
+  "shard": "index/ly/ri/lyric_mv_director.json"
+}

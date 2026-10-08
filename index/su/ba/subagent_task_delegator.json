@@ -1,0 +1,33 @@
+{
+  "id": "subagent_task_delegator",
+  "name": "subagent_task_delegator",
+  "version": "1.0.0",
+  "author": "Awenk Audico & Flowork OS",
+  "description": "Sovereign runbook for dispatching specialized subagents with isolated context and strict delegation boundaries",
+  "keywords": [
+    "subagent delegator",
+    "task delegation",
+    "invoke_subagent",
+    "swarm dispatch",
+    "subagent task assignment",
+    "dag decomposition",
+    "worker orchestration",
+    "task partitioning",
+    "parallel work allocation",
+    "subagent lifecycle",
+    "async agent task",
+    "subagent prompt design",
+    "task return handling",
+    "delegation hierarchy",
+    "parent child agents",
+    "workload distribution",
+    "subagent monitoring",
+    "agent role assignment",
+    "task handover",
+    "subagent completion tracking"
+  ],
+  "category": "Swarm & Multi-Agent",
+  "icon": "\ud83c\udfaf",
+  "updated_at": "2026-10-07T04:21:20.000Z",
+  "shard": "index/su/ba/subagent_task_delegator.json"
+}

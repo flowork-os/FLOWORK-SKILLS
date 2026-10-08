@@ -1,0 +1,39 @@
+{
+  "category": "Media & Multimodal",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "chat_media_broadcaster",
+      "name": "chat_media_broadcaster",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for dispatching rich media, HTML5 video previews, and interactive artifacts to canvas chat",
+      "keywords": [
+        "chat media",
+        "media broadcast",
+        "send_media",
+        "inline image",
+        "audio broadcast",
+        "multimodal chat",
+        "media streaming",
+        "chat attachment",
+        "canvas media",
+        "rich messaging",
+        "embedded player",
+        "visual broadcast",
+        "chat payload",
+        "image preview",
+        "waveform render",
+        "audio player",
+        "video player",
+        "media pipeline",
+        "interactive card",
+        "multimodal ui"
+      ],
+      "category": "Media & Multimodal",
+      "icon": "\ud83c\udf99\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/ch/at/chat_media_broadcaster.json"
+    }
+  ]
+}

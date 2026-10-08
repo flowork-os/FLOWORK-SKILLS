@@ -1,0 +1,8 @@
+{
+  "id": "api_gateway_integrator",
+  "name": "api_gateway_integrator",
+  "description": "Flowork OS Specialization Skill api_gateway_integrator",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/ap/i_/api_gateway_integrator.json"
+}

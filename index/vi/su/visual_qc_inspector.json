@@ -1,0 +1,33 @@
+{
+  "id": "visual_qc_inspector",
+  "name": "visual_qc_inspector",
+  "version": "1.0.0",
+  "author": "Awenk Audico & Flowork OS",
+  "description": "Sovereign runbook for physical UI desktop captures, visual defect diagnosis, and pixel evidence auditing",
+  "keywords": [
+    "visual qc",
+    "visual inspection",
+    "screenshot inspection",
+    "pixel comparison",
+    "ui visual check",
+    "artifact verification",
+    "visual layout audit",
+    "design fidelity check",
+    "screenshot diffing",
+    "visual regression test",
+    "component alignment audit",
+    "contrast verification",
+    "responsive layout qc",
+    "ui element positioning",
+    "canvas screenshot review",
+    "visual defect detection",
+    "rendering validation",
+    "visual baseline comparison",
+    "graphical qc proof",
+    "optical verification"
+  ],
+  "category": "Verification & UI QC",
+  "icon": "\ud83d\udc41\ufe0f",
+  "updated_at": "2026-10-07T04:21:20.000Z",
+  "shard": "index/vi/su/visual_qc_inspector.json"
+}

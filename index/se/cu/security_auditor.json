@@ -1,0 +1,33 @@
+{
+  "id": "security_auditor",
+  "name": "security_auditor",
+  "version": "1.0.0",
+  "author": "Awenk Audico & Flowork OS",
+  "description": "Sovereign runbook for SAST security audit, vulnerability mitigation, secret sanitization, and CVE offline checking",
+  "keywords": [
+    "security auditor",
+    "vulnerability scan",
+    "cve database",
+    "flow_audit_security",
+    "sast scan",
+    "sca dependency audit",
+    "code security",
+    "exploit prevention",
+    "secret detection",
+    "data leak prevention",
+    "injection attack defense",
+    "xss prevention",
+    "owasp compliance",
+    "insecure dependency check",
+    "permission audit",
+    "credential sanitization",
+    "zero trust audit",
+    "security posture",
+    "input validation audit",
+    "crypto security"
+  ],
+  "category": "Security & Audit",
+  "icon": "\ud83d\udee1\ufe0f",
+  "updated_at": "2026-10-07T04:21:20.000Z",
+  "shard": "index/se/cu/security_auditor.json"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "background_task_dispatcher",
+  "name": "background_task_dispatcher",
+  "version": "1.0.0",
+  "author": "Awenk Audico & Flowork OS",
+  "description": "Sovereign runbook for dispatching, monitoring, and supervising long-running background tasks",
+  "keywords": [
+    "background task",
+    "task dispatcher",
+    "manage_task",
+    "daemon process",
+    "async supervisor",
+    "background job",
+    "task worker",
+    "process supervisor",
+    "job queue",
+    "detached process",
+    "long running service",
+    "task status",
+    "kill task",
+    "process monitoring",
+    "async execution",
+    "worker thread",
+    "background polling",
+    "task lifecycle",
+    "subagent supervisor",
+    "concurrency manager"
+  ],
+  "category": "System & Process",
+  "icon": "\u2699\ufe0f",
+  "updated_at": "2026-10-07T04:21:20.000Z",
+  "shard": "index/ba/ck/background_task_dispatcher.json"
+}

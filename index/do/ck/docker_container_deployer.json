@@ -1,0 +1,8 @@
+{
+  "id": "docker_container_deployer",
+  "name": "docker_container_deployer",
+  "description": "Flowork OS Specialization Skill docker_container_deployer",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/do/ck/docker_container_deployer.json"
+}

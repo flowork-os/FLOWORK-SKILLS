@@ -1,0 +1,8 @@
+{
+  "id": "linux_sysadmin_hardener",
+  "name": "linux_sysadmin_hardener",
+  "description": "Flowork OS Specialization Skill linux_sysadmin_hardener",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/li/nu/linux_sysadmin_hardener.json"
+}

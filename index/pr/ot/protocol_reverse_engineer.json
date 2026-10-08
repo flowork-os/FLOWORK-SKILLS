@@ -1,0 +1,8 @@
+{
+  "id": "protocol_reverse_engineer",
+  "name": "protocol_reverse_engineer",
+  "description": "Flowork OS Specialization Skill protocol_reverse_engineer",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/pr/ot/protocol_reverse_engineer.json"
+}

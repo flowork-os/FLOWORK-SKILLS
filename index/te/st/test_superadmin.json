@@ -1,0 +1,11 @@
+{
+  "id": "test-superadmin",
+  "name": "test-superadmin",
+  "version": "1.0.0",
+  "author": "@awenkaudico",
+  "description": "",
+  "category": "General",
+  "icon": "\ud83e\udde0",
+  "updated_at": "2026-10-07T08:58:52.172Z",
+  "shard": "index/te/st/test_superadmin.json"
+}

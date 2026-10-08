@@ -1,0 +1,33 @@
+{
+  "id": "canvas_motion_craftsman",
+  "name": "canvas_motion_craftsman",
+  "version": "1.0.0",
+  "author": "Awenk Audico & Flowork OS",
+  "description": "Sovereign runbook for purposeful micro-interactions, smooth CSS transitions, toast/modal entrance animations, and zero-jank UI",
+  "keywords": [
+    "canvas motion",
+    "ui animation",
+    "css transitions",
+    "keyframes",
+    "motion design",
+    "canvas transitions",
+    "spring animation",
+    "micro-interactions",
+    "motion curves",
+    "hardware acceleration",
+    "transform 3d",
+    "easings",
+    "interactive feedback",
+    "stagger animation",
+    "fluid animation",
+    "motion performance",
+    "smooth rendering",
+    "canvas interactive",
+    "svg animation",
+    "framerate optimization"
+  ],
+  "category": "Frontend & Motion",
+  "icon": "\u2728",
+  "updated_at": "2026-10-07T04:21:20.000Z",
+  "shard": "index/ca/nv/canvas_motion_craftsman.json"
+}

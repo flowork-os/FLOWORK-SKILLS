@@ -1,0 +1,39 @@
+{
+  "category": "AI & Generative Media",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "diffusion_video_editor",
+      "name": "diffusion_video_editor",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for multi-track timeline video editing, WebCodecs hardware acceleration, and FFmpeg pipeline",
+      "keywords": [
+        "diffusion video",
+        "ai video editor",
+        "video generation",
+        "frame interpolation",
+        "latent video",
+        "text to video",
+        "video upscaling",
+        "temporal consistency",
+        "stable diffusion video",
+        "motion vectors",
+        "video inpainting",
+        "deflicker filter",
+        "ai rendering",
+        "prompt to animation",
+        "seed continuity",
+        "latent blending",
+        "generative media",
+        "video restoration",
+        "neural video synthesis",
+        "keyframe diffusion"
+      ],
+      "category": "AI & Generative Media",
+      "icon": "\ud83c\udfa5",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/di/ff/diffusion_video_editor.json"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "swarm_fleet_controller",
+  "name": "swarm_fleet_controller",
+  "version": "1.0.0",
+  "author": "Awenk Audico & Flowork OS",
+  "description": "Sovereign runbook for monitoring, cancelling, and reconciling multi-agent concurrent swarms",
+  "keywords": [
+    "swarm fleet",
+    "fleet controller",
+    "parallel subagents",
+    "multi-agent swarm",
+    "worker fleet",
+    "distributed subagents",
+    "swarm topology",
+    "agent concurrency",
+    "fleet monitoring",
+    "agent health status",
+    "swarm lifecycle",
+    "multi-agent scaling",
+    "worker pool management",
+    "fleet supervisor",
+    "inter-subagent bus",
+    "swarm rate limiting",
+    "collective intelligence",
+    "agent heartbeat",
+    "fleet kill switch",
+    "swarm consensus"
+  ],
+  "category": "Swarm & Multi-Agent",
+  "icon": "\ud83d\ude80",
+  "updated_at": "2026-10-07T04:21:20.000Z",
+  "shard": "index/sw/ar/swarm_fleet_controller.json"
+}

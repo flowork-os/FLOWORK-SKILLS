@@ -1,0 +1,39 @@
+{
+  "category": "Verification & Quality",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "empirical_verifier",
+      "name": "empirical_verifier",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for physical terminal evidence verification, Exit Code 0 enforcement, and zero-overclaim validation",
+      "keywords": [
+        "empirical verifier",
+        "terminal verification",
+        "exit code 0",
+        "test proof",
+        "empirical evidence",
+        "ground truth verification",
+        "sanity check",
+        "proof of execution",
+        "reproducible results",
+        "system audit",
+        "runtime assertion",
+        "error code verification",
+        "deterministic testing",
+        "output inspection",
+        "validation pass",
+        "zero guess assertion",
+        "command exit code",
+        "stdout inspection",
+        "real world validation",
+        "automated verification"
+      ],
+      "category": "Verification & Quality",
+      "icon": "\u2705",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/em/pi/empirical_verifier.json"
+    }
+  ]
+}

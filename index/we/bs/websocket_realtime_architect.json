@@ -1,0 +1,8 @@
+{
+  "id": "websocket_realtime_architect",
+  "name": "websocket_realtime_architect",
+  "description": "Flowork OS Specialization Skill websocket_realtime_architect",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/we/bs/websocket_realtime_architect.json"
+}

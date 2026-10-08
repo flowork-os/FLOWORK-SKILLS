@@ -1,0 +1,72 @@
+{
+  "category": "Blockchain & Security",
+  "total_items": 2,
+  "items": [
+    {
+      "id": "crypto_scam_honeypot_hunter",
+      "name": "crypto_scam_honeypot_hunter",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for detecting smart contract honeypots, hidden sell taxes, mint backdoors, and rugpull indicators",
+      "keywords": [
+        "crypto scam",
+        "honeypot hunter",
+        "smart contract audit",
+        "rugpull detection",
+        "solana scan",
+        "evm honeypot",
+        "token security",
+        "malicious contract",
+        "sell tax simulation",
+        "blacklisted transfer",
+        "liquidity lock audit",
+        "proxy contract trap",
+        "reentrancy attack",
+        "drainer detection",
+        "fake token detector",
+        "bytecode analysis",
+        "dex trade simulation",
+        "on-chain audit",
+        "scam token warning",
+        "wallet safety"
+      ],
+      "category": "Blockchain & Security",
+      "icon": "\ud83d\udd75\ufe0f",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/cr/yp/crypto_scam_honeypot_hunter.json"
+    },
+    {
+      "id": "wallet_aml_risk_scanner",
+      "name": "wallet_aml_risk_scanner",
+      "version": "1.0.0",
+      "author": "Awenk Audico & Flowork OS",
+      "description": "Sovereign runbook for multi-chain wallet risk scoring, AML screening, sanctioned entity/mixer tracing, and phishing drainer detection",
+      "keywords": [
+        "wallet aml",
+        "aml risk scanner",
+        "blockchain forensics",
+        "tainted address",
+        "crypto compliance",
+        "on-chain tracking",
+        "wallet transaction audit",
+        "ofac sanctioned list",
+        "mixer interaction scan",
+        "tornado cash exposure",
+        "suspicious fund flow",
+        "crypto risk scoring",
+        "know your transaction",
+        "on-chain clustering",
+        "illicit activity detection",
+        "wallet counterparty risk",
+        "forensic analysis crypto",
+        "token flow tracing",
+        "sanction screening",
+        "crypto provenance"
+      ],
+      "category": "Blockchain & Security",
+      "icon": "\ud83d\udd0e",
+      "updated_at": "2026-10-07T04:21:20.000Z",
+      "shard": "index/wa/ll/wallet_aml_risk_scanner.json"
+    }
+  ]
+}

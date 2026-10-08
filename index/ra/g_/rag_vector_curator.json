@@ -1,0 +1,8 @@
+{
+  "id": "rag_vector_curator",
+  "name": "rag_vector_curator",
+  "description": "Flowork OS Specialization Skill rag_vector_curator",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/ra/g_/rag_vector_curator.json"
+}

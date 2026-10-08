@@ -1,0 +1,8 @@
+{
+  "id": "embedding_vector_librarian",
+  "name": "embedding_vector_librarian",
+  "description": "Flowork OS Specialization Skill embedding_vector_librarian",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/em/be/embedding_vector_librarian.json"
+}

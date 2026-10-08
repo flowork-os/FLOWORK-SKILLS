@@ -1,0 +1,33 @@
+{
+  "id": "drawdown_circuit_breaker",
+  "name": "drawdown_circuit_breaker",
+  "version": "1.0.0",
+  "author": "Awenk Audico & Flowork OS",
+  "description": "Sovereign runbook for portfolio drawdown limits, streak cooldowns, daily loss caps, and capital preservation circuit breakers",
+  "keywords": [
+    "drawdown circuit breaker",
+    "trading risk management",
+    "stop loss",
+    "portfolio protection",
+    "max drawdown",
+    "risk limits",
+    "capital preservation",
+    "position sizing",
+    "margin call defense",
+    "volatility halt",
+    "equity curve filter",
+    "daily loss limit",
+    "trailing stop",
+    "exposure control",
+    "account ruin prevention",
+    "risk per trade",
+    "emergency liquidation",
+    "kill switch trading",
+    "var analysis",
+    "disciplined exits"
+  ],
+  "category": "Trading & Risk Control",
+  "icon": "\ud83d\udcc9",
+  "updated_at": "2026-10-07T04:21:20.000Z",
+  "shard": "index/dr/aw/drawdown_circuit_breaker.json"
+}

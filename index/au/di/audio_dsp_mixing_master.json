@@ -1,0 +1,33 @@
+{
+  "id": "audio_dsp_mixing_master",
+  "name": "audio_dsp_mixing_master",
+  "version": "1.0.0",
+  "author": "Awenk Audico & Flowork OS",
+  "description": "Sovereign runbook for digital audio processing, LUFS loudness compliance, EQ frequency carving, multi-band dynamics, and clean master output",
+  "keywords": [
+    "audio dsp",
+    "audio mixing",
+    "mastering",
+    "lufs",
+    "equalizer",
+    "compressor",
+    "loudness normalization",
+    "stem mastering",
+    "frequency carving",
+    "acoustic balance",
+    "limiter",
+    "audio processing",
+    "gain staging",
+    "clipping prevention",
+    "stereo imaging",
+    "spectral analysis",
+    "dynamic range",
+    "headroom management",
+    "sound design",
+    "audio filter"
+  ],
+  "category": "Media & Audio DSP",
+  "icon": "\ud83c\udf9b\ufe0f",
+  "updated_at": "2026-10-07T04:21:20.000Z",
+  "shard": "index/au/di/audio_dsp_mixing_master.json"
+}

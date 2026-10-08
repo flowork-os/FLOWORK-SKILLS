@@ -1,0 +1,8 @@
+{
+  "id": "fuzz_testing_harness",
+  "name": "fuzz_testing_harness",
+  "description": "Flowork OS Specialization Skill fuzz_testing_harness",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/fu/zz/fuzz_testing_harness.json"
+}

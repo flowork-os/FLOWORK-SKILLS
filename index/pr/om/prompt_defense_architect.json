@@ -1,0 +1,8 @@
+{
+  "id": "prompt_defense_architect",
+  "name": "prompt_defense_architect",
+  "description": "Flowork OS Specialization Skill prompt_defense_architect",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/pr/om/prompt_defense_architect.json"
+}

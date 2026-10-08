@@ -1,0 +1,8 @@
+{
+  "id": "sast_rule_craftsman",
+  "name": "sast_rule_craftsman",
+  "description": "Flowork OS Specialization Skill sast_rule_craftsman",
+  "author": "Flowork OS",
+  "category": "engineering",
+  "shard": "index/sa/st/sast_rule_craftsman.json"
+}

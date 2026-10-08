@@ -1,0 +1,11 @@
+{
+  "id": "sql_query_optimizer",
+  "name": "sql_query_optimizer",
+  "version": "1.0.0",
+  "author": "@awenkaudico",
+  "description": "Sovereign runbook for slow SQL query profiling, explain query plan analysis, B-tree covering indexes, N+1 query elimination, and WAL tuning",
+  "category": "General",
+  "icon": "\ud83e\udde0",
+  "updated_at": "2026-10-07T08:29:06.149Z",
+  "shard": "index/sq/l_/sql_query_optimizer.json"
+}
