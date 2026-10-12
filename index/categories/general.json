@@ -3,10 +3,10 @@
   "items": [
     {
       "author": "awenkaudico",
-      "description": "Autonomous UI & CSS QC verifier",
-      "id": "qc_zero_corner_verifier",
+      "description": "Zero-corner autonomous security verifier",
+      "id": "security_auditor_orb",
       "keywords": [
-        "qc_zero_corner_verifier",
+        "security_auditor_orb",
         "subagent",
         "specialist",
         "runbook",
@@ -27,11 +27,11 @@
         "dispatch",
         "cortex"
       ],
-      "name": "qc_zero_corner_verifier",
-      "shard": "index/qc/_z/qc_zero_corner_verifier.json",
-      "updated_at": "2026-10-12 02:09:06"
+      "name": "security_auditor_orb",
+      "shard": "index/se/cu/security_auditor_orb.json",
+      "updated_at": "2026-10-12 02:09:14"
     }
   ],
   "total_items": 1,
-  "updated_at": "2026-10-12 02:09:08"
+  "updated_at": "2026-10-12 02:09:15"
 }
