@@ -1749,9 +1749,40 @@
       "shard": "index/qc/_z/qc_zero_corner_verifier.json",
       "source_path": "skills/qc/qc_zero_corner_verifier",
       "updated_at": "2026-10-12 02:09:06"
+    },
+    {
+      "author": "awenkaudico",
+      "description": "Zero-corner autonomous security verifier",
+      "id": "security_auditor_orb",
+      "keywords": [
+        "security_auditor_orb",
+        "subagent",
+        "specialist",
+        "runbook",
+        "flowork",
+        "task",
+        "agent",
+        "execution",
+        "workflow",
+        "automation",
+        "protocol",
+        "modular",
+        "operation",
+        "analysis",
+        "solution",
+        "engineering",
+        "runtime",
+        "sovereignty",
+        "dispatch",
+        "cortex"
+      ],
+      "name": "security_auditor_orb",
+      "shard": "index/se/cu/security_auditor_orb.json",
+      "source_path": "skills/se/security_auditor_orb",
+      "updated_at": "2026-10-12 02:09:14"
     }
   ],
   "total_skills": 68,
-  "updated_at": "2026-10-12 02:09:10",
+  "updated_at": "2026-10-12 02:09:17",
   "version": "1.0.0"
 }
