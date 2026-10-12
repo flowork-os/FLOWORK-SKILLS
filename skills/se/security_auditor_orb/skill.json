@@ -1,0 +1,32 @@
+{
+  "$schema": "https://floworkos.com/schemas/skill.v2.json",
+  "id": "security_auditor_orb",
+  "name": "security_auditor_orb",
+  "category_id": "CAT-005",
+  "category": "technology",
+  "version": "1.0.0",
+  "author": "Flowork OS",
+  "description": "Zero-corner autonomous security verifier",
+  "keywords": [
+    "security_auditor_orb",
+    "subagent",
+    "specialist",
+    "runbook",
+    "flowork",
+    "task",
+    "agent",
+    "execution",
+    "workflow",
+    "automation",
+    "protocol",
+    "modular",
+    "operation",
+    "analysis",
+    "solution",
+    "engineering",
+    "runtime",
+    "sovereignty",
+    "dispatch",
+    "cortex"
+  ]
+}

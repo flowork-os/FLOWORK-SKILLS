@@ -1,0 +1,32 @@
+{
+  "$schema": "https://floworkos.com/schemas/skill.v2.json",
+  "id": "sovereign-tool-and-gui-crafting",
+  "name": "sovereign_canvas_plugin_architecture",
+  "category_id": "CAT-005",
+  "category": "technology",
+  "version": "1.0.0",
+  "author": "Flowork OS",
+  "description": "Authoritative SOP and engineering specification for creating interactive Flowork Canvas plugins, implementing Dual-Wing triggers, dynamic port binding, human-in-the-loop co-creation, and dedicated plugin SKILL.md runbooks.",
+  "keywords": [
+    "plugins",
+    "canvas_ui",
+    "plugin_manifest",
+    "human_in_the_loop",
+    "co_creation",
+    "dynamic_port",
+    "microservice",
+    "rest_api",
+    "server_sent_events",
+    "websocket",
+    "interactive_webview",
+    "dual_wing_trigger",
+    "exclude_keywords",
+    "runbook_sop",
+    "zero_zombie",
+    "strict_english_ui",
+    "process_lifecycle",
+    "multi_os_portability",
+    "exit_code_zero",
+    "flowork_sovereignty"
+  ]
+}

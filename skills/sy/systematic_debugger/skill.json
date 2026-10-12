@@ -1,0 +1,32 @@
+{
+  "$schema": "https://floworkos.com/schemas/skill.v2.json",
+  "id": "systematic_debugger",
+  "name": "systematic_debugger",
+  "category_id": "CAT-005",
+  "category": "technology",
+  "version": "1.0.0",
+  "author": "Flowork OS",
+  "description": "Sovereign runbook for root cause tracing, isolated feedback loops, and zero-symptom-patching debugging",
+  "keywords": [
+    "systematic debugger",
+    "root cause analysis",
+    "debugging",
+    "stack trace analysis",
+    "error tracing",
+    "bug triage",
+    "reproduction steps",
+    "hypothesis testing",
+    "scientific debugging",
+    "log inspection",
+    "breakpoint logic",
+    "isolation testing",
+    "failure state analysis",
+    "edge case recreation",
+    "bug verification",
+    "call stack analysis",
+    "fault localization",
+    "defensive debugging",
+    "regression diagnosis",
+    "systematic isolation"
+  ]
+}

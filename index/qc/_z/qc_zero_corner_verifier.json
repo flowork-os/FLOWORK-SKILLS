@@ -1,7 +1,9 @@
 {
-  "author": "awenkaudico",
-  "description": "Autonomous UI & CSS QC verifier",
   "id": "qc_zero_corner_verifier",
+  "name": "qc_zero_corner_verifier",
+  "category": "technology",
+  "category_id": "CAT-005",
+  "description": "Autonomous UI & CSS QC verifier",
   "keywords": [
     "qc_zero_corner_verifier",
     "subagent",
@@ -24,7 +26,9 @@
     "dispatch",
     "cortex"
   ],
-  "name": "qc_zero_corner_verifier",
+  "version": "1.0.0",
+  "author": "Flowork OS",
   "shard": "index/qc/_z/qc_zero_corner_verifier.json",
-  "updated_at": "2026-10-12 10:55:13"
+  "source_path": "skills/qc/qc_zero_corner_verifier",
+  "updated_at": "2026-10-12 11:44:56"
 }

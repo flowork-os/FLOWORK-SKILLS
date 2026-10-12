@@ -1,0 +1,32 @@
+{
+  "$schema": "https://floworkos.com/schemas/skill.v2.json",
+  "id": "system_vitals_auditor",
+  "name": "system_vitals_auditor",
+  "category_id": "CAT-005",
+  "category": "technology",
+  "version": "1.0.0",
+  "author": "Flowork OS",
+  "description": "Sovereign runbook for inspecting host metrics, RAM/CPU load, disk capacity, and listening network ports",
+  "keywords": [
+    "system vitals",
+    "health check",
+    "memory usage",
+    "disk space",
+    "process monitor",
+    "system diagnostics",
+    "resource consumption",
+    "vitals audit",
+    "cpu utilization",
+    "filesystem capacity",
+    "zombie process detection",
+    "open file descriptors",
+    "load average",
+    "hardware metrics",
+    "system triage",
+    "resource bottleneck",
+    "system stability",
+    "process lifecycle audit",
+    "system alerts",
+    "runtime health telemetry"
+  ]
+}

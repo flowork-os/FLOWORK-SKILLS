@@ -1,0 +1,32 @@
+{
+  "$schema": "https://floworkos.com/schemas/skill.v2.json",
+  "id": "reverse_engineer_anything",
+  "name": "Reverse Engineer Anything",
+  "category_id": "CAT-005",
+  "category": "technology",
+  "version": "1.0.0",
+  "author": "Flowork OS",
+  "description": "Sovereign runbook for multi-target reverse engineering, decompilation, binary inspection, and clean-room reconstruction across native binaries, Electron/ASAR, APK, and managed code",
+  "keywords": [
+    "reverse engineering",
+    "decompilation",
+    "binary analysis",
+    "disassembly",
+    "ghidra",
+    "hopper",
+    "ida pro",
+    "jadx",
+    "electron asar",
+    "static analysis",
+    "dynamic analysis",
+    "call graph",
+    "clean room design",
+    "ast parsing",
+    "firmware extraction",
+    "evidence graph",
+    "pe elf macho",
+    "apk analysis",
+    "symbol recovery",
+    "pseudocode"
+  ]
+}
