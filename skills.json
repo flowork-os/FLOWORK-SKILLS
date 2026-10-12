@@ -1810,7 +1810,7 @@
       "name": "coder_specialist",
       "shard": "index/co/de/coder_specialist.json",
       "source_path": "skills/co/coder_specialist",
-      "updated_at": "2026-10-12 02:09:20"
+      "updated_at": "2026-10-12 02:09:47"
     },
     {
       "author": "awenkaudico",
@@ -1845,6 +1845,6 @@
     }
   ],
   "total_skills": 68,
-  "updated_at": "2026-10-12 02:09:44",
+  "updated_at": "2026-10-12 02:09:51",
   "version": "1.0.0"
 }
