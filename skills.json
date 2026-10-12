@@ -1811,9 +1811,40 @@
       "shard": "index/co/de/coder_specialist.json",
       "source_path": "skills/co/coder_specialist",
       "updated_at": "2026-10-12 02:09:20"
+    },
+    {
+      "author": "awenkaudico",
+      "description": "Standard operating procedure for web traffic analysis, technical SEO auditing, search engine indexation footprinting, backlink discovery, and Core Web Vitals profiling",
+      "id": "web_traffic_seo_auditor",
+      "keywords": [
+        "seo",
+        "traffic",
+        "backlinks",
+        "ranking",
+        "indexing",
+        "analytics",
+        "sitemap",
+        "robots",
+        "serp",
+        "keywords",
+        "performance",
+        "lighthouse",
+        "crawling",
+        "canonical",
+        "open_graph",
+        "schema_org",
+        "json_ld",
+        "ttfb",
+        "core_web_vitals",
+        "pageviews"
+      ],
+      "name": "Web Traffic & SEO Specialist",
+      "shard": "index/we/b_/web_traffic_seo_auditor.json",
+      "source_path": "skills/we/web_traffic_seo_auditor",
+      "updated_at": "2026-10-12 02:09:27"
     }
   ],
   "total_skills": 68,
-  "updated_at": "2026-10-12 02:09:24",
+  "updated_at": "2026-10-12 02:09:31",
   "version": "1.0.0"
 }
