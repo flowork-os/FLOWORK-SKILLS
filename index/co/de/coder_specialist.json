@@ -1,0 +1,30 @@
+{
+  "author": "awenkaudico",
+  "description": "Sovereign runbook for high-discipline software engineering enforcing Ousterhout deep modules, empirical red-green TDD, frontier alignment, DAG task graphs, two-axis review, and Exit Code 0 verification",
+  "id": "coder_specialist",
+  "keywords": [
+    "software craftsmanship",
+    "deep modules",
+    "ousterhout design",
+    "seam architecture",
+    "empirical tdd",
+    "red green refactor",
+    "frontier alignment",
+    "two axis review",
+    "fowler code smells",
+    "tracer bullet dag",
+    "task graph scheduling",
+    "domain modeling",
+    "architecture decision record",
+    "glossary governance",
+    "deterministic debugging",
+    "probe diagnostics",
+    "interactive wizard",
+    "git guardrails",
+    "prototype spikes",
+    "exit code zero"
+  ],
+  "name": "coder_specialist",
+  "shard": "index/co/de/coder_specialist.json",
+  "updated_at": "2026-10-12 02:09:20"
+}
