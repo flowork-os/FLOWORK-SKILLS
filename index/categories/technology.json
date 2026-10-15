@@ -1,0 +1,40 @@
+{
+  "category": "technology",
+  "items": [
+    {
+      "author": "awenkaudico",
+      "category": "technology",
+      "category_id": "CAT-005",
+      "description": "Systematic reverse engineering methodology for binary triage, feature tracing, decompilation verification, patch diffing, and runtime observation.",
+      "id": "rea",
+      "keywords": [
+        "reverse_engineering",
+        "binary_analysis",
+        "decompilation",
+        "disassembly",
+        "patch_diffing",
+        "control_flow",
+        "symbol_extraction",
+        "fault_localization",
+        "crash_analysis",
+        "dynamic_instrumentation",
+        "ghidra",
+        "jadx",
+        "electron_deobfuscation",
+        "android_reversing",
+        "call_stack_trace",
+        "epistemic_discipline",
+        "runtime_observation",
+        "static_analysis",
+        "exit_code_0",
+        "quality_control"
+      ],
+      "name": "Reverse Engineering Assistant (REA)",
+      "shard": "index/3/r/rea.json",
+      "source_path": "skills/re/rea",
+      "updated_at": "2026-10-15 11:51:37"
+    }
+  ],
+  "total_items": 1,
+  "updated_at": "2026-10-15 11:51:39"
+}
