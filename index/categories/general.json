@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "subagent_task_delegator",
+      "name": "subagent_task_delegator",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Sovereign runbook for dispatching specialized subagents with isolated context and strict delegation boundaries",
+      "shard": "index/su/ba/subagent_task_delegator.json"
+    }
+  ]
+}
