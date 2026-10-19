@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "surgical_engineer",
+      "name": "surgical_engineer",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Sovereign runbook for surgical precision coding, zero-bloat nano-modularity, anti-hallucination, and Karpathy minimalist implementation law",
+      "shard": "index/su/rg/surgical_engineer.json"
+    }
+  ]
+}
