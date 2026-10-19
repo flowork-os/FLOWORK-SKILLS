@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "software_supply_chain_sentinel",
+      "name": "software_supply_chain_sentinel",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Sovereign runbook for Software Bill of Materials (SBOM) generation, dependency vulnerability audits, typosquatting detection, and package integrity verification",
+      "shard": "index/so/ft/software_supply_chain_sentinel.json"
+    }
+  ]
+}

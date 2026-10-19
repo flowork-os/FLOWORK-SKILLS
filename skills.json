@@ -32,9 +32,21 @@
       "name": "Reverse Engineering Assistant (REA)",
       "shard": "index/3/r/rea.json",
       "source_path": "skills/re/rea"
+    },
+    {
+      "id": "software_supply_chain_sentinel",
+      "name": "software_supply_chain_sentinel",
+      "version": "1.0.0",
+      "author": "@kudo",
+      "description": "Sovereign runbook for Software Bill of Materials (SBOM) generation, dependency vulnerability audits, typosquatting detection, and package integrity verification",
+      "category": "General",
+      "icon": "🧠",
+      "shard": "index/so/ft/software_supply_chain_sentinel.json",
+      "source_path": "skills/so/software_supply_chain_sentinel",
+      "updated_at": "2026-10-19T14:42:09.757Z"
     }
   ],
   "total_skills": 0,
-  "updated_at": "2026-10-15 11:51:41",
+  "updated_at": "2026-10-19T14:42:09.757Z",
   "version": "2.0.0"
 }
