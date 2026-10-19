@@ -32,9 +32,21 @@
       "name": "Reverse Engineering Assistant (REA)",
       "shard": "index/3/r/rea.json",
       "source_path": "skills/re/rea"
+    },
+    {
+      "id": "security_auditor_orb",
+      "name": "security_auditor_orb",
+      "version": "1.0.0",
+      "author": "@kudo",
+      "description": "Zero-corner autonomous security verifier",
+      "category": "General",
+      "icon": "🧠",
+      "shard": "index/se/cu/security_auditor_orb.json",
+      "source_path": "skills/se/security_auditor_orb",
+      "updated_at": "2026-10-19T14:42:04.901Z"
     }
   ],
   "total_skills": 0,
-  "updated_at": "2026-10-15 11:51:41",
+  "updated_at": "2026-10-19T14:42:04.901Z",
   "version": "2.0.0"
 }

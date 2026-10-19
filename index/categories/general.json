@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "security_auditor_orb",
+      "name": "security_auditor_orb",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Zero-corner autonomous security verifier",
+      "shard": "index/se/cu/security_auditor_orb.json"
+    }
+  ]
+}
