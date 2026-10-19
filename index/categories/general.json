@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "coder_specialist",
+      "name": "coder_specialist",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Sovereign runbook for high-discipline software engineering enforcing Ousterhout deep modules, empirical red-green TDD, frontier alignment, DAG task graphs, two-axis review, and Exit Code 0 verification",
+      "shard": "index/co/de/coder_specialist.json"
+    }
+  ]
+}
