@@ -32,9 +32,21 @@
       "name": "Reverse Engineering Assistant (REA)",
       "shard": "index/3/r/rea.json",
       "source_path": "skills/re/rea"
+    },
+    {
+      "id": "network_pentest_recon",
+      "name": "network_pentest_recon",
+      "version": "1.0.0",
+      "author": "@kudo",
+      "description": "Sovereign runbook for ethical network reconnaissance, defensive port footprinting, HTTP security header auditing, CORS probing, and SSRF detection",
+      "category": "General",
+      "icon": "🧠",
+      "shard": "index/ne/tw/network_pentest_recon.json",
+      "source_path": "skills/ne/network_pentest_recon",
+      "updated_at": "2026-10-19T14:41:53.784Z"
     }
   ],
   "total_skills": 0,
-  "updated_at": "2026-10-15 11:51:41",
+  "updated_at": "2026-10-19T14:41:53.784Z",
   "version": "2.0.0"
 }
