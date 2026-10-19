@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "systematic_debugger",
+      "name": "systematic_debugger",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Sovereign runbook for root cause tracing, isolated feedback loops, and zero-symptom-patching debugging",
+      "shard": "index/sy/st/systematic_debugger.json"
+    }
+  ]
+}
