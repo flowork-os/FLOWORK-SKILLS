@@ -32,9 +32,21 @@
       "name": "Reverse Engineering Assistant (REA)",
       "shard": "index/3/r/rea.json",
       "source_path": "skills/re/rea"
+    },
+    {
+      "id": "system_vitals_auditor",
+      "name": "system_vitals_auditor",
+      "version": "1.0.0",
+      "author": "@kudo",
+      "description": "Sovereign runbook for inspecting host metrics, RAM/CPU load, disk capacity, and listening network ports",
+      "category": "General",
+      "icon": "🧠",
+      "shard": "index/sy/st/system_vitals_auditor.json",
+      "source_path": "skills/sy/system_vitals_auditor",
+      "updated_at": "2026-10-19T14:42:30.647Z"
     }
   ],
   "total_skills": 0,
-  "updated_at": "2026-10-15 11:51:41",
+  "updated_at": "2026-10-19T14:42:30.647Z",
   "version": "2.0.0"
 }
