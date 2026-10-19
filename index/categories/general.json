@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "web_traffic_seo_auditor",
+      "name": "Web Traffic & SEO Specialist",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Standard operating procedure for web traffic analysis, technical SEO auditing, search engine indexation footprinting, backlink discovery, and Core Web Vitals profiling",
+      "shard": "index/we/b_/web_traffic_seo_auditor.json"
+    }
+  ]
+}

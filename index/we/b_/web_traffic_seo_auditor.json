@@ -1,0 +1,12 @@
+{
+  "id": "web_traffic_seo_auditor",
+  "name": "Web Traffic & SEO Specialist",
+  "version": "1.0.0",
+  "author": "@kudo",
+  "description": "Standard operating procedure for web traffic analysis, technical SEO auditing, search engine indexation footprinting, backlink discovery, and Core Web Vitals profiling",
+  "category": "General",
+  "icon": "🧠",
+  "shard": "index/we/b_/web_traffic_seo_auditor.json",
+  "source_path": "skills/we/web_traffic_seo_auditor",
+  "updated_at": "2026-10-19T14:42:35.205Z"
+}
