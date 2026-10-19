@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "qc_zero_corner_verifier",
+      "name": "qc_zero_corner_verifier",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Autonomous UI & CSS QC verifier",
+      "shard": "index/qc/_z/qc_zero_corner_verifier.json"
+    }
+  ]
+}

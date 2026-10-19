@@ -32,9 +32,21 @@
       "name": "Reverse Engineering Assistant (REA)",
       "shard": "index/3/r/rea.json",
       "source_path": "skills/re/rea"
+    },
+    {
+      "id": "qc_zero_corner_verifier",
+      "name": "qc_zero_corner_verifier",
+      "version": "1.0.0",
+      "author": "@kudo",
+      "description": "Autonomous UI & CSS QC verifier",
+      "category": "General",
+      "icon": "🧠",
+      "shard": "index/qc/_z/qc_zero_corner_verifier.json",
+      "source_path": "skills/qc/qc_zero_corner_verifier",
+      "updated_at": "2026-10-19T14:41:58.609Z"
     }
   ],
   "total_skills": 0,
-  "updated_at": "2026-10-15 11:51:41",
+  "updated_at": "2026-10-19T14:41:58.609Z",
   "version": "2.0.0"
 }
