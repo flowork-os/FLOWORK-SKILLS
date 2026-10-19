@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "canvas_motion_craftsman",
+      "name": "canvas_motion_craftsman",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Sovereign runbook for purposeful micro-interactions, smooth CSS transitions, toast/modal entrance animations, and zero-jank UI",
+      "shard": "index/ca/nv/canvas_motion_craftsman.json"
+    }
+  ]
+}

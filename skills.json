@@ -32,9 +32,21 @@
       "name": "Reverse Engineering Assistant (REA)",
       "shard": "index/3/r/rea.json",
       "source_path": "skills/re/rea"
+    },
+    {
+      "id": "canvas_motion_craftsman",
+      "name": "canvas_motion_craftsman",
+      "version": "1.0.0",
+      "author": "@kudo",
+      "description": "Sovereign runbook for purposeful micro-interactions, smooth CSS transitions, toast/modal entrance animations, and zero-jank UI",
+      "category": "General",
+      "icon": "🧠",
+      "shard": "index/ca/nv/canvas_motion_craftsman.json",
+      "source_path": "skills/ca/canvas_motion_craftsman",
+      "updated_at": "2026-10-19T14:41:37.919Z"
     }
   ],
   "total_skills": 0,
-  "updated_at": "2026-10-15 11:51:41",
+  "updated_at": "2026-10-19T14:41:37.919Z",
   "version": "2.0.0"
 }
