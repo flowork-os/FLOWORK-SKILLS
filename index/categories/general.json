@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "network_pentest_recon",
+      "name": "network_pentest_recon",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Sovereign runbook for ethical network reconnaissance, defensive port footprinting, HTTP security header auditing, CORS probing, and SSRF detection",
+      "shard": "index/ne/tw/network_pentest_recon.json"
+    }
+  ]
+}
