@@ -1,0 +1,12 @@
+{
+  "id": "distinctive_ui_stylist",
+  "name": "distinctive_ui_stylist",
+  "version": "1.0.0",
+  "author": "@kudo",
+  "description": "Sovereign runbook for distinctive purposeful UI design, typography scales, anti-AI-slop layout, and visual hierarchy",
+  "category": "General",
+  "icon": "🧠",
+  "shard": "index/di/st/distinctive_ui_stylist.json",
+  "source_path": "skills/di/distinctive_ui_stylist",
+  "updated_at": "2026-10-19T14:41:48.800Z"
+}

@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "distinctive_ui_stylist",
+      "name": "distinctive_ui_stylist",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Sovereign runbook for distinctive purposeful UI design, typography scales, anti-AI-slop layout, and visual hierarchy",
+      "shard": "index/di/st/distinctive_ui_stylist.json"
+    }
+  ]
+}
