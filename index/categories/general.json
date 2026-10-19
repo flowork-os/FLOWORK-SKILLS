@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "system_vitals_auditor",
+      "name": "system_vitals_auditor",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Sovereign runbook for inspecting host metrics, RAM/CPU load, disk capacity, and listening network ports",
+      "shard": "index/sy/st/system_vitals_auditor.json"
+    }
+  ]
+}
