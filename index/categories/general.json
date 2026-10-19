@@ -1,0 +1,14 @@
+{
+  "category": "general",
+  "total_items": 1,
+  "items": [
+    {
+      "id": "beat_synced_video_director",
+      "name": "beat_synced_video_director",
+      "category": "General",
+      "version": "1.0.0",
+      "description": "Sovereign runbook for beat-synced visual prompts, high-retention 2-second hook framework, bass-drop visual explosions, and rhythm choreography",
+      "shard": "index/be/at/beat_synced_video_director.json"
+    }
+  ]
+}

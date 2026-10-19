@@ -32,9 +32,21 @@
       "name": "Reverse Engineering Assistant (REA)",
       "shard": "index/3/r/rea.json",
       "source_path": "skills/re/rea"
+    },
+    {
+      "id": "beat_synced_video_director",
+      "name": "beat_synced_video_director",
+      "version": "1.0.0",
+      "author": "@kudo",
+      "description": "Sovereign runbook for beat-synced visual prompts, high-retention 2-second hook framework, bass-drop visual explosions, and rhythm choreography",
+      "category": "General",
+      "icon": "🧠",
+      "shard": "index/be/at/beat_synced_video_director.json",
+      "source_path": "skills/be/beat_synced_video_director",
+      "updated_at": "2026-10-19T14:41:32.540Z"
     }
   ],
   "total_skills": 0,
-  "updated_at": "2026-10-15 11:51:41",
+  "updated_at": "2026-10-19T14:41:32.540Z",
   "version": "2.0.0"
 }
